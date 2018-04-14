@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sat, 14 Apr 2018 00:17:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-03-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 30.8–40.9%&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 6.0–11.9%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 20.0–29.1%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 8.2–14.9%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 1.6–5.3%&lt;/li&gt;&lt;li&gt;No sirds Latvijai (*): 0.6–3.4%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0.8–3.8%&lt;/li&gt;&lt;li&gt;Vienoti Latvijai (*): 0.2–2.1%&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (ALDE): 0.5–3.0%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 4.3–9.6%&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 1.8–5.7%&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 1.0–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-03-31-SKDS.png"
+        length="371366"
+        type="image/png"/>
+      <pubDate>Sat, 14 Apr 2018 00:17:00 +0200</pubDate>
+      <dc:date>2018-04-14T00:17:00.477449+02:00</dc:date>
+    </item>
+    <dc:date>2018-04-14T00:17:00.477449+02:00</dc:date>
+  </channel>
+</rss>
