@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | V | NA | SDPS | ZZS | LKS | LRA | LA | NSL | VL | JKP | KPV | PAR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–10% <br> 1 | 11–16% <br> 1 | 33–41% <br> 4 | 17–24% <br> 2 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 4–8% <br> 0 | 3–6% <br> 0 | 2–4% <br> 0 |
-| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 1 | 11–16% <br> 1 | 33–41% <br> 4 | 17–24% <br> 2 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 4–8% <br> 0 | 3–6% <br> 0 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 6–10% <br> 1 | 11–16% <br> 1 | 33–41% <br> 3–4 | 17–24% <br> 2 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 4–8% <br> 0–1 | 3–6% <br> 0 | 2–4% <br> 0 |
+| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 1 | 11–16% <br> 1 | 33–41% <br> 3–4 | 17–24% <br> 2 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 4–8% <br> 0–1 | 3–6% <br> 0 | 2–4% <br> 0 |
 | 24 May 2014 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
