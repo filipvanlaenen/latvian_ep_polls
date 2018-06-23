@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 Jun 2018 20:43:40 +0200</pubDate>
+    <pubDate>Sat, 23 Jun 2018 19:28:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for TV3 Latvija, 1–31 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-05-31-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 19.9–26.0%&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 6.8–11.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 20.9–27.2%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.5–15.4%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 3.2–6.3%&lt;/li&gt;&lt;li&gt;No sirds Latvijai (*): 1.9–4.5%&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (ALDE): 1.6–3.9%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 6.7–10.8%&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 3.7–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-05-31-Norstat.png"
+        length="309339"
+        type="image/png"/>
+      <pubDate>Sat, 23 Jun 2018 19:28:18 +0200</pubDate>
+      <dc:date>2018-06-23T19:28:18.422847+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-04-30-SKDS.html#seats</link>
@@ -129,6 +139,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-06-05T20:43:40.185814+02:00</dc:date>
+    <dc:date>2018-06-23T19:28:18.422847+02:00</dc:date>
   </channel>
 </rss>
