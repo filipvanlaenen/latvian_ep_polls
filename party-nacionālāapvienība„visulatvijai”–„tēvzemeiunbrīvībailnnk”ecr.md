@@ -10,7 +10,8 @@ Last result: **14.2%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 8.8–13.9% | 8.3–14.5% | 7.9–14.9% | 7.2–15.9% |
+| N/A | [Poll Average](average.html) | 11.2% | 8.5–13.9% | 8.0–14.5% | 7.6–14.9% | 6.9–15.9% |
+| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.4% | 8.0–11.1% | 7.6–11.6% | 7.3–12.0% | 6.7–12.9% |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.7% | 8.3–11.3% | 7.9–11.8% | 7.6–12.2% | 7.0–13.1% |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.9% | 10.3–13.8% | 9.9–14.3% | 9.5–14.8% | 8.8–15.7% |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 12.7% | 11.2–14.5% | 10.8–15.0% | 10.5–15.4% | 9.8–16.2% |
@@ -25,13 +26,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 1.0% | 99.9% |  |
-| 7.5–8.5% | 6% | 98.9% |  |
-| 8.5–9.5% | 15% | 93% |  |
-| 9.5–10.5% | 17% | 78% |  |
-| 10.5–11.5% | 15% | 61% | Median |
-| 11.5–12.5% | 16% | 46% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 2% | 99.8% |  |
+| 7.5–8.5% | 8% | 98% |  |
+| 8.5–9.5% | 16% | 89% |  |
+| 9.5–10.5% | 15% | 74% |  |
+| 10.5–11.5% | 13% | 59% | Median |
+| 11.5–12.5% | 16% | 45% |  |
 | 12.5–13.5% | 16% | 30% |  |
 | 13.5–14.5% | 10% | 14% | Last Result |
 | 14.5–15.5% | 3% | 4% |  |
@@ -49,6 +51,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 1 | 1 | 1–2 | 1–2 | 1–2 |
