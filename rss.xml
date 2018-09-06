@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 28 Aug 2018 22:10:48 +0200</pubDate>
+    <pubDate>Thu, 06 Sep 2018 19:12:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by FACTUM, 22–28 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-28-FACTUM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 19.8–24.3%&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 5.8–8.5%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 9.4–12.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.3–13.8%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 11.3–14.9%&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 13.2–17.1%&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 9.4–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-28-FACTUM.png"
+        length="275250"
+        type="image/png"/>
+      <pubDate>Thu, 06 Sep 2018 18:59:24 +0200</pubDate>
+      <dc:date>2018-09-06T18:59:24.792064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FACTUM, 20–26 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-26-FACTUM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 18.5–22.8%&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 5.6–8.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 10.2–13.6%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.2–13.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 1.3–2.8%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 1.3–2.8%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 10.2–13.6%&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 14.7–18.7%&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 9.3–12.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-26-FACTUM.png"
+        length="278374"
+        type="image/png"/>
+      <pubDate>Thu, 06 Sep 2018 19:12:39 +0200</pubDate>
+      <dc:date>2018-09-06T19:12:39.659961+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-23-SKDS.html</link>
@@ -249,6 +269,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-08-28T22:10:48.192968+02:00</dc:date>
+    <dc:date>2018-09-06T19:12:39.659961+02:00</dc:date>
   </channel>
 </rss>
