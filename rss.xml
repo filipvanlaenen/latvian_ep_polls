@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Sep 2018 15:50:02 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 20:45:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by FACTUM, 22–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-28-FACTUM.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-23-SKDS.png"
         length="323145"
         type="image/png"/>
-      <pubDate>Sat, 25 Aug 2018 09:55:24 +0200</pubDate>
-      <dc:date>2018-08-25T09:55:24.288758+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 20:45:34 +0200</pubDate>
+      <dc:date>2018-09-08T20:45:34.719121+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FACTUM, 13–19 August 2018 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-07-23-FACTUM.png"
         length="290868"
         type="image/png"/>
-      <pubDate>Tue, 28 Aug 2018 22:10:48 +0200</pubDate>
-      <dc:date>2018-08-28T22:10:48.192968+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 20:34:30 +0200</pubDate>
+      <dc:date>2018-09-08T20:34:30.566296+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2018 – Seat Projections for the Parties</title>
@@ -269,6 +269,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-09-08T15:50:02.757538+02:00</dc:date>
+    <dc:date>2018-09-08T20:45:34.719121+02:00</dc:date>
   </channel>
 </rss>
