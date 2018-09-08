@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 06 Sep 2018 19:12:39 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 15:50:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by FACTUM, 22–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-28-FACTUM.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-28-FACTUM.png"
         length="275250"
         type="image/png"/>
-      <pubDate>Thu, 06 Sep 2018 18:59:24 +0200</pubDate>
-      <dc:date>2018-09-06T18:59:24.792064+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 15:15:22 +0200</pubDate>
+      <dc:date>2018-09-08T15:15:22.437101+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FACTUM, 20–26 August 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-26-FACTUM.png"
         length="278374"
         type="image/png"/>
-      <pubDate>Thu, 06 Sep 2018 19:12:39 +0200</pubDate>
-      <dc:date>2018-09-06T19:12:39.659961+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 15:06:26 +0200</pubDate>
+      <dc:date>2018-09-08T15:06:26.954045+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM.png"
         length="292547"
         type="image/png"/>
-      <pubDate>Tue, 28 Aug 2018 21:53:57 +0200</pubDate>
-      <dc:date>2018-08-28T21:53:57.66455+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 15:50:02 +0200</pubDate>
+      <dc:date>2018-09-08T15:50:02.757538+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FACTUM, 17–23 July 2018 – Voting Intentions</title>
@@ -269,6 +269,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-09-06T19:12:39.659961+02:00</dc:date>
+    <dc:date>2018-09-08T15:50:02.757538+02:00</dc:date>
   </channel>
 </rss>
