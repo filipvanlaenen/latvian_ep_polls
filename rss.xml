@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Sep 2018 11:03:05 +0200</pubDate>
+    <pubDate>Sun, 09 Sep 2018 14:02:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by FACTUM, 22–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-28-FACTUM.html</link>
@@ -60,14 +60,34 @@
       <dc:date>2018-09-09T11:03:05.022441+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FACTUM, 13–19 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 0 seats&lt;/li&gt;&lt;li&gt;No sirds Latvijai (*): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 1 seats&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM-seats.png"
+        length="186964"
+        type="image/png"/>
+      <pubDate>Sun, 09 Sep 2018 14:02:09 +0200</pubDate>
+      <dc:date>2018-09-09T14:02:09.454577+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FACTUM, 13–19 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM-coalitions-seats.png"
+        length="137497"
+        type="image/png"/>
+      <pubDate>Sun, 09 Sep 2018 14:02:09 +0200</pubDate>
+      <dc:date>2018-09-09T14:02:09.454577+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FACTUM, 13–19 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 19.0–23.2%&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 4.9–7.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 10.4–13.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.4–13.8%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 3.1–5.1%&lt;/li&gt;&lt;li&gt;No sirds Latvijai (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 8.5–11.6%&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 14.2–18.0%&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 8.5–11.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-19-FACTUM.png"
         length="292547"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 15:50:02 +0200</pubDate>
-      <dc:date>2018-09-08T15:50:02.757538+02:00</dc:date>
+      <pubDate>Sun, 09 Sep 2018 14:02:09 +0200</pubDate>
+      <dc:date>2018-09-09T14:02:09.454577+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FACTUM, 17–23 July 2018 – Voting Intentions</title>
@@ -289,6 +309,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-09-09T11:03:05.022441+02:00</dc:date>
+    <dc:date>2018-09-09T14:02:09.454577+02:00</dc:date>
   </channel>
 </rss>
