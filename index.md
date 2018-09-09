@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | V | NA | SDPS | ZZS | LKS | LRA | LA | NSL | VL | JKP | KPV | PAR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–10% <br> 0–1 | 8–15% <br> 1 | 20–36% <br> 2–3 | 10–26% <br> 1–2 | 1–4% <br> 0 | 2–6% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 3–14% <br> 0–1 | 4–16% <br> 0–1 | 4–12% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 6–10% <br> 1 | 8–15% <br> 1 | 20–36% <br> 2–3 | 10–26% <br> 1–2 | 1–4% <br> 0 | 2–6% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 3–14% <br> 0–1 | 4–16% <br> 0–1 | 4–12% <br> 0–1 |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 6–9% <br> 1 | 10–14% <br> 1 | 20–24% <br> 2 | 9–13% <br> 1 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 1 | 13–17% <br> 1 | 9–13% <br> 1 |
-| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 0–1 | 7–12% <br> 1 | 29–37% <br> 2–3 | 15–21% <br> 1–2 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | 9–14% <br> 1 | 3–7% <br> 0–1 |
+| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 1 | 7–12% <br> 1 | 29–37% <br> 2–3 | 15–21% <br> 1–2 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | 9–14% <br> 1 | 3–7% <br> 0–1 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 7–11% <br> 1 | 10–15% <br> 1–2 | 20–26% <br> 2–3 | 21–27% <br> 2–3 | N/A <br> N/A | 3–6% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 7–11% <br> 1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 |
 | 24 May 2014 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
