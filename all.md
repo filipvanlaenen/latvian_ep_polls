@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | NA | SDPS | ZZS | LKS | LRA | LA | NSL | VL | JKP | KPV | PAR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 6–8% <br> 1 | 11–14% <br> 1 | 22–26% <br> 2 | 8–10% <br> 1 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 1 | 11–14% <br> 1 | 10–12% <br> 1 |
+| [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 6–8% <br> 1 | 10–13% <br> 1 | 21–25% <br> 2 | 9–11% <br> 1 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–16% <br> 1 | 11–14% <br> 1 | 10–13% <br> 1 |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 6–9% <br> 1 | 10–14% <br> 1 | 20–24% <br> 2 | 9–13% <br> 1 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 1 | 13–17% <br> 1 | 9–13% <br> 1 |
 | [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 6–8% <br> 0–1 | 10–14% <br> 1 | 19–23% <br> 1–2 | 10–14% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 1 | 15–19% <br> 1–2 | 9–13% <br> 1 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 1 | 7–12% <br> 1 | 29–37% <br> 2–3 | 15–21% <br> 1–2 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | 9–14% <br> 1 | 3–7% <br> 0–1 |
