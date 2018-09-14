@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 13 Sep 2018 20:36:20 +0200</pubDate>
+    <pubDate>Fri, 14 Sep 2018 20:57:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by FACTUM, 27 August–2 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-02-FACTUM.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-08-31-FACTUM.png"
         length="272575"
         type="image/png"/>
-      <pubDate>Thu, 13 Sep 2018 20:32:33 +0200</pubDate>
-      <dc:date>2018-09-13T20:32:33.605901+02:00</dc:date>
+      <pubDate>Fri, 14 Sep 2018 20:57:11 +0200</pubDate>
+      <dc:date>2018-09-14T20:57:11.184701+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FACTUM, 22–28 August 2018 – Seat Projections for the Parties</title>
@@ -389,6 +389,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-09-13T20:36:20.044648+02:00</dc:date>
+    <dc:date>2018-09-14T20:57:11.184701+02:00</dc:date>
   </channel>
 </rss>
