@@ -407,8 +407,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 45% | 100% | Last Result |
 | 1 | 55% | 55% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 2 | 0% | 0% |  |
 
 ### Kam pieder valsts? (*)
 
@@ -483,8 +482,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 32% | 100% |  |
 | 2 | 18% | 68% |  |
 | 3 | 51% | 51% | Median |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% | Majority |
+| 4 | 0% | 0% |  |
 
 ### Zaļo un Zemnieku savienība (ALDE) – Latvijas attīstībai (ALDE)
 
@@ -528,3 +526,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 2
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 1,572,864
++ **Error estimate:** 2.94%
