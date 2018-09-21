@@ -12,6 +12,7 @@ Last result: **8.3%** (General Election of 24 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.6% | 9.3–19.2% | 9.0–19.9% | 8.7–20.6% | 8.3–21.7% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 15.1% | 12.7–18.1% | 12.0–19.0% | 11.4–19.7% | 10.3–21.2% |
+| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 17.3% | 15.5–19.2% | 15.0–19.8% | 14.6–20.3% | 13.8–21.2% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.2% |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
@@ -65,6 +66,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1 | 1 | 1 | 1–2 | 1–2 |
+| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
