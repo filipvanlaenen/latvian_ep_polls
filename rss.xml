@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 17 Sep 2018 19:40:15 +0200</pubDate>
+    <pubDate>Fri, 21 Sep 2018 19:15:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat, 10–14 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-14-Norstat.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 16 Sep 2018 19:59:41 +0200</pubDate>
       <dc:date>2018-09-16T19:59:41.225447+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Delfi, 8 August–12 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-12-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 0 seats&lt;/li&gt;&lt;li&gt;No sirds Latvijai (*): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 1 seats&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-12-KantarTNS-seats.png"
+        length="221866"
+        type="image/png"/>
+      <pubDate>Fri, 21 Sep 2018 19:15:54 +0200</pubDate>
+      <dc:date>2018-09-21T19:15:54.929519+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Delfi, 8 August–12 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-12-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-12-KantarTNS-coalitions-seats.png"
+        length="169175"
+        type="image/png"/>
+      <pubDate>Fri, 21 Sep 2018 19:15:54 +0200</pubDate>
+      <dc:date>2018-09-21T19:15:54.929519+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Delfi, 8 August–12 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-12-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 23.0–29.6%&lt;/li&gt;&lt;li&gt;Vienotība (EPP): 4.1–7.5%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (ALDE): 14.6–20.3%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 5.8–9.8%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 0.3–1.7%&lt;/li&gt;&lt;li&gt;No sirds Latvijai (*): 0.2–1.5%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0.3–1.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (*): 7.4–11.8%&lt;/li&gt;&lt;li&gt;Kam pieder valsts? (*): 13.8–19.3%&lt;/li&gt;&lt;li&gt;Kustība Par! (*): 5.3–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2018-09-12-KantarTNS.png"
+        length="310407"
+        type="image/png"/>
+      <pubDate>Fri, 21 Sep 2018 19:15:54 +0200</pubDate>
+      <dc:date>2018-09-21T19:15:54.929519+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FACTUM, 31 August–9 September 2018 – Seat Projections for the Parties</title>
@@ -519,6 +549,6 @@
       <pubDate>Sat, 14 Apr 2018 13:07:20 +0200</pubDate>
       <dc:date>2018-04-14T13:07:20.570428+02:00</dc:date>
     </item>
-    <dc:date>2018-09-17T19:40:15.762186+02:00</dc:date>
+    <dc:date>2018-09-21T19:15:54.929519+02:00</dc:date>
   </channel>
 </rss>
