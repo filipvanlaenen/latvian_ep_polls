@@ -29,7 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
 + **JKP:** Jaunā konservatīvā partija (*)
-+ **KPV:** Kam pieder valsts? (*)
++ **KPV:** KPV LV (*)
 + **PAR:** Kustība Par! (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
@@ -52,7 +52,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0.0% | 2.8% | 2.0–3.8% |1.9–4.1% | 1.7–4.4% | 1.4–5.0% |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jaunā-konservatīvā-partija-(*)">Jaunā konservatīvā partija (*)</a> | 0.0% | 10.6% | 3.9–15.4% |3.5–15.8% | 3.3–16.1% | 2.8–16.7% |
-| <a href="#kam-pieder-valsts?-(*)">Kam pieder valsts? (*)</a> | 0.0% | 12.4% | 10.6–13.7% |10.1–14.1% | 9.6–14.4% | 8.9–15.2% |
+| <a href="#kpv-lv-(*)">KPV LV (*)</a> | 0.0% | 12.4% | 10.6–13.7% |10.1–14.1% | 9.6–14.4% | 8.9–15.2% |
 | <a href="#kustība-par!-(*)">Kustība Par! (*)</a> | 0.0% | 9.1% | 4.2–12.5% |3.8–12.8% | 3.6–13.1% | 3.1–13.7% |
 
 ### Vienotība (EPP)
@@ -239,9 +239,9 @@ Only polls for which at least the sample size has been published are included in
 | 16.5–17.5% | 0.8% | 0.9% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
-### Kam pieder valsts? (*)
+### KPV LV (*)
 
-*For a full overview of the results for this party, see the [Kam pieder valsts? (*)](party-kampiedervalsts.html) page.*
+*For a full overview of the results for this party, see the [KPV LV (*)](party-kpvlv.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -321,7 +321,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jaunā-konservatīvā-partija-(*)">Jaunā konservatīvā partija (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#kam-pieder-valsts?-(*)">Kam pieder valsts? (*)</a> | 0 | 1 | 1 |1 | 1 | 1 |
+| <a href="#kpv-lv-(*)">KPV LV (*)</a> | 0 | 1 | 1 |1 | 1 | 1 |
 | <a href="#kustība-par!-(*)">Kustība Par! (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 
 ### Vienotība (EPP)
@@ -410,11 +410,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
-### Kam pieder valsts? (*)
+### KPV LV (*)
 
-*For a full overview of the results for this party, see the [Kam pieder valsts? (*)](party-kampiedervalsts.html) page.*
+*For a full overview of the results for this party, see the [KPV LV (*)](party-kpvlv.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-kampiedervalsts.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-kpvlv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -455,7 +455,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Latvijas Reģionu apvienība (*) – Jaunā konservatīvā partija (*) – Kam pieder valsts? (*) – Kustība Par! (*) – No sirds Latvijai (*) – Vienoti Latvijai (*) | 0 | 3 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| Latvijas Reģionu apvienība (*) – Jaunā konservatīvā partija (*) – KPV LV (*) – Kustība Par! (*) – No sirds Latvijai (*) – Vienoti Latvijai (*) | 0 | 3 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
 | Zaļo un Zemnieku savienība (ALDE) – Latvijas attīstībai (ALDE) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Vienotība (EPP) | 4 | 1 | 0% | 1 | 1 | 1 | 0–1 |
@@ -473,7 +473,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% | Majority |
 
-### Latvijas Reģionu apvienība (*) – Jaunā konservatīvā partija (*) – Kam pieder valsts? (*) – Kustība Par! (*) – No sirds Latvijai (*) – Vienoti Latvijai (*)
+### Latvijas Reģionu apvienība (*) – Jaunā konservatīvā partija (*) – KPV LV (*) – Kustība Par! (*) – No sirds Latvijai (*) – Vienoti Latvijai (*)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lra–jkp–kpv–par–nsl–vl.png "Seats Probability Mass Function")
 
