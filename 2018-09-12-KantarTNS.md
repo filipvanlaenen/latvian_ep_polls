@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | 13.0% | 26.2% | 24.1–28.4% |23.5–29.1% |23.0–29.6% |22.0–30.7% |
 | Zaļo un Zemnieku savienība (ALDE) | 8.3% | 17.3% | 15.5–19.2% |15.0–19.8% |14.6–20.3% |13.8–21.2% |
-| Kam pieder valsts? (*) | 0.0% | 16.4% | 14.7–18.3% |14.2–18.9% |13.8–19.3% |13.0–20.3% |
+| KPV LV (*) | 0.0% | 16.4% | 14.7–18.3% |14.2–18.9% |13.8–19.3% |13.0–20.3% |
 | Jaunā konservatīvā partija (*) | 0.0% | 9.4% | 8.1–10.9% |7.7–11.4% |7.4–11.8% |6.8–12.6% |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | 14.2% | 7.6% | 6.4–9.1% |6.1–9.5% |5.8–9.8% |5.3–10.6% |
 | Kustība Par! (*) | 0.0% | 7.0% | 5.9–8.4% |5.6–8.8% |5.3–9.2% |4.8–9.9% |
@@ -33,7 +33,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā Partija “Saskaņa” (S&D)</a> | 1 | 2 | 2 |2 |2 |2–3 |
 | <a href="#zaļo-un-zemnieku-savienība-(alde)">Zaļo un Zemnieku savienība (ALDE)</a> | 1 | 1 | 1 |1–2 |1–2 |1–2 |
-| <a href="#kam-pieder-valsts?-(*)">Kam pieder valsts? (*)</a> | 0 | 1 | 1 |1 |1–2 |1–2 |
+| <a href="#kpv-lv-(*)">KPV LV (*)</a> | 0 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#jaunā-konservatīvā-partija-(*)">Jaunā konservatīvā partija (*)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 1 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#kustība-par!-(*)">Kustība Par! (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -67,11 +67,11 @@
 | 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
-### Kam pieder valsts? (*)
+### KPV LV (*)
 
-*For a full overview of the results for this party, see the [Kam pieder valsts? (*)](party-kampiedervalsts.html) page.*
+*For a full overview of the results for this party, see the [KPV LV (*)](party-kpvlv.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-seats-pmf-kampiedervalsts.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-seats-pmf-kpvlv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

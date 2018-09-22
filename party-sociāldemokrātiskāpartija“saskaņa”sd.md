@@ -11,6 +11,7 @@ Last result: **13.0%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.4% | 21.8–34.8% | 21.3–35.7% | 21.0–36.5% | 20.3–37.8% |
+| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.7–23.4% | 18.0–24.2% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 23.2% | 20.2–26.6% | 19.3–27.6% | 18.6–28.4% | 17.3–30.1% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 26.2% | 24.1–28.4% | 23.5–29.1% | 23.0–29.6% | 22.0–30.7% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 21.0% | 19.6–22.5% | 19.2–23.0% | 18.9–23.3% | 18.2–24.1% |
@@ -75,6 +76,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 2 | 2 | 2 | 2 | 2 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 2 | 2 | 2 | 2 | 2–3 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 2 | 2 | 2 | 2 | 2 |
