@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 4.3–14.4% | 3.9–15.0% | 3.5–15.4% | 3.0–16.3% |
+| N/A | [Poll Average](average.html) | 9.8% | 4.3–16.4% | 3.9–16.8% | 3.5–17.2% | 3.0–17.8% |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 16.2% | 15.2–17.2% | 15.0–17.5% | 14.7–17.7% | 14.3–18.2% |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 14.0% | 12.8–15.4% | 12.4–15.8% | 12.1–16.1% | 11.6–16.8% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 10.2% | 8.2–12.8% | 7.7–13.6% | 7.2–14.3% | 6.3–15.6% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 9.4% | 8.1–10.9% | 7.7–11.4% | 7.4–11.8% | 6.8–12.6% |
@@ -49,13 +50,14 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 13% | 66% |  |
 | 9.5–10.5% | 13% | 53% | Median |
 | 10.5–11.5% | 8% | 41% |  |
-| 11.5–12.5% | 6% | 32% |  |
-| 12.5–13.5% | 8% | 27% |  |
-| 13.5–14.5% | 10% | 18% |  |
-| 14.5–15.5% | 6% | 8% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.3% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 11.5–12.5% | 4% | 32% |  |
+| 12.5–13.5% | 2% | 28% |  |
+| 13.5–14.5% | 1.2% | 26% |  |
+| 14.5–15.5% | 5% | 25% |  |
+| 15.5–16.5% | 12% | 20% |  |
+| 16.5–17.5% | 7% | 8% |  |
+| 17.5–18.5% | 1.0% | 1.0% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,6 +69,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1 | 1 | 1 | 1 | 0–1 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1 | 1 | 1 | 1 | 1 |
