@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 4.3–16.4% | 3.9–16.8% | 3.5–17.2% | 3.0–17.8% |
+| N/A | [Poll Average](average.html) | 10.0% | 7.8–16.4% | 7.4–16.8% | 7.0–17.2% | 6.3–17.8% |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 16.2% | 15.2–17.2% | 15.0–17.5% | 14.7–17.7% | 14.3–18.2% |
+| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.4% | 7.1–10.0% | 6.8–10.5% | 6.5–10.9% | 5.9–11.7% |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 14.0% | 12.8–15.4% | 12.4–15.8% | 12.1–16.1% | 11.6–16.8% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 10.2% | 8.2–12.8% | 7.7–13.6% | 7.2–14.3% | 6.3–15.6% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 9.4% | 8.1–10.9% | 7.7–11.4% | 7.4–11.8% | 6.8–12.6% |
@@ -40,17 +41,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 3% | 99.9% |  |
-| 3.5–4.5% | 10% | 97% |  |
-| 4.5–5.5% | 9% | 87% |  |
-| 5.5–6.5% | 3% | 78% |  |
-| 6.5–7.5% | 2% | 75% |  |
-| 7.5–8.5% | 7% | 73% |  |
-| 8.5–9.5% | 13% | 66% |  |
-| 9.5–10.5% | 13% | 53% | Median |
-| 10.5–11.5% | 8% | 41% |  |
-| 11.5–12.5% | 4% | 32% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 0.9% | 99.9% |  |
+| 6.5–7.5% | 6% | 99.0% |  |
+| 7.5–8.5% | 15% | 93% |  |
+| 8.5–9.5% | 20% | 78% |  |
+| 9.5–10.5% | 16% | 58% | Median |
+| 10.5–11.5% | 9% | 42% |  |
+| 11.5–12.5% | 4% | 33% |  |
 | 12.5–13.5% | 2% | 28% |  |
 | 13.5–14.5% | 1.2% | 26% |  |
 | 14.5–15.5% | 5% | 25% |  |
@@ -68,8 +69,9 @@ Last result: **0** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
+| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 0–1 | 0–1 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1 | 1 | 1 | 1 | 0–1 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1 | 1 | 1 | 1 | 1 |
@@ -98,8 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 77% | 77% | Median |
+| 0 | 1.2% | 100% | Last Result |
+| 1 | 98.8% | 98.8% | Median |
 | 2 | 0% | 0% |  |
 
 
