@@ -10,13 +10,14 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sociāldemokrātiskā Partija “Saskaņa” (S&D) | 13.0% | 26.2% | 24.1–28.4% |23.5–29.1% |23.0–29.6% |22.0–30.7% |
-| Zaļo un Zemnieku savienība (Greens/EFA) | N/A | 17.3% | 15.5–19.2% |15.0–19.8% |14.6–20.3% |13.8–21.2% |
-| KPV LV (*) | 0.0% | 16.4% | 14.7–18.3% |14.2–18.9% |13.8–19.3% |13.0–20.3% |
-| Jaunā konservatīvā partija (*) | 0.0% | 9.4% | 8.1–10.9% |7.7–11.4% |7.4–11.8% |6.8–12.6% |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | 14.2% | 7.6% | 6.4–9.1% |6.1–9.5% |5.8–9.8% |5.3–10.6% |
-| Kustība Par! (*) | 0.0% | 7.0% | 5.9–8.4% |5.6–8.8% |5.3–9.2% |4.8–9.9% |
+| Sociāldemokrātiskā Partija “Saskaņa” (S&D) | 13.0% | 25.7% | 24.1–28.4% |23.5–29.1% |23.0–29.6% |22.0–30.7% |
+| Zaļo un Zemnieku savienība (Greens/EFA) | N/A | 17.0% | 15.5–19.2% |15.0–19.8% |14.6–20.3% |13.8–21.2% |
+| KPV LV (*) | 0.0% | 16.1% | 14.7–18.3% |14.2–18.9% |13.8–19.3% |13.0–20.3% |
+| Jaunā konservatīvā partija (*) | 0.0% | 9.2% | 8.1–10.9% |7.7–11.4% |7.4–11.8% |6.8–12.6% |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | 14.2% | 7.5% | 6.4–9.1% |6.1–9.5% |5.8–9.8% |5.3–10.6% |
+| Kustība Par! (*) | 0.0% | 6.9% | 5.9–8.4% |5.6–8.8% |5.3–9.2% |4.8–9.9% |
 | Vienotība (EPP) | 46.2% | 5.6% | 4.6–6.8% |4.3–7.2% |4.1–7.5% |3.6–8.2% |
+| Progresīvie (*) | 0.0% | 1.3% | N/A |N/A |N/A |N/A |
 | Latvijas Reģionu apvienība (*) | 2.5% | 0.7% | 0.5–1.4% |0.4–1.5% |0.3–1.7% |0.2–2.1% |
 | Latvijas Krievu savienība (Greens/EFA) | 6.4% | 0.7% | 0.5–1.4% |0.4–1.5% |0.3–1.7% |0.2–2.1% |
 | No sirds Latvijai (*) | 0.0% | 0.6% | 0.4–1.2% |0.3–1.3% |0.2–1.5% |0.2–1.8% |
@@ -38,6 +39,7 @@
 | <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 1 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#kustība-par!-(*)">Kustība Par! (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#vienotība-(epp)">Vienotība (EPP)</a> | 4 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#progresīvie-(*)">Progresīvie (*)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#latvijas-reģionu-apvienība-(*)">Latvijas Reģionu apvienība (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0 | 0 | 0 |0 |0 |0 |
