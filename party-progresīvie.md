@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.7% | 1.4–2.9% |
-| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% |
-| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.9% | 1.1–2.7% | 1.0–3.0% | 0.8–3.4% | 0.6–4.2% |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 2.0% | 1.7–2.4% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% |
+| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.9% | 1.4–2.9% | 1.2–3.1% | 1.1–3.4% | 0.9–3.9% |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 2.0% | N/A | N/A | N/A | N/A |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1.8% | N/A | N/A | N/A | N/A |
-| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1.3% | N/A | N/A | N/A | N/A |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1.8% | 1.1–3.2% | 0.9–3.6% | 0.8–4.0% | 0.5–4.9% |
+| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1.3% | 0.9–2.1% | 0.8–2.3% | 0.7–2.5% | 0.5–2.9% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 1.9% | N/A | N/A | N/A | N/A |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 2.9% | N/A | N/A | N/A | N/A |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 2.9% | N/A | N/A | N/A | N/A |
@@ -39,11 +39,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 92% | 97% | Median |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 28% | 99.7% |  |
+| 1.5–2.5% | 59% | 72% | Median |
+| 2.5–3.5% | 12% | 14% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,12 +56,12 @@ Last result: **0** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
-| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM |  |  |  |  |  |
-| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
+| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM |  |  |  |  |  |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat |  |  |  |  |  |
-| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi |  |  |  |  |  |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 0 | 0 | 0 | 0 | 0 |
+| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM |  |  |  |  |  |
@@ -82,4 +84,9 @@ Last result: **0** seats (General Election of 24 May 2014)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-progresīvie.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Progresīvie (*).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 
