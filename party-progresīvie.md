@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.1–3.2% | 1.0–3.4% | 0.8–3.6% | 0.6–4.2% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.2–3.2% | 1.0–3.4% | 0.8–3.6% | 0.6–4.2% |
+| [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.4–3.7% | 2.2–3.9% |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 2.0% | 1.7–2.4% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.9% | 1.4–2.9% | 1.2–3.1% | 1.1–3.4% | 0.9–3.9% |
@@ -41,9 +42,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 27% | 99.7% |  |
-| 1.5–2.5% | 38% | 73% | Median |
-| 2.5–3.5% | 32% | 35% |  |
+| 0.5–1.5% | 25% | 99.7% |  |
+| 1.5–2.5% | 40% | 74% | Median |
+| 2.5–3.5% | 31% | 34% |  |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -58,6 +59,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
