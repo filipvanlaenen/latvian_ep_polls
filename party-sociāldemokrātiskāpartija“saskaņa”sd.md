@@ -10,8 +10,9 @@ Last result: **13.0%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.9% | 20.3–26.9% | 19.8–27.7% | 19.3–28.3% | 18.1–29.6% |
-| [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 25.0% | 23.2–26.9% | 22.7–27.5% | 22.3–27.9% | 21.4–28.9% |
+| N/A | [Poll Average](average.html) | 24.3% | 20.3–27.9% | 19.8–28.7% | 19.3–29.4% | 18.1–30.8% |
+| [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 26.7% | 24.4–29.2% | 23.7–29.9% | 23.2–30.5% | 22.1–31.7% |
+| [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 25.5% | 23.4–27.7% | 22.8–28.3% | 22.3–28.9% | 21.4–30.0% |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 20.8% | 19.8–21.9% | 19.5–22.2% | 19.3–22.4% | 18.8–23.0% |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 19.2% | 18.2–20.3% | 17.9–20.6% | 17.7–20.8% | 17.2–21.4% |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 27.8% | 25.6–30.2% | 25.0–30.9% | 24.4–31.5% | 23.4–32.7% |
@@ -49,18 +50,19 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.6% | 99.7% |  |
 | 18.5–19.5% | 3% | 99.2% |  |
 | 19.5–20.5% | 10% | 97% |  |
-| 20.5–21.5% | 15% | 87% |  |
+| 20.5–21.5% | 14% | 87% |  |
 | 21.5–22.5% | 9% | 72% |  |
-| 22.5–23.5% | 9% | 63% |  |
-| 23.5–24.5% | 13% | 54% | Median |
-| 24.5–25.5% | 15% | 42% |  |
-| 25.5–26.5% | 13% | 27% |  |
-| 26.5–27.5% | 8% | 14% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 1.4% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 22.5–23.5% | 7% | 64% |  |
+| 23.5–24.5% | 9% | 57% | Median |
+| 24.5–25.5% | 12% | 48% |  |
+| 25.5–26.5% | 13% | 36% |  |
+| 26.5–27.5% | 11% | 24% |  |
+| 27.5–28.5% | 7% | 13% |  |
+| 28.5–29.5% | 4% | 6% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.5% | 0.7% |  |
+| 31.5–32.5% | 0.1% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -72,7 +74,8 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
-| [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2–3 | 2–3 |
+| [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2–3 | 2–3 |
+| [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 2 | 2 | 2 | 2 | 2 |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 2 | 2 | 2 | 2 | 1–2 |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -106,7 +109,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
 | 2 | 97% | 98% | Median |
-| 3 | 1.0% | 1.0% |  |
+| 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
 
