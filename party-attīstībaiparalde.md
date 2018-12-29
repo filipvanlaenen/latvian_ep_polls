@@ -24,15 +24,15 @@ Last result: **2.1%** (General Election of 24 May 2014)
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 10.7% | N/A | N/A | N/A | N/A |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 11.4% | N/A | N/A | N/A | N/A |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 10.7% | N/A | N/A | N/A | N/A |
-| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 10.4% | N/A | N/A | N/A | N/A |
+| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 10.4% | 9.4–11.6% | 9.2–11.9% | 8.9–12.2% | 8.5–12.8% |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.8% | 3.8–6.1% | 3.6–6.5% | 3.3–6.8% | 2.9–7.5% |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 9.7% | N/A | N/A | N/A | N/A |
-| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 11.2% | N/A | N/A | N/A | N/A |
+| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 11.2% | 10.3–12.4% | 10.0–12.7% | 9.7–13.0% | 9.3–13.5% |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.4% | N/A | N/A | N/A | N/A |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.1% | 4.1–6.5% | 3.8–6.9% | 3.6–7.2% | 3.2–7.9% |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 7.6% | 1.9–3.4% | 1.7–3.7% | 1.6–3.9% | 1.3–4.5% |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 7.6% | 6.4–9.0% | 6.1–9.4% | 5.8–9.7% | 5.3–10.5% |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.7% | N/A | N/A | N/A | N/A |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.3% | 2.5–4.5% | 2.2–4.9% | 2.1–5.2% | 1.8–5.8% |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.3% | 2.5–4.5% | 2.3–4.8% | 2.1–5.2% | 1.8–5.8% |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.4% | N/A | N/A | N/A | N/A |
 
@@ -81,13 +81,13 @@ Last result: **0** seats (General Election of 24 May 2014)
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM |  |  |  |  |  |
-| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM |  |  |  |  |  |
-| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 0 | 0 | 0 | 0 | 0 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
