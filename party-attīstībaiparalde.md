@@ -16,14 +16,14 @@ Last result: **2.1%** (General Election of 24 May 2014)
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 12.9% | 12.1–13.8% | 11.8–14.0% | 11.6–14.3% | 11.2–14.7% |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 11.1% | N/A | N/A | N/A | N/A |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.1% | 6.8–9.7% | 6.5–10.1% | 6.2–10.5% | 5.6–11.3% |
-| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 11.8% | N/A | N/A | N/A | N/A |
+| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 11.8% | 10.6–13.1% | 10.3–13.4% | 10.0–13.7% | 9.5–14.4% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7.7% | 6.0–10.1% | 5.5–10.8% | 5.2–11.4% | 4.5–12.7% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 6.9% | 5.8–8.3% | 5.5–8.7% | 5.2–9.0% | 4.7–9.7% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 8.8% | N/A | N/A | N/A | N/A |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 9.7% | N/A | N/A | N/A | N/A |
-| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 10.7% | N/A | N/A | N/A | N/A |
+| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 10.7% | 9.8–11.7% | 9.6–11.9% | 9.4–12.2% | 9.0–12.7% |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 11.4% | N/A | N/A | N/A | N/A |
-| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 10.7% | N/A | N/A | N/A | N/A |
+| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 10.7% | 9.7–11.9% | 9.4–12.2% | 9.1–12.5% | 8.7–13.0% |
 | [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 10.4% | 9.4–11.6% | 9.2–11.9% | 8.9–12.2% | 8.5–12.8% |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.8% | 3.8–6.1% | 3.6–6.5% | 3.3–6.8% | 2.9–7.5% |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 9.7% | N/A | N/A | N/A | N/A |
@@ -73,14 +73,14 @@ Last result: **0** seats (General Election of 24 May 2014)
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
-| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM |  |  |  |  |  |
-| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM |  |  |  |  |  |
-| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM |  |  |  |  |  |
