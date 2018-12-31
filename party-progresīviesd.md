@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 24 May 2014)
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1.8% | 1.1–3.2% | 0.9–3.6% | 0.8–4.0% | 0.5–4.9% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1.3% | 0.9–2.1% | 0.8–2.3% | 0.7–2.5% | 0.5–2.9% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.1–3.2% |
-| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 2.9% | N/A | N/A | N/A | N/A |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 2.9% | 2.5–3.5% | 2.4–3.6% | 2.3–3.8% | 2.1–4.1% |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 2.9% | 2.5–3.5% | 2.4–3.6% | 2.3–3.8% | 2.1–4.1% |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 2.9% | N/A | N/A | N/A | N/A |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.1–4.0% | 1.9–4.3% |
@@ -70,7 +70,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 0 | 0 | 0 | 0 | 0 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
-| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |

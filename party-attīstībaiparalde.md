@@ -20,7 +20,7 @@ Last result: **2.1%** (General Election of 24 May 2014)
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7.7% | 6.0–10.1% | 5.5–10.8% | 5.2–11.4% | 4.5–12.7% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 6.9% | 5.8–8.3% | 5.5–8.7% | 5.2–9.0% | 4.7–9.7% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 8.8% | 7.9–9.9% | 7.6–10.2% | 7.4–10.5% | 7.0–11.0% |
-| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 9.7% | N/A | N/A | N/A | N/A |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 9.7% | 8.9–10.6% | 8.7–10.9% | 8.5–11.1% | 8.1–11.6% |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 10.7% | 9.8–11.7% | 9.6–11.9% | 9.4–12.2% | 9.0–12.7% |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 11.4% | N/A | N/A | N/A | N/A |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 10.7% | 9.7–11.9% | 9.4–12.2% | 9.1–12.5% | 8.7–13.0% |
@@ -34,7 +34,7 @@ Last result: **2.1%** (General Election of 24 May 2014)
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.4–4.8% |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.3% | 2.5–4.5% | 2.3–4.8% | 2.1–5.2% | 1.8–5.8% |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.4% | N/A | N/A | N/A | N/A |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.4% | 1.8–3.5% | 1.6–3.8% | 1.5–4.1% | 1.2–4.6% |
 
 ### Probability Mass Function
 
@@ -77,7 +77,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
-| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM |  |  |  |  |  |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
@@ -91,7 +91,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
