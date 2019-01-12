@@ -10,7 +10,8 @@ Last result: **2.1%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 6.3–13.1% | 5.9–13.5% | 5.5–13.8% | 4.8–14.3% |
+| N/A | [Poll Average](average.html) | 9.4% | 6.9–13.3% | 6.3–13.6% | 5.8–13.9% | 4.9–14.4% |
+| [1–12 December 2018](2018-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.7% | 7.5–10.3% | 7.1–10.8% | 6.8–11.2% | 6.2–12.0% |
 | [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.9% | 8.4–11.7% | 8.0–12.2% | 7.7–12.6% | 7.1–13.5% |
 | [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.8% | 10.3–13.5% | 9.9–14.0% | 9.6–14.4% | 8.9–15.3% |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 12.9% | 12.1–13.8% | 11.8–14.0% | 11.6–14.3% | 11.2–14.7% |
@@ -45,17 +46,17 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% | Last Result |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 10% | 97% |  |
-| 6.5–7.5% | 16% | 87% |  |
-| 7.5–8.5% | 14% | 71% |  |
-| 8.5–9.5% | 12% | 57% | Median |
-| 9.5–10.5% | 10% | 45% |  |
-| 10.5–11.5% | 7% | 35% |  |
-| 11.5–12.5% | 10% | 28% |  |
-| 12.5–13.5% | 14% | 18% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 1.4% | 99.8% |  |
+| 5.5–6.5% | 5% | 98% |  |
+| 6.5–7.5% | 11% | 93% |  |
+| 7.5–8.5% | 18% | 83% |  |
+| 8.5–9.5% | 17% | 65% | Median |
+| 9.5–10.5% | 10% | 48% |  |
+| 10.5–11.5% | 4% | 38% |  |
+| 11.5–12.5% | 10% | 34% |  |
+| 12.5–13.5% | 18% | 24% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 0.3% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -67,7 +68,8 @@ Last result: **0** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [1–12 December 2018](2018-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 1 | 1 | 1 | 1 | 1 |
