@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [1–12 December 2018](2018-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 4–8% <br> 0–1 | 7–12% <br> 1 | 25–32% <br> 2–3 | 7–12% <br> 1 | 2–5% <br> 0 | 3–6% <br> 0 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 10–15% <br> 1 | 12–18% <br> 1 | 2–5% <br> 0 |
 | [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 5–9% <br> 0–1 | 7–11% <br> 1 | 23–30% <br> 2–3 | 7–12% <br> 1 | 1–4% <br> 0 | 3–6% <br> 0 | 8–13% <br> 1 | N/A <br> N/A | N/A <br> N/A | 12–18% <br> 1 | 12–18% <br> 1 | 2–4% <br> 0 |
 | [13–23 October 2018](2018-10-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 4–8% <br> 0–1 | 9–14% <br> 1 | 22–29% <br> 2 | 6–9% <br> 0–1 | 1–3% <br> 0 | 4–8% <br> 0–1 | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 11–16% <br> 1 | 13–18% <br> 1 | 1–4% <br> 0 |
 | [24–30 September 2018](2018-09-30-FACTUM.html) | FACTUM | 8–10% <br> 1 | 11–13% <br> 1 | 19–22% <br> 2 | 10–12% <br> 1 | 1% <br> 0 | 2–4% <br> 0 | 12–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 14–16% <br> 1 | 11–13% <br> 1 | 2–4% <br> 0 |
