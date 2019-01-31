@@ -71,7 +71,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 0 | 0 | 0 | 0 | 0–1 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 0 | 0 | 0 | 0 | 0 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 0 | 0 | 0 | 0 | 0 |
@@ -98,8 +98,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Median |
-| 1 | 0.2% | 0.2% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
 | 2 | 0% | 0% |  |
 
 
