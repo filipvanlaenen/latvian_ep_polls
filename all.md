@@ -12,7 +12,7 @@ The table below lists all polls registered and analyzed so far.
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 8–10% <br> 1 | 11–14% <br> 1 | 18–21% <br> 2 | 11–14% <br> 1 | 2–3% <br> 0 | 2–4% <br> 0 | 10–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 15–18% <br> 1 | 10–12% <br> 1 | 2–3% <br> 0 |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 5–8% <br> 0–1 | 9–14% <br> 1 | 24–32% <br> 2–3 | 13–18% <br> 1–2 | 2–4% <br> 0 | 2–5% <br> 0 | 6–11% <br> 1 | 1–4% <br> 0 | N/A <br> N/A | 6–11% <br> 1 | 8–13% <br> 1 | 1–3% <br> 0 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 8–12% <br> 1 | 11–15% <br> 1 | 18–23% <br> 2 | 8–12% <br> 1 | 2–4% <br> 0 | 2–4% <br> 0 | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 1 | 9–13% <br> 1 | 1–3% <br> 0 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 3–9% <br> 0–1 | 6–13% <br> 0–1 | 18–28% <br> 1–2 | 11–19% <br> 1–2 | 2–6% <br> 0 | 1–5% <br> 0 | 5–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 7–14% <br> 1 | 10–17% <br> 1 | 1–4% <br> 0 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 3–9% <br> 0–1 | 6–13% <br> 1 | 18–28% <br> 1–2 | 11–19% <br> 1–2 | 2–6% <br> 0 | 1–5% <br> 0 | 5–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 7–14% <br> 1 | 10–17% <br> 1 | 1–4% <br> 0 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 4–8% <br> 0–1 | 6–10% <br> 0–1 | 23–29% <br> 2 | 14–20% <br> 1–2 | 0–2% <br> 0 | 0–2% <br> 0 | 5–9% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | 7–12% <br> 1 | 14–19% <br> 1 | 1–2% <br> 0 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 7–10% <br> 1 | 12–16% <br> 1 | 18–23% <br> 2 | 7–10% <br> 1 | 2–4% <br> 0 | 3–5% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 1 | 11–15% <br> 1 | 1–3% <br> 0 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 7–9% <br> 1 | 11–14% <br> 1 | 20–23% <br> 2 | 8–10% <br> 1 | 1–3% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 13–16% <br> 1 | 11–14% <br> 1 | 2–4% <br> 0 |
@@ -46,7 +46,7 @@ Only polls for which at least the sample size has been published are included in
 + **AP!:** Attīstībai/Par! (ALDE)
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
-+ **JKP:** Jaunā konservatīvā partija (EPP)
++ **JKP:** Jaunā konservatīvā partija (ECR)
 + **KPV:** KPV LV (*)
 + **P:** Progresīvie (S&D)
 + **N/A (single party):** Party not included the published results
