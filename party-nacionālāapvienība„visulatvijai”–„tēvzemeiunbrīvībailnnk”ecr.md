@@ -10,7 +10,8 @@ Last result: **14.2%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.1% | 9.8–12.5% | 9.5–12.9% | 9.2–13.2% | 8.6–14.0% |
+| N/A | [Poll Average](average.html) | 10.0% | 8.8–11.4% | 8.5–11.8% | 8.2–12.1% | 7.6–12.9% |
+| [1–28 February 2019](2019-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.0% | 8.8–11.4% | 8.4–11.8% | 8.2–12.1% | 7.6–12.9% |
 | [11–23 January 2019](2019-01-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.0% | 9.8–12.5% | 9.4–12.9% | 9.2–13.2% | 8.6–14.0% |
 | [1–12 December 2018](2018-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.2% | 7.9–10.8% | 7.5–11.3% | 7.2–11.7% | 6.6–12.5% |
 | [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.7% | 7.3–10.4% | 6.9–10.8% | 6.6–11.3% | 6.0–12.1% |
@@ -44,16 +45,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 6% | 99.6% |  |
-| 9.5–10.5% | 24% | 94% |  |
-| 10.5–11.5% | 37% | 70% | Median |
-| 11.5–12.5% | 24% | 33% |  |
-| 12.5–13.5% | 8% | 9% |  |
-| 13.5–14.5% | 1.2% | 1.3% | Last Result |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 6% | 99.6% |  |
+| 8.5–9.5% | 25% | 94% |  |
+| 9.5–10.5% | 37% | 68% | Median |
+| 10.5–11.5% | 23% | 31% |  |
+| 11.5–12.5% | 7% | 8% |  |
+| 12.5–13.5% | 1.0% | 1.0% |  |
+| 13.5–14.5% | 0.1% | 0.1% | Last Result |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,6 +66,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1–28 February 2019](2019-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [11–23 January 2019](2019-01-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–12 December 2018](2018-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [3–15 November 2018](2018-11-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
