@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 09:55:08 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 18:00:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;KPV LV (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS-seats.png"
+        length="191672"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 17:43:02 +0200</pubDate>
+      <dc:date>2019-04-06T17:43:02.3833+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS-coalitions-seats.png"
+        length="133335"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 17:43:02 +0200</pubDate>
+      <dc:date>2019-04-06T17:43:02.3833+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.png"
         length="309641"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 09:28:46 +0200</pubDate>
-      <dc:date>2019-04-06T09:28:46.779529+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 17:43:02 +0200</pubDate>
+      <dc:date>2019-04-06T17:43:02.3833+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 1–31 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-Factum.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;KPV LV (*): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-Factum-seats.png"
+        length="223479"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 18:00:31 +0200</pubDate>
+      <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 1–31 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-Factum.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-Factum-coalitions-seats.png"
+        length="179586"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 18:00:31 +0200</pubDate>
+      <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 1–31 March 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-Factum.png"
         length="310291"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 09:40:42 +0200</pubDate>
-      <dc:date>2019-04-06T09:40:42.512182+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 18:00:31 +0200</pubDate>
+      <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Latvijas Fakti, 3–18 March 2019 – Voting Intentions</title>
@@ -829,6 +869,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-04-06T09:55:08.908444+02:00</dc:date>
+    <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
   </channel>
 </rss>
