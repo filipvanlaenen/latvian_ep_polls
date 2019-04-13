@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/latvian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-04-06T18:00:31.880835+02:00</updated>
+  <updated>2019-04-13T11:29:01.219646+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā Partija “Saskaņa” (S&amp;D): 26.1–32.1%, 2–3 seats</li><li>KPV LV (*): 5.5–8.9%, 0–1 seats</li><li>Jaunā konservatīvā partija (EPP): 10.9–15.3%, 1 seats</li><li>Attīstībai/Par! (ALDE): 8.2–12.1%, 1 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 6.4–10.0%, 1 seats</li><li>Zaļo un Zemnieku savienība (Greens/EFA): 10.9–15.3%, 1 seats</li><li>Jaunā Vienotība (EPP): 7.3–11.1%, 1 seats</li><li>Latvijas Reģionu apvienība (*): 3.8–6.7%, 0–1 seats</li><li>Latvijas Krievu savienība (Greens/EFA): 2.0–4.3%, 0 seats</li><li>Progresīvie (S&amp;D): 2.9–5.5%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Factum, 1–31 March 2019</title>
     <updated>2019-04-06T18:00:31.880835+02:00</updated>
     <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā Partija “Saskaņa” (S&amp;D): 18.4–23.7%, 2 seats</li><li>Jaunā konservatīvā partija (EPP): 3.7–6.6%, 0–1 seats</li><li>Attīstībai/Par! (ALDE): 8.2–12.2%, 1 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 11.0–15.4%, 1 seats</li><li>Zaļo un Zemnieku savienība (Greens/EFA): 12.8–17.5%, 1–2 seats</li><li>Jaunā Vienotība (EPP): 24.2–30.0%, 2–3 seats</li><li>Latvijas Reģionu apvienība (*): 3.7–6.6%, 0–1 seats</li><li>Latvijas Krievu savienība (Greens/EFA): 3.7–6.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-18-LatvijasFakti.html</id>
+    <link href="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-18-LatvijasFakti.html"/>
+    <title>Opinion Poll by Latvijas Fakti, 3–18 March 2019</title>
+    <updated>2019-04-13T11:29:01.219646+02:00</updated>
+    <dc:date>2019-04-13T11:29:01.219646+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā Partija “Saskaņa” (S&amp;D): 21.3–26.8%, 1–2 seats</li><li>KPV LV (*): 8.2–12.2%, 1 seats</li><li>Jaunā konservatīvā partija (EPP): 14.7–19.6%, 1 seats</li><li>Attīstībai/Par! (ALDE): 7.3–11.1%, 1 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 9.2–13.2%, 1 seats</li><li>Zaļo un Zemnieku savienība (Greens/EFA): 9.2–13.2%, 1 seats</li><li>Jaunā Vienotība (EPP): 4.6–7.7%, 0–1 seats</li></ul></div></content>
@@ -231,5 +239,5 @@
     <updated>2018-12-31T17:01:16.641864+01:00</updated>
     <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
   </entry>
-  <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
+  <dc:date>2019-04-13T11:29:01.219646+02:00</dc:date>
 </feed>
