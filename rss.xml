@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Apr 2019 18:23:02 +0200</pubDate>
+    <pubDate>Mon, 22 Apr 2019 12:11:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–19 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-04-19-SKDS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-04-19-SKDS.png"
         length="301225"
         type="image/png"/>
-      <pubDate>Sat, 20 Apr 2019 18:10:26 +0200</pubDate>
-      <dc:date>2019-04-20T18:10:26.505987+02:00</dc:date>
+      <pubDate>Mon, 22 Apr 2019 12:00:17 +0200</pubDate>
+      <dc:date>2019-04-22T12:00:17.661682+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 26 March–5 April 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-04-05-Factum.png"
         length="296272"
         type="image/png"/>
-      <pubDate>Sat, 20 Apr 2019 18:23:02 +0200</pubDate>
-      <dc:date>2019-04-20T18:23:02.167511+02:00</dc:date>
+      <pubDate>Mon, 22 Apr 2019 12:11:45 +0200</pubDate>
+      <dc:date>2019-04-22T12:11:45.341466+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2019 – Seat Projections for the Parties</title>
@@ -909,6 +909,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-04-20T18:23:02.167511+02:00</dc:date>
+    <dc:date>2019-04-22T12:11:45.341466+02:00</dc:date>
   </channel>
 </rss>
