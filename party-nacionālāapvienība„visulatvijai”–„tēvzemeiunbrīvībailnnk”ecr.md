@@ -76,7 +76,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
-| [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
+| [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1–2 |
 | [1–31 March 2019](2019-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 0–1 |
 | [1–31 March 2019](2019-03-31-Factum.html) | Factum | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [3–18 March 2019](2019-03-18-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
@@ -117,8 +117,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.8% | 100% |  |
-| 1 | 99.2% | 99.2% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 98.9% | 99.2% | Last Result, Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
