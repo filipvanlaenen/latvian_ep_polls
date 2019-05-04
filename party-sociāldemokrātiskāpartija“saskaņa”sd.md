@@ -11,7 +11,7 @@ Last result: **13.0%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.7% | 18.8–29.8% | 18.0–30.6% | 17.4–31.3% | 16.1–32.4% |
-| [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 22.0% | N/A | N/A | N/A | N/A |
+| [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 22.0% | 20.4–23.7% | 20.0–24.2% | 19.6–24.6% | 18.8–25.4% |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [10–14 April 2019](2019-04-14-Factum.html) | Factum | 19.9% | 17.7–22.5% | 17.0–23.2% | 16.5–23.9% | 15.5–25.1% |
 | [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.4% | 16.2–22.1% |
@@ -85,8 +85,8 @@ Last result: **1** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
-| [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 2 | 2 | 2 | 2 | 1–2 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
 | [10–14 April 2019](2019-04-14-Factum.html) | Factum | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 2 | 2 | 1–2 | 1–2 | 1–2 |
