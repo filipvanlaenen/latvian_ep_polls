@@ -12,6 +12,7 @@ Last result: **46.2%** (General Election of 24 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.0% | 8.6–27.8% | 8.1–28.6% | 7.8–29.2% | 7.2–30.3% |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.7–14.8% |
+| [17–21 April 2019](2019-04-21-Factum.html) | Factum | 15.0% | 13.2–17.2% | 12.7–17.9% | 12.2–18.4% | 11.4–19.5% |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.1–21.3% |
 | [10–14 April 2019](2019-04-14-Factum.html) | Factum | 15.9% | 13.9–18.3% | 13.3–19.0% | 12.8–19.6% | 11.9–20.8% |
 | [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 15.0% | 13.7–16.4% | 13.4–16.8% | 13.0–17.1% | 12.5–17.8% |
@@ -105,6 +106,7 @@ Last result: **4** seats (General Election of 24 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
+| [17–21 April 2019](2019-04-21-Factum.html) | Factum | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 April 2019](2019-04-14-Factum.html) | Factum | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -147,8 +149,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 59% | 100% | Median |
-| 2 | 38% | 41% |  |
+| 1 | 61% | 100% | Median |
+| 2 | 35% | 39% |  |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% | Last Result |
 
