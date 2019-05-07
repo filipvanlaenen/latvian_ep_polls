@@ -10,7 +10,7 @@ Last result: **13.0%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 18.8–29.8% | 18.0–30.6% | 17.4–31.3% | 16.1–32.4% |
+| N/A | [Poll Average](average.html) | 21.6% | 17.2–24.0% | 16.3–24.6% | 15.7–25.1% | 14.6–26.1% |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 22.0% | 20.4–23.7% | 20.0–24.2% | 19.6–24.6% | 18.8–25.4% |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 18.0% | 15.9–20.3% | 15.4–21.0% | 14.9–21.5% | 14.0–22.7% |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
@@ -53,29 +53,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% | Last Result |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 0.7% | 99.8% |  |
-| 16.5–17.5% | 2% | 99.1% |  |
-| 17.5–18.5% | 5% | 97% |  |
-| 18.5–19.5% | 10% | 92% |  |
-| 19.5–20.5% | 15% | 82% |  |
-| 20.5–21.5% | 16% | 67% |  |
-| 21.5–22.5% | 11% | 52% | Median |
-| 22.5–23.5% | 5% | 41% |  |
-| 23.5–24.5% | 2% | 36% |  |
-| 24.5–25.5% | 0.7% | 34% |  |
-| 25.5–26.5% | 1.5% | 33% |  |
-| 26.5–27.5% | 4% | 32% |  |
-| 27.5–28.5% | 7% | 28% |  |
-| 28.5–29.5% | 9% | 21% |  |
-| 29.5–30.5% | 7% | 12% |  |
-| 30.5–31.5% | 4% | 5% |  |
-| 31.5–32.5% | 1.3% | 2% |  |
-| 32.5–33.5% | 0.3% | 0.4% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% | Last Result |
+| 13.5–14.5% | 0.4% | 99.9% |  |
+| 14.5–15.5% | 2% | 99.5% |  |
+| 15.5–16.5% | 4% | 98% |  |
+| 16.5–17.5% | 7% | 94% |  |
+| 17.5–18.5% | 8% | 87% |  |
+| 18.5–19.5% | 7% | 79% |  |
+| 19.5–20.5% | 8% | 72% |  |
+| 20.5–21.5% | 13% | 64% |  |
+| 21.5–22.5% | 18% | 51% | Median |
+| 22.5–23.5% | 17% | 33% |  |
+| 23.5–24.5% | 11% | 16% |  |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 1.0% | 1.2% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -86,13 +80,13 @@ Last result: **1** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 2 | 2 | 2 | 2 | 1–2 |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
 | [10–14 April 2019](2019-04-14-Factum.html) | Factum | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 March–5 April 2019](2019-04-05-Factum.html) | Factum | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [1–31 March 2019](2019-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–31 March 2019](2019-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2–3 |
 | [1–31 March 2019](2019-03-31-Factum.html) | Factum | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–18 March 2019](2019-03-18-LatvijasFakti.html) | Latvijas Fakti | 2 | 2 | 2 | 2 | 1–2 |
 | [1–28 February 2019](2019-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -131,9 +125,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 91% | 95% | Median |
-| 3 | 4% | 4% |  |
-| 4 | 0% | 0% |  |
+| 1 | 8% | 100% | Last Result |
+| 2 | 92% | 92% | Median |
+| 3 | 0% | 0% |  |
 
 
