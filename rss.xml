@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 May 2019 09:23:16 +0200</pubDate>
+    <pubDate>Tue, 07 May 2019 07:52:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by Latvijas Fakti, 12–22 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-04-22-LatvijasFakti.html#seats</link>
@@ -160,6 +160,16 @@
       <dc:date>2019-05-02T19:10:31.567992+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 26.1–32.1%&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 5.5–8.9%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 10.9–15.3%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 8.2–12.1%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 6.4–10.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (Greens/EFA): 10.9–15.3%&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 7.3–11.1%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 3.8–6.7%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 2.0–4.3%&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 2.9–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-SKDS.png"
+        length="310174"
+        type="image/png"/>
+      <pubDate>Tue, 07 May 2019 07:10:30 +0200</pubDate>
+      <dc:date>2019-05-07T07:10:30.857399+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Factum, 1–31 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-31-Factum.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -188,6 +198,16 @@
         type="image/png"/>
       <pubDate>Sat, 06 Apr 2019 18:00:31 +0200</pubDate>
       <dc:date>2019-04-06T18:00:31.880835+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Latvijas Fakti, 3–18 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-18-LatvijasFakti.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 18.4–23.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 3.7–6.6%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 8.2–12.2%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 11.0–15.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (Greens/EFA): 12.8–17.5%&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 24.2–30.0%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 3.7–6.6%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 3.7–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-03-18-LatvijasFakti.png"
+        length="269859"
+        type="image/png"/>
+      <pubDate>Tue, 07 May 2019 07:52:40 +0200</pubDate>
+      <dc:date>2019-05-07T07:52:40.816986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–28 February 2019 – Voting Intentions</title>
@@ -979,6 +999,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-05-05T09:23:16.042797+02:00</dc:date>
+    <dc:date>2019-05-07T07:52:40.816986+02:00</dc:date>
   </channel>
 </rss>
