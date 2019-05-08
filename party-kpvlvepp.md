@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 0.9–4.5% | 0.8–4.8% | 0.7–5.1% | 0.5–5.6% |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.7% |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 2.9% | 2.2–4.1% | 2.0–4.5% | 1.8–4.8% | 1.5–5.4% |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -72,6 +73,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 0 | 0 | 0 | 0 | 0–1 |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
