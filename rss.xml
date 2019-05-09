@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 08 May 2019 20:46:23 +0200</pubDate>
+    <pubDate>Wed, 08 May 2019 21:44:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–8 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā Saskaņa (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS-seats.png"
+        length="234531"
+        type="image/png"/>
+      <pubDate>Wed, 08 May 2019 21:44:31 +0200</pubDate>
+      <dc:date>2019-05-08T21:44:31.140726+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–8 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS-coalitions-seats.png"
+        length="172080"
+        type="image/png"/>
+      <pubDate>Wed, 08 May 2019 21:44:31 +0200</pubDate>
+      <dc:date>2019-05-08T21:44:31.140726+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–8 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.png"
         length="326528"
         type="image/png"/>
-      <pubDate>Wed, 08 May 2019 20:46:23 +0200</pubDate>
-      <dc:date>2019-05-08T20:46:23.112765+02:00</dc:date>
+      <pubDate>Wed, 08 May 2019 21:44:31 +0200</pubDate>
+      <dc:date>2019-05-08T21:44:31.140726+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Latvijas Fakti, 12–22 April 2019 – Seat Projections for the Parties</title>
@@ -1009,6 +1029,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-05-08T20:46:23.112765+02:00</dc:date>
+    <dc:date>2019-05-08T21:44:31.140726+02:00</dc:date>
   </channel>
 </rss>
