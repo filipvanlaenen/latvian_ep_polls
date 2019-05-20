@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 May 2019 20:31:37 +0200</pubDate>
+    <pubDate>Tue, 21 May 2019 00:49:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Factum, 2–9 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-09-Factum.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā Saskaņa (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-09-Factum-seats.png"
+        length="231160"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 23:57:08 +0200</pubDate>
+      <dc:date>2019-05-20T23:57:08.021339+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 2–9 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-09-Factum.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-09-Factum-coalitions-seats.png"
+        length="148893"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 23:57:08 +0200</pubDate>
+      <dc:date>2019-05-20T23:57:08.021339+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum, 2–9 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-09-Factum.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-09-Factum.png"
         length="320659"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:31:37 +0200</pubDate>
-      <dc:date>2019-05-20T20:31:37.068936+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 23:57:08 +0200</pubDate>
+      <dc:date>2019-05-20T23:57:08.021339+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–8 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā Saskaņa (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS-seats.png"
+        length="232594"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 23:23:28 +0200</pubDate>
+      <dc:date>2019-05-20T23:23:28.652601+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–8 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS-coalitions-seats.png"
+        length="145422"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 23:23:28 +0200</pubDate>
+      <dc:date>2019-05-20T23:23:28.652601+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–8 May 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-08-SKDS.png"
         length="324542"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 17:30:06 +0200</pubDate>
-      <dc:date>2019-05-20T17:30:06.487026+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 23:23:28 +0200</pubDate>
+      <dc:date>2019-05-20T23:23:28.652601+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 24–28 April 2019 – Voting Intentions</title>
@@ -36,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-04-28-Factum.png"
         length="321099"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 19:25:31 +0200</pubDate>
-      <dc:date>2019-05-20T19:25:31.43886+02:00</dc:date>
+      <pubDate>Tue, 21 May 2019 00:49:40 +0200</pubDate>
+      <dc:date>2019-05-21T00:49:40.839917+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Latvijas Fakti, 12–22 April 2019 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-04-22-LatvijasFakti.png"
         length="319494"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:15:09 +0200</pubDate>
-      <dc:date>2019-05-20T20:15:09.001372+02:00</dc:date>
+      <pubDate>Tue, 21 May 2019 00:19:01 +0200</pubDate>
+      <dc:date>2019-05-21T00:19:01.878825+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 17–21 April 2019 – Seat Projections for the Parties</title>
@@ -1009,6 +1049,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-05-20T20:31:37.068936+02:00</dc:date>
+    <dc:date>2019-05-21T00:49:40.839917+02:00</dc:date>
   </channel>
 </rss>
