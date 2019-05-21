@@ -10,10 +10,11 @@ Last result: **2.1%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.3% | 10.4–16.7% | 10.0–17.3% | 9.6–17.8% | 9.0–18.7% |
-| [2–9 May 2019](2019-05-09-Factum.html) | Factum | 11.0% | 9.8–12.4% | 9.4–12.8% | 9.1–13.1% | 8.6–13.8% |
-| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.6% | 12.9–19.5% |
-| [24–28 April 2019](2019-04-28-Factum.html) | Factum | 12.0% | 10.7–13.5% | 10.3–13.9% | 10.0–14.3% | 9.4–15.0% |
+| N/A | [Poll Average](average.html) | 13.5% | 10.2–17.0% | 9.8–17.6% | 9.5–18.0% | 8.9–18.9% |
+| [14–20 May 2019](2019-05-20-Factum.html) | Factum | 10.6% | 8.6–12.3% | 8.6–12.3% | 8.6–13.6% | 7.4–13.6% |
+| [2–9 May 2019](2019-05-09-Factum.html) | Factum | 11.2% | N/A | N/A | N/A | N/A |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.8% | N/A | N/A | N/A | N/A |
+| [24–28 April 2019](2019-04-28-Factum.html) | Factum | 12.3% | N/A | N/A | N/A | N/A |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–14.9% |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
@@ -63,17 +64,17 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 11% | 98% |  |
-| 10.5–11.5% | 22% | 87% |  |
-| 11.5–12.5% | 20% | 66% | Median |
-| 12.5–13.5% | 10% | 46% |  |
-| 13.5–14.5% | 5% | 36% |  |
-| 14.5–15.5% | 8% | 31% |  |
-| 15.5–16.5% | 11% | 22% |  |
-| 16.5–17.5% | 8% | 11% |  |
-| 17.5–18.5% | 3% | 3% |  |
-| 18.5–19.5% | 0.6% | 0.6% |  |
+| 8.5–9.5% | 3% | 99.9% |  |
+| 9.5–10.5% | 12% | 97% |  |
+| 10.5–11.5% | 20% | 85% |  |
+| 11.5–12.5% | 12% | 65% |  |
+| 12.5–13.5% | 4% | 53% | Median |
+| 13.5–14.5% | 4% | 50% |  |
+| 14.5–15.5% | 12% | 45% |  |
+| 15.5–16.5% | 17% | 33% |  |
+| 16.5–17.5% | 11% | 17% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 0.8% | 0.9% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -86,10 +87,11 @@ Last result: **0** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
-| [2–9 May 2019](2019-05-09-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
-| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–28 April 2019](2019-04-28-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [14–20 May 2019](2019-05-20-Factum.html) | Factum |  |  |  |  |  |
+| [2–9 May 2019](2019-05-09-Factum.html) | Factum |  |  |  |  |  |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [24–28 April 2019](2019-04-28-Factum.html) | Factum |  |  |  |  |  |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -135,8 +137,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 
