@@ -11,9 +11,9 @@ Last result: **6.4%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.5% | 4.5–8.8% | 4.2–9.2% | 4.0–9.5% | 3.6–10.2% |
-| [14–20 May 2019](2019-05-20-Factum.html) | Factum | 4.9% | 3.7–6.2% | 3.7–6.2% | 3.7–7.4% | 2.5–7.4% |
+| [14–20 May 2019](2019-05-20-Factum.html) | Factum | 4.9% | 4.1–6.0% | 3.9–6.3% | 3.7–6.5% | 3.3–7.1% |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum | 5.1% | N/A | N/A | N/A | N/A |
-| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.8% | N/A | N/A | N/A | N/A |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.8% | 8.6–11.3% | 8.3–11.7% | 8.0–12.1% | 7.5–12.8% |
 | [24–28 April 2019](2019-04-28-Factum.html) | Factum | 4.1% | N/A | N/A | N/A | N/A |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 3.9% | 3.0–5.2% | 2.8–5.6% | 2.5–6.0% | 2.2–6.7% |
@@ -79,9 +79,9 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–20 May 2019](2019-05-20-Factum.html) | Factum |  |  |  |  |  |
+| [14–20 May 2019](2019-05-20-Factum.html) | Factum | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum |  |  |  |  |  |
-| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [24–28 April 2019](2019-04-28-Factum.html) | Factum |  |  |  |  |  |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0–1 |
