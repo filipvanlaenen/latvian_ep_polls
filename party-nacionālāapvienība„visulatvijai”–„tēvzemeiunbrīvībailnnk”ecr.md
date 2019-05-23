@@ -10,7 +10,7 @@ Last result: **14.2%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.6% | 11.1–14.1% | 10.8–14.5% | 10.5–14.9% | 9.9–15.7% |
+| N/A | [Poll Average](average.html) | 13.3% | 11.3–18.1% | 10.9–18.7% | 10.6–19.3% | 9.9–20.2% |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 17.4% | 15.9–19.1% | 15.4–19.6% | 15.1–20.0% | 14.4–20.8% |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum | 17.3% | N/A | N/A | N/A | N/A |
 | [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.8% | 11.5–14.4% | 11.1–14.9% | 10.7–15.3% | 10.1–16.1% |
@@ -58,16 +58,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 15% | 97% |  |
-| 11.5–12.5% | 31% | 82% |  |
-| 12.5–13.5% | 31% | 51% | Median |
-| 13.5–14.5% | 15% | 20% | Last Result |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.6% | 0.7% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 11% | 98% |  |
+| 11.5–12.5% | 21% | 86% |  |
+| 12.5–13.5% | 19% | 65% | Median |
+| 13.5–14.5% | 10% | 46% | Last Result |
+| 14.5–15.5% | 4% | 36% |  |
+| 15.5–16.5% | 6% | 32% |  |
+| 16.5–17.5% | 10% | 25% |  |
+| 17.5–18.5% | 9% | 15% |  |
+| 18.5–19.5% | 5% | 6% |  |
+| 19.5–20.5% | 1.4% | 2% |  |
+| 20.5–21.5% | 0.3% | 0.3% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -78,7 +82,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum |  |  |  |  |  |
 | [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
@@ -127,8 +131,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 82% | 100% | Last Result, Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 
