@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 May 2019 19:41:25 +0200</pubDate>
+    <pubDate>Fri, 24 May 2019 21:56:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by Berg Research for jauns.lv, 1–21 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-21-BergResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-21-BergResearch.png"
         length="309336"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 19:41:25 +0200</pubDate>
-      <dc:date>2019-05-24T19:41:25.872076+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 21:56:29 +0200</pubDate>
+      <dc:date>2019-05-24T21:56:29.077003+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 14–20 May 2019 – Seat Projections for the Parties</title>
@@ -1049,6 +1049,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-05-24T19:41:25.872076+02:00</dc:date>
+    <dc:date>2019-05-24T21:56:29.077003+02:00</dc:date>
   </channel>
 </rss>
