@@ -11,6 +11,7 @@ Last result: **13.0%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.4% | 14.0–23.0% | 13.4–23.5% | 13.0–24.0% | 12.2–25.0% |
+| [1–21 May 2019](2019-05-21-BergResearch.html) | Berg Research <br> jauns.lv | 18.8% | N/A | N/A | N/A | N/A |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 14.5% | 13.1–16.1% | 12.7–16.6% | 12.4–17.0% | 11.8–17.8% |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum | 15.3% | N/A | N/A | N/A | N/A |
 | [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 20.8% | 19.1–22.7% | 18.6–23.2% | 18.2–23.7% | 17.3–24.6% |
@@ -86,6 +87,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–21 May 2019](2019-05-21-BergResearch.html) | Berg Research <br> jauns.lv |  |  |  |  |  |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1–2 |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum |  |  |  |  |  |
 | [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
