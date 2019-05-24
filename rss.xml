@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 22:48:01 +0200</pubDate>
+    <pubDate>Fri, 24 May 2019 19:41:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Berg Research for jauns.lv, 1–21 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-21-BergResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 16.2–21.6%&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 3.7–6.7%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (ALDE): 9.0–13.3%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 14.5–19.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 3.6–6.6%&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 17.6–23.2%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 6.7–10.6%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 6.4–10.2%&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 2.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-21-BergResearch.png"
+        length="309336"
+        type="image/png"/>
+      <pubDate>Fri, 24 May 2019 19:41:25 +0200</pubDate>
+      <dc:date>2019-05-24T19:41:25.872076+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum, 14–20 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-05-20-Factum.html#seats</link>
@@ -1039,6 +1049,6 @@
       <pubDate>Mon, 31 Dec 2018 17:01:16 +0100</pubDate>
       <dc:date>2018-12-31T17:01:16.641864+01:00</dc:date>
     </item>
-    <dc:date>2019-05-21T22:48:01.344416+02:00</dc:date>
+    <dc:date>2019-05-24T19:41:25.872076+02:00</dc:date>
   </channel>
 </rss>
