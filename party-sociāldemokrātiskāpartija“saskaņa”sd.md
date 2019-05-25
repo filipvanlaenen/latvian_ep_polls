@@ -89,7 +89,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | [1–21 May 2019](2019-05-21-BergResearch.html) | Berg Research <br> jauns.lv | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1–2 |
 | [2–9 May 2019](2019-05-09-Factum.html) | Factum |  |  |  |  |  |
-| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
+| [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 1–2 |
 | [24–28 April 2019](2019-04-28-Factum.html) | Factum |  |  |  |  |  |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 2 | 2 | 2 | 2 | 1–2 |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

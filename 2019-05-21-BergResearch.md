@@ -50,8 +50,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
+| 1 | 4% | 100% |  |
+| 2 | 96% | 96% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -63,8 +63,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 22% | 100% | Last Result |
-| 2 | 78% | 78% | Median |
+| 1 | 24% | 100% | Last Result |
+| 2 | 76% | 76% | Median |
 | 3 | 0% | 0% |  |
 
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)
@@ -75,8 +75,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 85% | 100% | Last Result, Median |
-| 2 | 15% | 15% |  |
+| 1 | 84% | 100% | Last Result, Median |
+| 2 | 16% | 16% |  |
 | 3 | 0% | 0% |  |
 
 ### Attīstībai/Par! (ALDE)
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 99.5% | 99.5% | Median |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.7% | 99.7% | Median |
 | 2 | 0% | 0% |  |
 
 ### Latvijas Krievu savienība (Greens/EFA)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 99.3% | 99.3% | Last Result, Median |
+| 0 | 0.6% | 100% |  |
+| 1 | 99.4% | 99.4% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Jaunā konservatīvā partija (EPP)
@@ -122,8 +122,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 ### Zaļo un Zemnieku savienība (EPP)
@@ -146,8 +146,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 ### KPV LV (EPP)
@@ -181,9 +181,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% |  |
-| 2 | 90% | 98.9% | Median |
-| 3 | 8% | 8% |  |
+| 1 | 0.8% | 100% |  |
+| 2 | 90% | 99.2% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result, Majority |
 
@@ -193,9 +193,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% | Last Result |
-| 2 | 85% | 99.6% | Median |
-| 3 | 15% | 15% |  |
+| 1 | 0.2% | 100% | Last Result |
+| 2 | 84% | 99.8% | Median |
+| 3 | 16% | 16% |  |
 | 4 | 0% | 0% |  |
 
 ### Sociāldemokrātiskā Partija “Saskaņa” (S&D) – Progresīvie (S&D)
@@ -204,9 +204,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 21% | 100% | Last Result |
-| 2 | 78% | 79% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 24% | 100% | Last Result |
+| 2 | 76% | 76% | Median |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Attīstībai/Par! (ALDE)
@@ -224,8 +224,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 99.3% | 99.3% | Last Result, Median |
+| 0 | 0.6% | 100% |  |
+| 1 | 99.4% | 99.4% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
@@ -240,6 +240,6 @@
 ### Calculations
 
 + **Sample size:** 805
-+ **Simulations done:** 524,288
-+ **Error estimate:** 2.64%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.77%
 
