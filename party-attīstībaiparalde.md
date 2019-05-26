@@ -13,9 +13,9 @@ Last result: **2.1%** (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 11.3% | 9.8–16.2% | 9.4–17.0% | 9.1–17.6% | 8.5–18.6% |
 | [1–21 May 2019](2019-05-21-BergResearch.html) | Berg Research <br> jauns.lv | 10.9% | 9.6–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 10.6% | 9.4–12.0% | 9.1–12.4% | 8.8–12.8% | 8.2–13.5% |
-| [2–9 May 2019](2019-05-09-Factum.html) | Factum | 11.2% | N/A | N/A | N/A | N/A |
+| [2–9 May 2019](2019-05-09-Factum.html) | Factum | 11.2% | 10.0–12.6% | 9.6–13.0% | 9.3–13.4% | 8.8–14.1% |
 | [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.8% | 14.3–17.6% | 13.9–18.1% | 13.5–18.5% | 12.8–19.3% |
-| [24–28 April 2019](2019-04-28-Factum.html) | Factum | 12.3% | N/A | N/A | N/A | N/A |
+| [24–28 April 2019](2019-04-28-Factum.html) | Factum | 12.3% | 11.0–13.8% | 10.6–14.2% | 10.3–14.6% | 9.7–15.4% |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–14.9% |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
@@ -91,9 +91,9 @@ Last result: **0** seats (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–21 May 2019](2019-05-21-BergResearch.html) | Berg Research <br> jauns.lv | 1 | 1 | 1 | 1 | 1 |
 | [14–20 May 2019](2019-05-20-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
-| [2–9 May 2019](2019-05-09-Factum.html) | Factum |  |  |  |  |  |
+| [2–9 May 2019](2019-05-09-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [1–8 May 2019](2019-05-08-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–28 April 2019](2019-04-28-Factum.html) | Factum |  |  |  |  |  |
+| [24–28 April 2019](2019-04-28-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [12–22 April 2019](2019-04-22-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
 | [17–21 April 2019](2019-04-21-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [1–19 April 2019](2019-04-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1–2 | 1–2 | 1–2 |
