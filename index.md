@@ -21,7 +21,7 @@ Only polls for which at least the sample size has been published are included in
 + **ZZS:** Zaļo un Zemnieku savienība (EPP)
 + **LKS:** Latvijas Krievu savienība (Greens/EFA)
 + **LRA:** Latvijas Reģionu apvienība (ECR)
-+ **AP!:** Attīstībai/Par! (ALDE)
++ **AP!:** Attīstībai/Par! (RE)
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
 + **JKP:** Jaunā konservatīvā partija (EPP)
