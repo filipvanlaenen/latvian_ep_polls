@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 08 Jul 2019 20:22:31 +0200</pubDate>
+    <pubDate>Tue, 09 Jul 2019 21:23:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by Factum, 26–30 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-30-Factum.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-07-08T20:22:31.191626+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 7–17 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-17-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-17-SKDS-seats.png"
+        length="167933"
+        type="image/png"/>
+      <pubDate>Tue, 09 Jul 2019 21:23:55 +0200</pubDate>
+      <dc:date>2019-07-09T21:23:55.35538+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 7–17 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-17-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-17-SKDS-coalitions-seats.png"
+        length="124617"
+        type="image/png"/>
+      <pubDate>Tue, 09 Jul 2019 21:23:55 +0200</pubDate>
+      <dc:date>2019-07-09T21:23:55.35538+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 7–17 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-17-SKDS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 22.3–28.0%&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 4.1–7.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 5.8–9.2%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 8.9–13.0%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.2–14.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 8.2–12.1%&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 14.3–19.2%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 3.6–6.4%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 1.6–3.7%&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 3.6–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-06-17-SKDS.png"
         length="307087"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 16:42:03 +0200</pubDate>
-      <dc:date>2019-07-07T16:42:03.594675+02:00</dc:date>
+      <pubDate>Tue, 09 Jul 2019 21:23:55 +0200</pubDate>
+      <dc:date>2019-07-09T21:23:55.35538+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 May 2019 – Seat Projections for the Parties</title>
@@ -109,6 +129,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2019-07-08T20:22:31.191626+02:00</dc:date>
+    <dc:date>2019-07-09T21:23:55.35538+02:00</dc:date>
   </channel>
 </rss>
