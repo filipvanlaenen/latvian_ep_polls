@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 13–19% <br> 1–2 | 9–17% <br> 1–2 | 15–28% <br> 1–3 | 8–15% <br> 1 | 3–6% <br> 0 | 5–8% <br> 0–1 | 8–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–12% <br> 1 | 2–5% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A |
-| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12–17% <br> 1–2 | 9–13% <br> 1 | 23–29% <br> 2–3 | 11–16% <br> 1 | 3–6% <br> 0–1 | 5–8% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
+| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12–17% <br> 1–2 | 9–13% <br> 1 | 23–29% <br> 2–3 | 11–16% <br> 1 | 3–6% <br> 0 | 5–8% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
 | [26–30 June 2019](2019-06-30-Factum.html) | Factum | 15–20% <br> 1–2 | 13–18% <br> 1–2 | 15–20% <br> 1–2 | 7–11% <br> 1 | 3–5% <br> 0 | 5–8% <br> 0–1 | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 1 | 3–5% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -311,8 +311,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 79% | 100% | Median |
-| 2 | 21% | 21% |  |
+| 1 | 80% | 100% | Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -337,7 +337,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 25% | 100% | Last Result |
-| 2 | 72% | 75% | Median |
+| 2 | 71% | 75% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -349,8 +349,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.8% | 100% | Last Result, Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Latvijas Krievu savienība (Greens/EFA)
@@ -457,7 +457,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% | Last Result |
-| 2 | 86% | 94% | Median |
+| 2 | 85% | 94% | Median |
 | 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
@@ -511,6 +511,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
-+ **Error estimate:** 2.58%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 2.19%
