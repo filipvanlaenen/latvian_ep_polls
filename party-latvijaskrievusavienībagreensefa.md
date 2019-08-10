@@ -10,8 +10,9 @@ Last result: **6.4%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.2–5.0% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.5% | 2.5–6.0% |
 | [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.5% | 2.5–6.0% |
+| [22–29 July 2019](2019-07-29-Factum.html) | Factum | 6.0% | N/A | N/A | N/A | N/A |
 | [26–30 June 2019](2019-06-30-Factum.html) | Factum | 4.0% | 3.2–5.0% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.5% | 1.9–3.3% | 1.8–3.5% | 1.6–3.7% | 1.4–4.1% |
 | [1–31 May 2019](2019-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.3% | 1.7–3.1% | 1.6–3.3% | 1.5–3.5% | 1.2–4.0% |
@@ -27,7 +28,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.6% | 100% |  |
 | 2.5–3.5% | 22% | 99.4% |  |
 | 3.5–4.5% | 54% | 77% | Median |
-| 4.5–5.5% | 20% | 23% |  |
+| 4.5–5.5% | 21% | 23% |  |
 | 5.5–6.5% | 2% | 2% | Last Result |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -43,6 +44,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–1 |
+| [22–29 July 2019](2019-07-29-Factum.html) | Factum |  |  |  |  |  |
 | [26–30 June 2019](2019-06-30-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0–1 |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2019](2019-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
