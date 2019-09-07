@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 05 Sep 2019 19:41:37 +0200</pubDate>
+    <pubDate>Fri, 06 Sep 2019 22:55:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-08-31-SKDS.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Thu, 05 Sep 2019 19:41:37 +0200</pubDate>
       <dc:date>2019-09-05T19:41:37.488674+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 27–30 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-08-30-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 15.9–20.3%&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 14.0–18.2%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 8.4–11.9%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 9.3–13.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 9.3–13.0%&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 15.0–19.3%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-08-30-Factum.png"
+        length="301334"
+        type="image/png"/>
+      <pubDate>Fri, 06 Sep 2019 22:55:08 +0200</pubDate>
+      <dc:date>2019-09-06T22:55:08.260256+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 July 2019 – Seat Projections for the Parties</title>
@@ -199,6 +209,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2019-09-05T19:41:37.488674+02:00</dc:date>
+    <dc:date>2019-09-06T22:55:08.260256+02:00</dc:date>
   </channel>
 </rss>
