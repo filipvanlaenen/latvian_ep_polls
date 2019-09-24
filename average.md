@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 13–17% <br> 1–2 | 9–17% <br> 1–2 | 16–28% <br> 1–3 | 8–15% <br> 1 | 3–7% <br> 0–1 | 3–8% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–17% <br> 1–2 | 1–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
-| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12–17% <br> 1–2 | 9–13% <br> 1 | 23–29% <br> 2–3 | 11–16% <br> 1 | 3–6% <br> 0 | 5–8% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
-| [22–29 July 2019](2019-07-29-Factum.html) | Factum | 13–17% <br> 1–2 | 13–17% <br> 1–2 | 16–20% <br> 1–2 | 8–12% <br> 1 | 5–8% <br> 0–1 | 3–5% <br> 0 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
+| N/A | Poll Average | 12–19% <br> 1–2 | 9–14% <br> 1 | 16–28% <br> 1–3 | 10–15% <br> 1 | 3–5% <br> 0–1 | 3–6% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 8–18% <br> 1–2 | 3–6% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A |
+| [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12–16% <br> 1–2 | 9–14% <br> 1 | 23–29% <br> 2–3 | 11–16% <br> 1–2 | 3–5% <br> 0–1 | 3–6% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 1 | 3–6% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A |
+| [27–30 August 2019](2019-08-30-Factum.html) | Factum | 15–19% <br> 1–2 | 9–13% <br> 1 | 16–20% <br> 1–2 | 9–13% <br> 1 | 3–5% <br> 0–1 | 3–5% <br> 0 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 1–2 | 3–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -43,18 +43,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#jaunā-vienotība-(epp)">Jaunā Vienotība (EPP)</a> | 46.2% | 14.8% | 13.3–16.4% |12.9–16.8% | 12.6–17.2% | 11.9–18.0% |
-| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 14.2% | 13.0% | 10.1–15.9% |9.7–16.4% | 9.3–16.8% | 8.6–17.7% |
-| <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā Partija “Saskaņa” (S&D)</a> | 13.0% | 21.4% | 16.8–26.8% |16.3–27.5% | 15.9–28.0% | 15.1–29.1% |
-| <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 8.3% | 11.5% | 9.2–14.2% |8.8–14.7% | 8.5–15.1% | 7.9–16.0% |
-| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 6.4% | 5.0% | 3.5–6.7% |3.2–7.0% | 3.0–7.4% | 2.6–7.9% |
-| <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu apvienība (ECR)</a> | 2.5% | 5.1% | 3.5–7.0% |3.3–7.4% | 3.1–7.8% | 2.7–8.5% |
-| <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 2.1% | 9.9% | 8.7–11.3% |8.4–11.7% | 8.1–12.0% | 7.6–12.7% |
+| <a href="#jaunā-vienotība-(epp)">Jaunā Vienotība (EPP)</a> | 46.2% | 15.6% | 13.0–18.0% |12.5–18.5% | 12.1–18.9% | 11.3–19.7% |
+| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 14.2% | 11.3% | 10.0–12.6% |9.7–13.1% | 9.4–13.5% | 8.8–14.2% |
+| <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā Partija “Saskaņa” (S&D)</a> | 13.0% | 21.4% | 17.1–26.8% |16.6–27.5% | 16.2–28.0% | 15.5–29.1% |
+| <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 8.3% | 12.0% | 10.3–14.2% |9.9–14.7% | 9.6–15.1% | 9.0–16.0% |
+| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 6.4% | 4.0% | 3.2–4.8% |3.0–5.1% | 2.8–5.3% | 2.5–5.8% |
+| <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu apvienība (ECR)</a> | 2.5% | 4.3% | 3.5–5.3% |3.3–5.7% | 3.1–6.0% | 2.8–6.5% |
+| <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 2.1% | 10.0% | 8.8–11.2% |8.5–11.6% | 8.2–12.0% | 7.6–12.6% |
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0.0% | 11.8% | 7.9–15.9% |7.5–16.4% | 7.2–16.8% | 6.6–17.7% |
-| <a href="#kpv-lv-(epp)">KPV LV (EPP)</a> | 0.0% | 2.4% | 1.7–3.4% |1.5–3.7% | 1.4–3.9% | 1.2–4.4% |
-| <a href="#progresīvie-(s&d)">Progresīvie (S&D)</a> | 0.0% | 3.8% | 3.1–4.7% |2.8–5.0% | 2.7–5.3% | 2.3–5.7% |
+| <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0.0% | 13.2% | 9.2–16.9% |8.8–17.4% | 8.4–17.8% | 7.8–18.6% |
+| <a href="#kpv-lv-(epp)">KPV LV (EPP)</a> | 0.0% | 4.1% | 3.3–5.0% |3.1–5.3% | 3.0–5.5% | 2.7–6.0% |
+| <a href="#progresīvie-(s&d)">Progresīvie (S&D)</a> | 0.0% | 3.7% | 2.8–4.6% |2.6–4.9% | 2.4–5.1% | 2.1–5.6% |
 | <a href="#jaunā-saskaņa-(gue/ngl)">Jaunā Saskaņa (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Jaunā Vienotība (EPP)
@@ -64,17 +64,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 2% | 99.8% |  |
-| 12.5–13.5% | 11% | 98% |  |
-| 13.5–14.5% | 28% | 86% |  |
-| 14.5–15.5% | 32% | 59% | Median |
-| 15.5–16.5% | 19% | 27% |  |
-| 16.5–17.5% | 6% | 8% |  |
-| 17.5–18.5% | 1.2% | 1.3% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.8% | 100% |  |
+| 11.5–12.5% | 5% | 99.2% |  |
+| 12.5–13.5% | 13% | 95% |  |
+| 13.5–14.5% | 17% | 82% |  |
+| 14.5–15.5% | 14% | 65% |  |
+| 15.5–16.5% | 16% | 51% | Median |
+| 16.5–17.5% | 18% | 35% |  |
+| 17.5–18.5% | 12% | 17% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.7% | 0.7% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% |  |
@@ -108,19 +108,15 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 4% | 99.6% |  |
-| 9.5–10.5% | 13% | 96% |  |
-| 10.5–11.5% | 18% | 83% |  |
-| 11.5–12.5% | 12% | 65% |  |
-| 12.5–13.5% | 8% | 53% | Median |
-| 13.5–14.5% | 14% | 45% | Last Result |
-| 14.5–15.5% | 17% | 31% |  |
-| 15.5–16.5% | 11% | 14% |  |
-| 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.6% | 0.6% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 4% | 99.8% |  |
+| 9.5–10.5% | 20% | 96% |  |
+| 10.5–11.5% | 37% | 76% | Median |
+| 11.5–12.5% | 27% | 39% |  |
+| 12.5–13.5% | 10% | 12% |  |
+| 13.5–14.5% | 2% | 2% | Last Result |
+| 14.5–15.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 ### Sociāldemokrātiskā Partija “Saskaņa” (S&D)
 
@@ -129,15 +125,15 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% | Last Result |
-| 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 1.2% | 99.9% |  |
-| 15.5–16.5% | 6% | 98.7% |  |
-| 16.5–17.5% | 13% | 93% |  |
-| 17.5–18.5% | 16% | 80% |  |
-| 18.5–19.5% | 10% | 64% |  |
-| 19.5–20.5% | 3% | 54% |  |
-| 20.5–21.5% | 0.9% | 51% | Median |
-| 21.5–22.5% | 1.1% | 50% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.6% | 100% |  |
+| 15.5–16.5% | 4% | 99.4% |  |
+| 16.5–17.5% | 12% | 95% |  |
+| 17.5–18.5% | 17% | 83% |  |
+| 18.5–19.5% | 11% | 66% |  |
+| 19.5–20.5% | 4% | 54% |  |
+| 20.5–21.5% | 0.8% | 51% | Median |
+| 21.5–22.5% | 1.0% | 50% |  |
 | 22.5–23.5% | 4% | 49% |  |
 | 23.5–24.5% | 9% | 45% |  |
 | 24.5–25.5% | 12% | 37% |  |
@@ -154,15 +150,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 3% | 99.9% | Last Result |
-| 8.5–9.5% | 14% | 97% |  |
-| 9.5–10.5% | 20% | 83% |  |
-| 10.5–11.5% | 14% | 63% | Median |
-| 11.5–12.5% | 14% | 49% |  |
-| 12.5–13.5% | 17% | 35% |  |
-| 13.5–14.5% | 12% | 18% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.1% | 100% | Last Result |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 12% | 98% |  |
+| 10.5–11.5% | 24% | 85% |  |
+| 11.5–12.5% | 23% | 61% | Median |
+| 12.5–13.5% | 19% | 38% |  |
+| 13.5–14.5% | 13% | 19% |  |
 | 14.5–15.5% | 5% | 6% |  |
 | 15.5–16.5% | 1.1% | 1.2% |  |
 | 16.5–17.5% | 0.1% | 0.2% |  |
@@ -175,15 +170,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 11% | 99.7% |  |
-| 3.5–4.5% | 28% | 89% |  |
-| 4.5–5.5% | 22% | 61% | Median |
-| 5.5–6.5% | 26% | 38% | Last Result |
-| 6.5–7.5% | 11% | 12% |  |
-| 7.5–8.5% | 1.5% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 23% | 99.4% |  |
+| 3.5–4.5% | 57% | 76% | Median |
+| 4.5–5.5% | 18% | 19% |  |
+| 5.5–6.5% | 1.2% | 1.2% | Last Result |
+| 6.5–7.5% | 0% | 0% |  |
 
 ### Latvijas Reģionu apvienība (ECR)
 
@@ -191,16 +183,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% | Last Result |
-| 2.5–3.5% | 11% | 99.8% |  |
-| 3.5–4.5% | 29% | 89% |  |
-| 4.5–5.5% | 17% | 59% | Median |
-| 5.5–6.5% | 23% | 42% |  |
-| 6.5–7.5% | 15% | 19% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% | Last Result |
+| 2.5–3.5% | 12% | 99.9% |  |
+| 3.5–4.5% | 51% | 88% | Median |
+| 4.5–5.5% | 31% | 37% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.4% | 0.5% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
 
@@ -213,15 +202,14 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.5% | 100% |  |
-| 7.5–8.5% | 7% | 99.5% |  |
-| 8.5–9.5% | 28% | 93% |  |
-| 9.5–10.5% | 38% | 65% | Median |
-| 10.5–11.5% | 21% | 27% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 6% | 99.6% |  |
+| 8.5–9.5% | 27% | 94% |  |
+| 9.5–10.5% | 39% | 67% | Median |
+| 10.5–11.5% | 22% | 28% |  |
 | 11.5–12.5% | 5% | 6% |  |
-| 12.5–13.5% | 0.7% | 0.7% |  |
+| 12.5–13.5% | 0.6% | 0.6% |  |
 | 13.5–14.5% | 0% | 0% |  |
-| 14.5–15.5% | 0% | 0% |  |
 
 ### KPV LV (EPP)
 
@@ -230,12 +218,14 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 51% | 95% | Median |
-| 2.5–3.5% | 37% | 44% |  |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 18% | 99.8% |  |
+| 3.5–4.5% | 58% | 82% | Median |
+| 4.5–5.5% | 22% | 24% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 ### Jaunā konservatīvā partija (EPP)
 
@@ -249,21 +239,22 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 5% | 99.6% |  |
-| 7.5–8.5% | 16% | 95% |  |
-| 8.5–9.5% | 18% | 78% |  |
-| 9.5–10.5% | 8% | 60% |  |
-| 10.5–11.5% | 2% | 52% |  |
-| 11.5–12.5% | 0.8% | 50% | Median |
-| 12.5–13.5% | 5% | 49% |  |
-| 13.5–14.5% | 13% | 45% |  |
-| 14.5–15.5% | 17% | 31% |  |
-| 15.5–16.5% | 11% | 14% |  |
-| 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.6% | 0.6% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 3% | 99.8% |  |
+| 8.5–9.5% | 13% | 97% |  |
+| 9.5–10.5% | 18% | 84% |  |
+| 10.5–11.5% | 12% | 66% |  |
+| 11.5–12.5% | 3% | 54% |  |
+| 12.5–13.5% | 0.9% | 51% | Median |
+| 13.5–14.5% | 4% | 50% |  |
+| 14.5–15.5% | 12% | 46% |  |
+| 15.5–16.5% | 18% | 33% |  |
+| 16.5–17.5% | 11% | 15% |  |
+| 17.5–18.5% | 4% | 4% |  |
+| 18.5–19.5% | 0.5% | 0.6% |  |
 | 19.5–20.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 ### Progresīvie (S&D)
 
@@ -273,11 +264,11 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.5% | 100% |  |
-| 2.5–3.5% | 31% | 98.5% |  |
-| 3.5–4.5% | 53% | 68% | Median |
-| 4.5–5.5% | 14% | 15% |  |
-| 5.5–6.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 37% | 96% |  |
+| 3.5–4.5% | 47% | 58% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -291,18 +282,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#jaunā-vienotība-(epp)">Jaunā Vienotība (EPP)</a> | 4 | 1 | 1 |1–2 | 1–2 | 1–2 |
-| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 1 | 1 | 1 |1 | 1–2 | 1–2 |
-| <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā Partija “Saskaņa” (S&D)</a> | 1 | 2 | 2 |2 | 1–3 | 1–3 |
-| <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 1 | 1 | 1 |1 | 1 | 1 |
-| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#jaunā-vienotība-(epp)">Jaunā Vienotība (EPP)</a> | 4 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 1 | 1 | 1 |1 | 1 | 1 |
+| <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā Partija “Saskaņa” (S&D)</a> | 1 | 2 | 1–3 |1–3 | 1–3 | 1–3 |
+| <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 1 | 1 | 1 |1 | 1 | 1–2 |
+| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 1 | 0 | 0 |0 | 0–1 | 0–1 |
 | <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu apvienība (ECR)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 0 | 1 | 1 |1 | 1 | 1 |
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
-| <a href="#kpv-lv-(epp)">KPV LV (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#progresīvie-(s&d)">Progresīvie (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#kpv-lv-(epp)">KPV LV (EPP)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
+| <a href="#progresīvie-(s&d)">Progresīvie (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#jaunā-saskaņa-(gue/ngl)">Jaunā Saskaņa (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Jaunā Vienotība (EPP)
@@ -313,8 +304,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 94% | 100% | Median |
-| 2 | 6% | 6% |  |
+| 1 | 49% | 100% |  |
+| 2 | 51% | 51% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -326,9 +317,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 95% | 100% | Last Result, Median |
-| 2 | 5% | 5% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Last Result, Median |
 
 ### Sociāldemokrātiskā Partija “Saskaņa” (S&D)
 
@@ -338,9 +327,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 92% | 95% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 19% | 100% | Last Result |
+| 2 | 53% | 81% | Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% |  |
 
 ### Zaļo un Zemnieku savienība (EPP)
@@ -351,8 +340,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.8% | 100% | Last Result, Median |
-| 2 | 0.2% | 0.2% |  |
+| 1 | 98.5% | 100% | Last Result, Median |
+| 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Latvijas Krievu savienība (Greens/EFA)
@@ -363,8 +352,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 37% | 37% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Latvijas Reģionu apvienība (ECR)
@@ -375,8 +364,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 44% | 44% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
@@ -398,7 +387,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
 
 ### Jaunā konservatīvā partija (EPP)
 
@@ -409,8 +400,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 78% | 100% | Median |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 ### Progresīvie (S&D)
@@ -421,8 +412,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -434,11 +425,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Jaunā Vienotība (EPP) – Zaļo un Zemnieku savienība (EPP) – Jaunā konservatīvā partija (EPP) – KPV LV (EPP) | 5 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Sociāldemokrātiskā Partija “Saskaņa” (S&D) – Progresīvie (S&D) | 1 | 2 | 0% | 2 | 2 | 1–3 | 1–3 |
+| Jaunā Vienotība (EPP) – Zaļo un Zemnieku savienība (EPP) – Jaunā konservatīvā partija (EPP) – KPV LV (EPP) | 5 | 4 | 19% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Sociāldemokrātiskā Partija “Saskaņa” (S&D) – Progresīvie (S&D) | 1 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu apvienība (ECR) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Latvijas Krievu savienība (Greens/EFA) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība (Greens/EFA) | 1 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 | Jaunā Saskaņa (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | No sirds Latvijai (*) – Vienoti Latvijai (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -448,9 +439,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 86% | 100% | Median |
-| 4 | 14% | 14% |  |
-| 5 | 0% | 0% | Last Result, Majority |
+| 3 | 41% | 100% |  |
+| 4 | 40% | 59% | Median |
+| 5 | 19% | 19% | Last Result, Majority |
+| 6 | 0% | 0% |  |
 
 ### Sociāldemokrātiskā Partija “Saskaņa” (S&D) – Progresīvie (S&D)
 
@@ -458,9 +450,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% | Last Result |
-| 2 | 92% | 96% | Median |
-| 3 | 4% | 4% |  |
+| 1 | 19% | 100% | Last Result |
+| 2 | 53% | 81% | Median |
+| 3 | 28% | 28% |  |
 | 4 | 0% | 0% |  |
 
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu apvienība (ECR)
@@ -469,8 +461,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 51% | 100% | Last Result, Median |
-| 2 | 49% | 49% |  |
+| 1 | 90% | 100% | Last Result, Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
@@ -488,8 +480,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 37% | 37% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Jaunā Saskaņa (GUE/NGL)
@@ -512,6 +504,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.19%
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 262,144
++ **Error estimate:** 1.97%
