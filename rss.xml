@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 30 Sep 2019 11:40:44 +0200</pubDate>
+    <pubDate>Sun, 06 Oct 2019 17:56:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Factum, 27–30 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-09-30-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa” (S&amp;amp;D): 15.8–22.7%&lt;/li&gt;&lt;li&gt;KPV LV (EPP): 1.1–3.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 12.0–18.4%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 8.6–14.1%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 7.7–13.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 7.7–13.0%&lt;/li&gt;&lt;li&gt;Jaunā Vienotība (EPP): 13.9–20.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība (ECR): 3.3–7.2%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 2.7–6.2%&lt;/li&gt;&lt;li&gt;Progresīvie (S&amp;amp;D): 3.3–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-09-30-Factum.png"
+        length="328659"
+        type="image/png"/>
+      <pubDate>Sun, 06 Oct 2019 17:56:11 +0200</pubDate>
+      <dc:date>2019-10-06T17:56:11.403164+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 6–18 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-09-18-SKDS.html#seats</link>
@@ -279,6 +289,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2019-09-30T11:40:44.983386+02:00</dc:date>
+    <dc:date>2019-10-06T17:56:11.403164+02:00</dc:date>
   </channel>
 </rss>
