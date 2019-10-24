@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Oct 2019 19:06:35 +0200</pubDate>
+    <pubDate>Thu, 24 Oct 2019 18:06:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by Factum, 15–22 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-10-22-Factum.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-10-22-Factum.png"
         length="322584"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 19:06:35 +0200</pubDate>
-      <dc:date>2019-10-23T19:06:35.9576+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 18:06:40 +0200</pubDate>
+      <dc:date>2019-10-24T18:06:40.810058+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 27–30 September 2019 – Seat Projections for the Parties</title>
@@ -319,6 +319,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2019-10-23T19:06:35.9576+02:00</dc:date>
+    <dc:date>2019-10-24T18:06:40.810058+02:00</dc:date>
   </channel>
 </rss>
