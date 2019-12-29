@@ -1,4 +1,4 @@
-# Latvijas Reģionu apvienība (ECR)
+# Latvijas Reģionu Apvienība (ECR)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -28,7 +28,7 @@ Last result: **2.5%** (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Latvijas Reģionu apvienība (ECR).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Latvijas Reģionu Apvienība (ECR).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-latvijasreģionuapvienībaecr.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Latvijas Reģionu apvienība (ECR).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Latvijas Reģionu Apvienība (ECR).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

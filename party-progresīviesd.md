@@ -1,4 +1,4 @@
-# Progresīvie (S&D)
+# PROGRESĪVIE (S&D)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Progresīvie (S&D).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for PROGRESĪVIE (S&D).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -73,7 +73,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-progresīviesd.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Progresīvie (S&D).
+The following table shows the probability mass function per seat for the [poll average](average.html) for PROGRESĪVIE (S&D).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
