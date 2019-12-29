@@ -26,18 +26,18 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **JV:** Jaunā Vienotība (EPP)
++ **JV:** Jaunā VIENOTĪBA (EPP)
 + **NA:** Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)
-+ **SDPS:** Sociāldemokrātiskā Partija “Saskaņa” (S&D)
++ **SDPS:** Sociāldemokrātiskā partija “Saskaņa” (S&D)
 + **ZZS:** Zaļo un Zemnieku savienība (EPP)
 + **LKS:** Latvijas Krievu savienība (Greens/EFA)
-+ **LRA:** Latvijas Reģionu apvienība (ECR)
++ **LRA:** Latvijas Reģionu Apvienība (ECR)
 + **AP!:** Attīstībai/Par! (RE)
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
 + **JKP:** Jaunā konservatīvā partija (EPP)
-+ **KPV:** KPV LV (EPP)
-+ **P:** Progresīvie (S&D)
++ **KPV:** Politiskā partija „KPV LV” (EPP)
++ **P:** PROGRESĪVIE (S&D)
 + **JS:** Jaunā Saskaņa (GUE/NGL)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
