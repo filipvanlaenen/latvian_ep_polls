@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 09 Jan 2020 20:24:17 +0100</pubDate>
+    <pubDate>Thu, 09 Jan 2020 21:24:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Factum, 18–31 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-31-Factum.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Thu, 09 Jan 2020 20:24:17 +0100</pubDate>
       <dc:date>2020-01-09T20:24:17.217428+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 30 November–12 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-12-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-12-SKDS-seats.png"
+        length="171278"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jan 2020 21:24:10 +0100</pubDate>
+      <dc:date>2020-01-09T21:24:10.144576+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 30 November–12 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-12-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-12-SKDS-coalitions-seats.png"
+        length="118586"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jan 2020 21:24:10 +0100</pubDate>
+      <dc:date>2020-01-09T21:24:10.144576+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 30 November–12 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-12-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 22.6–28.5%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 2.2–4.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 8.9–13.1%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 6.7–10.5%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.6–15.2%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 12.4–17.2%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 10.4–14.9%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 2.6–5.2%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 2.8–5.5%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 3.2–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2019-12-12-SKDS.png"
+        length="319353"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jan 2020 21:24:10 +0100</pubDate>
+      <dc:date>2020-01-09T21:24:10.144576+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 21–24 November 2019 – Seat Projections for the Parties</title>
@@ -439,6 +469,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2020-01-09T20:24:17.217428+01:00</dc:date>
+    <dc:date>2020-01-09T21:24:10.144576+01:00</dc:date>
   </channel>
 </rss>
