@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 9–13% <br> 1 | 9–13% <br> 1 | 25–31% <br> 2–3 | 14–19% <br> 1–2 | 2–4% <br> 0 | 4–7% <br> 0–1 | 9–13% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1 | 3–6% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
-| [7–26 April 2020](2020-04-26-Factum.html) | Factum | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 9–18% <br> 1–2 | 9–14% <br> 1 | 15–30% <br> 1–3 | 10–18% <br> 1–2 | 2–5% <br> 0 | 4–7% <br> 0–1 | 9–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 1 | 2–5% <br> 0 | 2–7% <br> 0–1 | N/A <br> N/A |
+| [7–26 April 2020](2020-04-26-Factum.html) | Factum | 14–18% <br> 1–2 | 10–14% <br> 1 | 15–19% <br> 1–2 | 9–13% <br> 1 | 3–5% <br> 0 | 4–6% <br> 0–1 | 12–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 1 | 1–3% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9–13% <br> 1 | 9–13% <br> 1 | 25–31% <br> 2–3 | 14–19% <br> 1–2 | 2–4% <br> 0 | 4–7% <br> 0–1 | 9–13% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1 | 3–6% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
