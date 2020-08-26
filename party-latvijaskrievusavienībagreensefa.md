@@ -10,7 +10,8 @@ Last result: **6.4%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.6–5.3% | 2.4–5.8% | 2.3–6.2% | 2.1–7.1% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.7–5.3% | 2.5–5.8% | 2.4–6.2% | 2.2–7.1% |
+| [8–31 July 2020](2020-07-31-Factum.html) | Factum | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.3% | 3.4–5.8% | 3.1–6.2% | 2.8–6.6% | 2.4–7.4% |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.6% | 3.6–6.1% | 3.3–6.5% | 3.0–6.9% | 2.6–7.7% |
@@ -46,9 +47,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 44% | 93% | Median |
-| 3.5–4.5% | 25% | 48% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 48% | 95% | Median |
+| 3.5–4.5% | 24% | 47% |  |
 | 4.5–5.5% | 16% | 23% |  |
 | 5.5–6.5% | 6% | 7% | Last Result |
 | 6.5–7.5% | 1.2% | 1.4% |  |
@@ -65,6 +66,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [8–31 July 2020](2020-07-31-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0 |
 | [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
