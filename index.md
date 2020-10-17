@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 10–18% <br> 1–2 | 9–16% <br> 1 | 13–20% <br> 1–2 | 8–19% <br> 1–2 | 3–6% <br> 0–1 | 2–7% <br> 0–1 | 11–19% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 7–12% <br> 1 | 1–5% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 10–18% <br> 1–2 | 9–16% <br> 1 | 12–20% <br> 1–2 | 7–19% <br> 1–2 | 2–6% <br> 0–1 | 3–7% <br> 0–1 | 11–20% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–12% <br> 1 | 1–5% <br> 0 | 4–9% <br> 0–1 | N/A <br> N/A |
+| [29 September–4 October 2020](2020-10-04-Factum.html) | Factum | 12–19% <br> 1–2 | 10–16% <br> 1 | 12–19% <br> 1–2 | 7–12% <br> 1 | 2–5% <br> 0 | 3–6% <br> 0–1 | 14–21% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–11% <br> 0–1 | 1–4% <br> 0 | 5–10% <br> 0–1 | N/A <br> N/A |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 9–13% <br> 1 | 9–13% <br> 1 | 15–20% <br> 1–2 | 14–19% <br> 1–2 | 3–6% <br> 0–1 | 4–8% <br> 0–1 | 11–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 1 | 3–5% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A |
-| [1–24 August 2020](2020-08-24-Factum.html) | Factum | 13–18% <br> 1–2 | 11–16% <br> 1 | 13–18% <br> 1–2 | 8–13% <br> 1 | 3–6% <br> 0–1 | 2–5% <br> 0 | 14–19% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 7–12% <br> 1 | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
