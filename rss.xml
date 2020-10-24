@@ -8,27 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 17 Oct 2020 15:47:26 +0200</pubDate>
-    <item>
-      <title>Opinion Poll by Factum, 29 September–4 October 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-10-04-Factum.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2020-10-04-Factum-seats.png"
-        length="310779"
-        type="image/png"/>
-      <pubDate>Sat, 17 Oct 2020 15:47:26 +0200</pubDate>
-      <dc:date>2020-10-17T15:47:26.999472+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Factum, 29 September–4 October 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-10-04-Factum.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2020-10-04-Factum-coalitions-seats.png"
-        length="192195"
-        type="image/png"/>
-      <pubDate>Sat, 17 Oct 2020 15:47:26 +0200</pubDate>
-      <dc:date>2020-10-17T15:47:26.999472+02:00</dc:date>
-    </item>
+    <pubDate>Sat, 24 Oct 2020 13:18:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Factum, 29 September–4 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-10-04-Factum.html</link>
@@ -36,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2020-10-04-Factum.png"
         length="372013"
         type="image/png"/>
-      <pubDate>Sat, 17 Oct 2020 15:47:26 +0200</pubDate>
-      <dc:date>2020-10-17T15:47:26.999472+02:00</dc:date>
+      <pubDate>Sat, 24 Oct 2020 13:18:15 +0200</pubDate>
+      <dc:date>2020-10-24T13:18:15.029328+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 11–21 September 2020 – Seat Projections for the Parties</title>
@@ -1029,6 +1009,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2020-10-17T15:47:26.999472+02:00</dc:date>
+    <dc:date>2020-10-24T13:18:15.029328+02:00</dc:date>
   </channel>
 </rss>
