@@ -10,7 +10,8 @@ Last result: **46.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 8.7–15.0% | 8.3–15.6% | 8.0–16.0% | 7.4–16.9% |
+| N/A | [Poll Average](average.html) | 11.2% | 8.7–14.2% | 8.3–14.7% | 8.0–15.2% | 7.4–16.1% |
+| [11–30 November 2020](2020-11-30-Factum.html) | Factum | 13.1% | 11.7–14.7% | 11.3–15.2% | 11.0–15.6% | 10.3–16.4% |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 14.0% | 12.5–15.6% | 12.1–16.0% | 11.8–16.4% | 11.1–17.3% |
 | [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.4% | 8.3–10.8% | 8.0–11.2% | 7.7–11.5% | 7.2–12.2% |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.1% | 9.9–12.6% | 9.5–13.0% | 9.2–13.4% | 8.7–14.1% |
@@ -57,15 +58,15 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.8% | 100% |  |
 | 7.5–8.5% | 7% | 99.2% |  |
 | 8.5–9.5% | 18% | 92% |  |
-| 9.5–10.5% | 16% | 74% |  |
-| 10.5–11.5% | 7% | 57% |  |
-| 11.5–12.5% | 5% | 50% | Median |
-| 12.5–13.5% | 12% | 45% |  |
-| 13.5–14.5% | 16% | 33% |  |
-| 14.5–15.5% | 11% | 16% |  |
-| 15.5–16.5% | 4% | 5% |  |
-| 16.5–17.5% | 0.9% | 1.0% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 17% | 74% |  |
+| 10.5–11.5% | 10% | 57% | Median |
+| 11.5–12.5% | 12% | 47% |  |
+| 12.5–13.5% | 17% | 35% |  |
+| 13.5–14.5% | 12% | 19% |  |
+| 14.5–15.5% | 5% | 6% |  |
+| 15.5–16.5% | 1.2% | 1.3% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -105,6 +106,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [11–30 November 2020](2020-11-30-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
