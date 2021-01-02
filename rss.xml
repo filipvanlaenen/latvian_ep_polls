@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Dec 2020 09:43:47 +0100</pubDate>
+    <pubDate>Sat, 02 Jan 2021 10:30:49 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Factum, 1–17 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-12-17-Factum.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2020-12-17-Factum-seats.png"
+        length="228237"
+        type="image/png"/>
+      <pubDate>Sat, 02 Jan 2021 10:30:49 +0100</pubDate>
+      <dc:date>2021-01-02T10:30:49.319433+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 1–17 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-12-17-Factum.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2020-12-17-Factum-coalitions-seats.png"
+        length="106911"
+        type="image/png"/>
+      <pubDate>Sat, 02 Jan 2021 10:30:49 +0100</pubDate>
+      <dc:date>2021-01-02T10:30:49.319433+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 1–17 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-12-17-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 11.8–14.5%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 7.1–9.3%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 11.8–14.5%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 11.8–14.5%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 11.8–14.5%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 11.8–14.5%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 2.4–3.8%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 3.3–4.9%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 7.1–9.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2020-12-17-Factum.png"
+        length="328425"
+        type="image/png"/>
+      <pubDate>Sat, 02 Jan 2021 10:30:49 +0100</pubDate>
+      <dc:date>2021-01-02T10:30:49.319433+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum, 11–30 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2020-11-30-Factum.html#seats</link>
@@ -1089,6 +1119,6 @@
       <pubDate>Thu, 13 Jun 2019 12:51:21 +0200</pubDate>
       <dc:date>2019-06-13T12:51:21.859051+02:00</dc:date>
     </item>
-    <dc:date>2020-12-21T09:43:47.436305+01:00</dc:date>
+    <dc:date>2021-01-02T10:30:49.319433+01:00</dc:date>
   </channel>
 </rss>
