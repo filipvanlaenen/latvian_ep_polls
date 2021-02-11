@@ -2,13 +2,13 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 7–14% <br> 1 | 10–14% <br> 1 | 12–24% <br> 1–2 | 12–18% <br> 1 | 3–5% <br> 0 | 2–7% <br> 0–1 | 8–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–12% <br> 1 | 2–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
-| [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 1 | 9–14% <br> 1 | 19–25% <br> 1–2 | 13–18% <br> 1 | 3–6% <br> 0 | 4–7% <br> 0–1 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 1 | 3–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
-| [1–17 December 2020](2020-12-17-Factum.html) | Factum | 12–15% <br> 1 | 12–15% <br> 1 | 12–15% <br> 1 | 12–15% <br> 1 | 3–5% <br> 0 | 2–4% <br> 0 | 12–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–9% <br> 1 | 2–3% <br> 0 | 7–9% <br> 1 | N/A <br> N/A |
-| 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS | LuK |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 7–15% <br> 1 | 10–14% <br> 1 | 10–24% <br> 1–2 | 11–18% <br> 1 | 3–6% <br> 0 | 2–7% <br> 0–1 | 8–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–12% <br> 1 | 2–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 |
+| [28–31 January 2021](2021-01-31-Factum.html) | Factum | 12–16% <br> 1 | 11–14% <br> 1 | 10–14% <br> 1 | 11–14% <br> 1 | 3–5% <br> 0 | 2–4% <br> 0 | 12–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1 | 2–4% <br> 0 | 6–8% <br> 1 | N/A <br> N/A | 3–5% <br> 0 |
+| [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6–10% <br> 1 | 9–14% <br> 1 | 19–25% <br> 1–2 | 13–18% <br> 1 | 3–6% <br> 0 | 4–7% <br> 0–1 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 1 | 3–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -28,6 +28,7 @@ Only polls for which at least the sample size has been published are included in
 + **KPV:** Politiskā partija „KPV LV” (EPP)
 + **P:** PROGRESĪVIE (S&D)
 + **JS:** Jaunā Saskaņa (GUE/NGL)
++ **LuK:** Likums un kārtība (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
