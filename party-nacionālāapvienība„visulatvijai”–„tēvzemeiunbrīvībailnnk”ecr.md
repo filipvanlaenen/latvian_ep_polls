@@ -10,7 +10,8 @@ Last result: **14.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 10.5–13.4% | 10.1–13.8% | 9.7–14.1% | 9.1–14.8% |
+| N/A | [Poll Average](average.html) | 11.2% | 10.2–12.4% | 9.9–12.9% | 9.6–13.2% | 9.0–14.0% |
+| [1–28 February 2021](2021-02-28-Factum.html) | Factum | 11.1% | 10.2–12.1% | 10.0–12.3% | 9.8–12.6% | 9.3–13.1% |
 | [28–31 January 2021](2021-01-31-Factum.html) | Factum | 12.4% | 11.3–13.7% | 11.0–14.0% | 10.7–14.3% | 10.2–15.0% |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.3% | 10.1–12.8% | 9.7–13.2% | 9.4–13.6% | 8.9–14.3% |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 13.1% | 12.3–14.1% | 12.0–14.3% | 11.8–14.5% | 11.4–15.0% |
@@ -61,14 +62,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
 | 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 9% | 98% |  |
-| 10.5–11.5% | 25% | 89% |  |
-| 11.5–12.5% | 34% | 64% | Median |
-| 12.5–13.5% | 23% | 30% |  |
-| 13.5–14.5% | 7% | 7% | Last Result |
-| 14.5–15.5% | 0.8% | 0.9% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 19% | 98% |  |
+| 10.5–11.5% | 43% | 79% | Median |
+| 11.5–12.5% | 27% | 36% |  |
+| 12.5–13.5% | 7% | 9% |  |
+| 13.5–14.5% | 1.2% | 1.3% | Last Result |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -80,6 +80,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1–28 February 2021](2021-02-28-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [28–31 January 2021](2021-01-31-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 1 | 1 | 1 | 1 | 1 |
@@ -129,8 +130,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Last Result, Median |
 
 
