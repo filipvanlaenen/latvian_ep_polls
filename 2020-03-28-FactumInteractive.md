@@ -52,8 +52,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 92% | 92% | Median |
+| 1 | 9% | 100% | Last Result |
+| 2 | 91% | 91% | Median |
 | 3 | 0% | 0% |  |
 
 ### Jaunā VIENOTĪBA (EPP)
@@ -119,8 +119,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 99.8% | 99.8% | Median |
 | 2 | 0% | 0% |  |
 
 ### Latvijas Reģionu Apvienība (ECR)
@@ -131,8 +131,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
 ### Latvijas Krievu savienība (Greens/EFA)
@@ -188,8 +188,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 8% | 100% |  |
-| 3 | 92% | 92% | Median |
+| 2 | 9% | 100% |  |
+| 3 | 91% | 91% | Median |
 | 4 | 0% | 0% |  |
 
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR)
@@ -198,8 +198,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 92% | 100% | Last Result, Median |
-| 2 | 8% | 8% |  |
+| 1 | 91% | 100% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
@@ -232,6 +232,6 @@
 ### Calculations
 
 + **Sample size:** 1994
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.49%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.94%
 

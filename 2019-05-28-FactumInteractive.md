@@ -39,10 +39,10 @@
 | <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#progresīvie-(s&d)">PROGRESĪVIE (S&D)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#progresīvie-(s&d)">PROGRESĪVIE (S&D)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu Apvienība (ECR)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0–1 |
-| <a href="#politiskā-partija-„kpv-lv”-(epp)">Politiskā partija „KPV LV” (EPP)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 1 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#politiskā-partija-„kpv-lv”-(epp)">Politiskā partija „KPV LV” (EPP)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
 ### Sociāldemokrātiskā partija “Saskaņa” (S&D)
 
@@ -52,8 +52,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 70% | 100% | Last Result, Median |
-| 2 | 30% | 30% |  |
+| 1 | 52% | 100% | Last Result, Median |
+| 2 | 48% | 48% |  |
 | 3 | 0% | 0% |  |
 
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)
@@ -64,8 +64,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 61% | 100% | Last Result, Median |
-| 2 | 39% | 39% |  |
+| 1 | 69% | 100% | Last Result, Median |
+| 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
 ### Jaunā VIENOTĪBA (EPP)
@@ -76,8 +76,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 74% | 100% | Median |
-| 2 | 26% | 26% |  |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -121,8 +121,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 97% | 97% | Median |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 98.9% | 98.9% | Median |
 | 2 | 0% | 0% |  |
 
 ### Latvijas Reģionu Apvienība (ECR)
@@ -133,8 +133,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### Latvijas Krievu savienība (Greens/EFA)
@@ -145,8 +145,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Median |
-| 1 | 1.2% | 1.2% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Politiskā partija „KPV LV” (EPP)
@@ -157,8 +157,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -171,10 +171,10 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Jaunā VIENOTĪBA (EPP) – Jaunā konservatīvā partija (EPP) – Zaļo un Zemnieku savienība (EPP) – Politiskā partija „KPV LV” (EPP) | 5 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Sociāldemokrātiskā partija “Saskaņa” (S&D) – PROGRESĪVIE (S&D) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
+| Sociāldemokrātiskā partija “Saskaņa” (S&D) – PROGRESĪVIE (S&D) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Latvijas Krievu savienība (Greens/EFA) | 1 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+| Latvijas Krievu savienība (Greens/EFA) | 1 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 
 ### Jaunā VIENOTĪBA (EPP) – Jaunā konservatīvā partija (EPP) – Zaļo un Zemnieku savienība (EPP) – Politiskā partija „KPV LV” (EPP)
 
@@ -182,8 +182,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 69% | 100% | Median |
-| 4 | 31% | 31% |  |
+| 3 | 83% | 100% | Median |
+| 4 | 17% | 17% |  |
 | 5 | 0% | 0% | Last Result, Majority |
 
 ### Sociāldemokrātiskā partija “Saskaņa” (S&D) – PROGRESĪVIE (S&D)
@@ -192,9 +192,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% | Last Result |
-| 2 | 69% | 98% | Median |
-| 3 | 29% | 29% |  |
+| 1 | 0.3% | 100% | Last Result |
+| 2 | 52% | 99.7% | Median |
+| 3 | 48% | 48% |  |
 | 4 | 0% | 0% |  |
 
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR)
@@ -203,8 +203,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 60% | 100% | Last Result, Median |
-| 2 | 40% | 40% |  |
+| 1 | 67% | 100% | Last Result, Median |
+| 2 | 32% | 33% |  |
 | 3 | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
@@ -222,8 +222,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Median |
-| 1 | 1.2% | 1.2% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -238,6 +238,6 @@
 ### Calculations
 
 + **Sample size:** 1079
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.83%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.98%
 

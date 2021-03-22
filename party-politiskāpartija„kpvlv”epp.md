@@ -109,18 +109,18 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–1 |
 | [21–24 November 2019](2019-11-24-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–22 October 2019](2019-10-22-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
+| [15–22 October 2019](2019-10-22-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [27–30 September 2019](2019-09-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0–1 | 0–1 |
-| [27–30 August 2019](2019-08-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
+| [27–30 August 2019](2019-08-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [22–29 July 2019](2019-07-29-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
-| [26–30 June 2019](2019-06-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
+| [26–30 June 2019](2019-06-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 May 2019](2019-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–28 May 2019](2019-05-28-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–28 May 2019](2019-05-28-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 

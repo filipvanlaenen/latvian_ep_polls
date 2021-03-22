@@ -95,20 +95,20 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [29 September–4 October 2020](2020-10-04-FactumInteractive.html) | Factum Interactive | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–24 August 2020](2020-08-24-FactumInteractive.html) | Factum Interactive | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–24 August 2020](2020-08-24-FactumInteractive.html) | Factum Interactive | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [8–31 July 2020](2020-07-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–1 |
 | [1–30 June 2020](2020-06-30-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [18–31 May 2020](2020-05-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
+| [18–31 May 2020](2020-05-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–26 April 2020](2020-04-26-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [4–28 March 2020](2020-03-28-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
-| [24–28 February 2020](2020-02-28-FactumInteractive.html) | Factum Interactive | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–28 February 2020](2020-02-28-FactumInteractive.html) | Factum Interactive | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–18 February 2020](2020-02-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–1 |
-| [28 January–1 February 2020](2020-02-01-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 0–1 |
+| [28 January–1 February 2020](2020-02-01-FactumInteractive.html) | Factum Interactive | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 January 2020](2020-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [18–31 December 2019](2019-12-31-FactumInteractive.html) | Factum Interactive | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -119,13 +119,13 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [27–30 September 2019](2019-09-30-FactumInteractive.html) | Factum Interactive | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–1 |
 | [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [27–30 August 2019](2019-08-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
+| [27–30 August 2019](2019-08-30-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [22–29 July 2019](2019-07-29-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
 | [26–30 June 2019](2019-06-30-FactumInteractive.html) | Factum Interactive | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–31 May 2019](2019-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–28 May 2019](2019-05-28-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 0–1 | 0–1 |
+| [1–28 May 2019](2019-05-28-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 0–1 |
 
 ### Probability Mass Function
 
