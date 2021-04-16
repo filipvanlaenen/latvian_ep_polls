@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 01 Apr 2021 15:37:53 +0200</pubDate>
+    <pubDate>Fri, 16 Apr 2021 07:21:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS-seats.png"
+        length="298419"
+        type="image/png"/>
+      <pubDate>Fri, 16 Apr 2021 07:21:18 +0200</pubDate>
+      <dc:date>2021-04-16T07:21:18.899543+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS-coalitions-seats.png"
+        length="184096"
+        type="image/png"/>
+      <pubDate>Fri, 16 Apr 2021 07:21:18 +0200</pubDate>
+      <dc:date>2021-04-16T07:21:18.899543+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 16.6–20.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 6.1–8.5%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 8.2–10.9%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 12.0–15.2%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 10.4–13.4%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 10.2–13.1%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 3.9–5.9%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 4.5–6.6%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 6.6–9.0%&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 5.7–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS.png"
+        length="338481"
+        type="image/png"/>
+      <pubDate>Fri, 16 Apr 2021 07:21:18 +0200</pubDate>
+      <dc:date>2021-04-16T07:21:18.899543+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 26–30 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-30-FactumInteractive.html#seats</link>
@@ -1299,6 +1329,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-04-01T15:37:53.153884+02:00</dc:date>
+    <dc:date>2021-04-16T07:21:18.899543+02:00</dc:date>
   </channel>
 </rss>
