@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 16 Apr 2021 07:21:18 +0200</pubDate>
+    <pubDate>Tue, 04 May 2021 19:22:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 26–30 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-04-30-FactumInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 13.3–17.4%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 6.0–9.0%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 10.5–14.2%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.2–13.9%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 8.5–11.9%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 14.7–19.0%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 3.2–5.6%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 3.1–5.4%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 5.1–8.0%&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 4.4–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-04-30-FactumInteractive.png"
+        length="364198"
+        type="image/png"/>
+      <pubDate>Tue, 04 May 2021 19:22:17 +0200</pubDate>
+      <dc:date>2021-05-04T19:22:17.239548+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-03-31-SKDS.html#seats</link>
@@ -1329,6 +1339,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-04-16T07:21:18.899543+02:00</dc:date>
+    <dc:date>2021-05-04T19:22:17.239548+02:00</dc:date>
   </channel>
 </rss>
