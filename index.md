@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS | LuK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 10–20% <br> 1–2 | 12–17% <br> 1–2 | 16–21% <br> 1–2 | 11–16% <br> 1–2 | 3–6% <br> 0 | 3–6% <br> 0 | 8–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–10% <br> 0–1 | 0–2% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 2–6% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 10–19% <br> 1–2 | 11–17% <br> 1 | 16–22% <br> 1–2 | 12–17% <br> 1–2 | 3–6% <br> 0 | 3–6% <br> 0–1 | 8–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–10% <br> 0–1 | 0–3% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 3–7% <br> 0–1 |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 10–13% <br> 1 | 13–17% <br> 1 | 18–21% <br> 2 | 13–17% <br> 1–2 | 4–6% <br> 0 | 4–5% <br> 0 | 8–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 0–1 | 1% <br> 0 | 6–8% <br> 1 | N/A <br> N/A | 4–6% <br> 0–1 |
 | [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 14–20% <br> 1–2 | 11–17% <br> 1–2 | 15–22% <br> 1–2 | 11–16% <br> 1–2 | 3–6% <br> 0 | 2–6% <br> 0–1 | 9–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–11% <br> 1 | 0–2% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A | 2–5% <br> 0 |
-| [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti | 11–15% <br> 1 | 11–15% <br> 1 | 17–22% <br> 1–2 | 13–17% <br> 1–2 | 3–5% <br> 0 | 3–6% <br> 0–1 | 9–13% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1 | 2–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
