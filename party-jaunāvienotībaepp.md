@@ -10,17 +10,17 @@ Last result: **46.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.4% | 10.9–18.3% | 10.6–19.0% | 10.3–19.6% | 9.8–20.7% |
+| N/A | [Poll Average](average.html) | 12.9% | 11.0–17.7% | 10.7–18.6% | 10.4–19.2% | 9.9–20.5% |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.5% | 10.6–12.5% | 10.3–12.8% | 10.1–13.0% | 9.7–13.5% |
 | [1–31 May 2021](2021-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.9% | 11.0–12.9% | 10.7–13.2% | 10.5–13.5% | 10.1–14.0% |
 | [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 16.8% | 15.0–19.0% | 14.4–19.6% | 14.0–20.1% | 13.2–21.2% |
 | [1–30 April 2021](2021-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.6% | 10.3–13.2% | 10.0–13.6% | 9.6–14.0% | 9.0–14.8% |
 | [26–30 April 2021](2021-04-30-FactumInteractive.html) | Factum Interactive | 16.8% | 15.4–18.2% | 15.0–18.6% | 14.7–19.0% | 14.1–19.7% |
-| [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti | 12.8% | N/A | N/A | N/A | N/A |
+| [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti | 12.8% | 11.5–14.2% | 11.1–14.6% | 10.8–15.0% | 10.3–15.7% |
 | [1–31 March 2021](2021-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.6% | 10.7–12.6% | 10.4–12.9% | 10.2–13.1% | 9.8–13.6% |
-| [1–31 March 2021](2021-03-31-LatvijasFakti.html) | Latvijas Fakti | 12.3% | N/A | N/A | N/A | N/A |
+| [1–31 March 2021](2021-03-31-LatvijasFakti.html) | Latvijas Fakti | 12.3% | 11.0–13.9% | 10.7–14.3% | 10.4–14.7% | 9.8–15.4% |
 | [26–30 March 2021](2021-03-30-FactumInteractive.html) | Factum Interactive | 15.8% | 14.4–17.3% | 14.0–17.8% | 13.6–18.2% | 13.0–18.9% |
-| [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 11.6% | N/A | N/A | N/A | N/A |
+| [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 11.6% | 10.3–13.0% | 10.0–13.5% | 9.6–13.8% | 9.1–14.6% |
 | [1–28 February 2021](2021-02-28-FactumInteractive.html) | Factum Interactive | 15.1% | 14.1–16.2% | 13.8–16.6% | 13.6–16.8% | 13.1–17.4% |
 | [28–31 January 2021](2021-01-31-FactumInteractive.html) | Factum Interactive | 13.7% | 12.5–15.0% | 12.2–15.4% | 11.9–15.7% | 11.3–16.4% |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.0% | 7.0–9.3% | 6.6–9.6% | 6.4–10.0% | 5.9–10.6% |
@@ -72,18 +72,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 4% | 99.9% |  |
-| 10.5–11.5% | 21% | 95% |  |
-| 11.5–12.5% | 20% | 74% |  |
-| 12.5–13.5% | 5% | 55% | Median |
-| 13.5–14.5% | 3% | 50% |  |
-| 14.5–15.5% | 6% | 47% |  |
-| 15.5–16.5% | 11% | 41% |  |
-| 16.5–17.5% | 12% | 30% |  |
-| 17.5–18.5% | 10% | 17% |  |
-| 18.5–19.5% | 5% | 8% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.5% | 0.7% |  |
+| 9.5–10.5% | 3% | 99.9% |  |
+| 10.5–11.5% | 17% | 97% |  |
+| 11.5–12.5% | 23% | 79% |  |
+| 12.5–13.5% | 15% | 56% | Median |
+| 13.5–14.5% | 8% | 41% |  |
+| 14.5–15.5% | 6% | 33% |  |
+| 15.5–16.5% | 8% | 27% |  |
+| 16.5–17.5% | 8% | 20% |  |
+| 17.5–18.5% | 6% | 12% |  |
+| 18.5–19.5% | 3% | 5% |  |
+| 19.5–20.5% | 1.3% | 2% |  |
+| 20.5–21.5% | 0.4% | 0.5% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% |  |
@@ -125,11 +125,11 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–30 April 2021](2021-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [26–30 April 2021](2021-04-30-FactumInteractive.html) | Factum Interactive | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti |  |  |  |  |  |
+| [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
 | [1–31 March 2021](2021-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
-| [1–31 March 2021](2021-03-31-LatvijasFakti.html) | Latvijas Fakti |  |  |  |  |  |
+| [1–31 March 2021](2021-03-31-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
 | [26–30 March 2021](2021-03-30-FactumInteractive.html) | Factum Interactive | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti |  |  |  |  |  |
+| [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
 | [1–28 February 2021](2021-02-28-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [28–31 January 2021](2021-01-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 0–1 |
@@ -181,8 +181,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 68% | 100% | Median |
-| 2 | 32% | 32% |  |
+| 1 | 78% | 100% | Median |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
