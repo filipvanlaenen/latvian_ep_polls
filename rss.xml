@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 07 Jul 2021 14:56:17 +0200</pubDate>
+    <pubDate>Thu, 08 Jul 2021 20:43:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-06-30-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-06-30-SKDS-seats.png"
+        length="308486"
+        type="image/png"/>
+      <pubDate>Thu, 08 Jul 2021 20:43:09 +0200</pubDate>
+      <dc:date>2021-07-08T20:43:09.079698+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-06-30-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-06-30-SKDS-coalitions-seats.png"
+        length="182634"
+        type="image/png"/>
+      <pubDate>Thu, 08 Jul 2021 20:43:09 +0200</pubDate>
+      <dc:date>2021-07-08T20:43:09.079698+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-06-30-SKDS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-06-30-SKDS.png"
         length="358416"
         type="image/png"/>
-      <pubDate>Tue, 06 Jul 2021 21:42:26 +0200</pubDate>
-      <dc:date>2021-07-06T21:42:26.537816+02:00</dc:date>
+      <pubDate>Thu, 08 Jul 2021 20:43:09 +0200</pubDate>
+      <dc:date>2021-07-08T20:43:09.079698+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 May 2021 – Seat Projections for the Parties</title>
@@ -1489,6 +1509,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-07-07T14:56:17.145295+02:00</dc:date>
+    <dc:date>2021-07-08T20:43:09.079698+02:00</dc:date>
   </channel>
 </rss>
