@@ -100,7 +100,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [1–31 March 2021](2021-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 March 2021](2021-03-31-LatvijasFakti.html) | Latvijas Fakti | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 March 2021](2021-03-30-FactumInteractive.html) | Factum Interactive | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 0 | 0 | 0 | 0 | 0–1 |
+| [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–28 February 2021](2021-02-28-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [28–31 January 2021](2021-01-31-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
