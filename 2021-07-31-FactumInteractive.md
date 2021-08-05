@@ -15,7 +15,7 @@
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | 14.2% | 14.4% | 12.6–16.4% |12.1–17.0% |11.7–17.5% |10.9–18.6% |
 | Zaļo un Zemnieku savienība (EPP) | 8.3% | 11.7% | 10.1–13.6% |9.6–14.1% |9.3–14.6% |8.6–15.6% |
 | Attīstībai/Par! (RE) | 2.1% | 11.5% | 9.9–13.4% |9.5–13.9% |9.1–14.4% |8.4–15.4% |
-| PROGRESĪVIE (S&D) | 0.0% | 6.5% | 5.3–8.0% |5.0–8.4% |4.7–8.8% |4.2–9.6% |
+| PROGRESĪVIE (Greens/EFA) | 0.0% | 6.5% | 5.3–8.0% |5.0–8.4% |4.7–8.8% |4.2–9.6% |
 | Jaunā konservatīvā partija (EPP) | 0.0% | 5.7% | 4.7–7.2% |4.4–7.6% |4.1–8.0% |3.6–8.8% |
 | Latvijas Reģionu Apvienība (ECR) | 2.5% | 4.1% | 3.2–5.4% |3.0–5.8% |2.8–6.1% |2.4–6.8% |
 | Likums un kārtība (*) | 0.0% | 4.1% | 3.2–5.4% |3.0–5.8% |2.8–6.1% |2.4–6.8% |
@@ -39,7 +39,7 @@
 | <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 1 | 1 | 1 |1 |1 |1 |
 | <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#progresīvie-(s&d)">PROGRESĪVIE (S&D)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#progresīvie-(greens/efa)">PROGRESĪVIE (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu Apvienība (ECR)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#likums-un-kārtība-(*)">Likums un kārtība (*)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
@@ -108,11 +108,11 @@
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
-### PROGRESĪVIE (S&D)
+### PROGRESĪVIE (Greens/EFA)
 
-*For a full overview of the results for this party, see the [PROGRESĪVIE (S&D)](party-progresīviesd.html) page.*
+*For a full overview of the results for this party, see the [PROGRESĪVIE (Greens/EFA)](party-progresīviegreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-seats-pmf-progresīviesd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-seats-pmf-progresīviegreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -188,10 +188,10 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Jaunā VIENOTĪBA (EPP) – Zaļo un Zemnieku savienība (EPP) – Jaunā konservatīvā partija (EPP) – Politiskā partija „KPV LV” (EPP) | 5 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–4 |
-| Sociāldemokrātiskā partija “Saskaņa” (S&D) – PROGRESĪVIE (S&D) | 1 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
+| Sociāldemokrātiskā partija “Saskaņa” (S&D) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Latvijas Krievu savienība (Greens/EFA) | 1 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+| PROGRESĪVIE (Greens/EFA) – Latvijas Krievu savienība (Greens/EFA) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Jaunā VIENOTĪBA (EPP) – Zaļo un Zemnieku savienība (EPP) – Jaunā konservatīvā partija (EPP) – Politiskā partija „KPV LV” (EPP)
 
@@ -204,17 +204,6 @@
 | 4 | 15% | 15% |  |
 | 5 | 0% | 0% | Last Result, Majority |
 
-### Sociāldemokrātiskā partija “Saskaņa” (S&D) – PROGRESĪVIE (S&D)
-
-![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-coalitions-seats-pmf-sdps–p.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% | Last Result |
-| 2 | 70% | 86% | Median |
-| 3 | 17% | 17% |  |
-| 4 | 0% | 0% |  |
-
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR)
 
 ![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-coalitions-seats-pmf-na–lra.png "Seats Probability Mass Function")
@@ -225,6 +214,16 @@
 | 2 | 21% | 22% |  |
 | 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
+
+### Sociāldemokrātiskā partija “Saskaņa” (S&D)
+
+![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-coalitions-seats-pmf-sdps.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 78% | 100% | Last Result, Median |
+| 2 | 22% | 22% |  |
+| 3 | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
 
@@ -237,15 +236,16 @@
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
-### Latvijas Krievu savienība (Greens/EFA)
+### PROGRESĪVIE (Greens/EFA) – Latvijas Krievu savienība (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-coalitions-seats-pmf-lks.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-07-31-FactumInteractive-coalitions-seats-pmf-p–lks.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Median |
-| 1 | 2% | 2% | Last Result |
-| 2 | 0% | 0% |  |
+| 0 | 18% | 100% |  |
+| 1 | 81% | 82% | Last Result, Median |
+| 2 | 1.1% | 1.1% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information
