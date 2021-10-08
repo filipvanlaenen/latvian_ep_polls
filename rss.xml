@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Oct 2021 23:12:56 +0200</pubDate>
+    <pubDate>Fri, 08 Oct 2021 19:17:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 1 September–1 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-01-FactumInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-01-FactumInteractive-seats.png"
+        length="320822"
+        type="image/png"/>
+      <pubDate>Fri, 08 Oct 2021 19:17:50 +0200</pubDate>
+      <dc:date>2021-10-08T19:17:50.354059+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 1 September–1 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-01-FactumInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-01-FactumInteractive-coalitions-seats.png"
+        length="203706"
+        type="image/png"/>
+      <pubDate>Fri, 08 Oct 2021 19:17:50 +0200</pubDate>
+      <dc:date>2021-10-08T19:17:50.354059+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 1 September–1 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-01-FactumInteractive.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-01-FactumInteractive.png"
         length="368367"
         type="image/png"/>
-      <pubDate>Sun, 03 Oct 2021 23:12:56 +0200</pubDate>
-      <dc:date>2021-10-03T23:12:56.850657+02:00</dc:date>
+      <pubDate>Fri, 08 Oct 2021 19:17:50 +0200</pubDate>
+      <dc:date>2021-10-08T19:17:50.354059+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 August 2021 – Seat Projections for the Parties</title>
@@ -1699,6 +1719,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-10-03T23:12:56.850657+02:00</dc:date>
+    <dc:date>2021-10-08T19:17:50.354059+02:00</dc:date>
   </channel>
 </rss>
