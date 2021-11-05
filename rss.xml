@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Nov 2021 21:25:58 +0100</pubDate>
+    <pubDate>Thu, 04 Nov 2021 21:35:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Republika (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS-seats.png"
+        length="362921"
+        type="image/png"/>
+      <pubDate>Thu, 04 Nov 2021 21:35:00 +0100</pubDate>
+      <dc:date>2021-11-04T21:35:00.896005+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS-coalitions-seats.png"
+        length="203722"
+        type="image/png"/>
+      <pubDate>Thu, 04 Nov 2021 21:35:00 +0100</pubDate>
+      <dc:date>2021-11-04T21:35:00.896005+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS.png"
         length="414030"
         type="image/png"/>
-      <pubDate>Wed, 03 Nov 2021 21:08:54 +0100</pubDate>
-      <dc:date>2021-11-03T21:08:54.459325+01:00</dc:date>
+      <pubDate>Thu, 04 Nov 2021 21:35:00 +0100</pubDate>
+      <dc:date>2021-11-04T21:35:00.896005+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 1–31 October 2021 – Voting Intentions</title>
@@ -1769,6 +1789,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-11-03T21:25:58.703122+01:00</dc:date>
+    <dc:date>2021-11-04T21:35:00.896005+01:00</dc:date>
   </channel>
 </rss>
