@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Nov 2021 23:36:25 +0100</pubDate>
+    <pubDate>Mon, 08 Nov 2021 19:12:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive.png"
         length="395092"
         type="image/png"/>
-      <pubDate>Fri, 05 Nov 2021 23:36:25 +0100</pubDate>
-      <dc:date>2021-11-05T23:36:25.71537+01:00</dc:date>
+      <pubDate>Mon, 08 Nov 2021 19:12:45 +0100</pubDate>
+      <dc:date>2021-11-08T19:12:45.445683+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 1 September–1 October 2021 – Seat Projections for the Parties</title>
@@ -1789,6 +1789,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-11-05T23:36:25.71537+01:00</dc:date>
+    <dc:date>2021-11-08T19:12:45.445683+01:00</dc:date>
   </channel>
 </rss>
