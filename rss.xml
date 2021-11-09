@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 08 Nov 2021 19:12:45 +0100</pubDate>
+    <pubDate>Mon, 08 Nov 2021 19:32:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-SKDS.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-11-04T21:35:00.896005+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Factum Interactive, 1–31 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 1 seats&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Republika (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive-seats.png"
+        length="340258"
+        type="image/png"/>
+      <pubDate>Mon, 08 Nov 2021 19:32:20 +0100</pubDate>
+      <dc:date>2021-11-08T19:32:20.999217+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 1–31 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive-coalitions-seats.png"
+        length="202229"
+        type="image/png"/>
+      <pubDate>Mon, 08 Nov 2021 19:32:20 +0100</pubDate>
+      <dc:date>2021-11-08T19:32:20.999217+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Factum Interactive, 1–31 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 11.2–14.2%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV” (EPP): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 4.2–6.2%&lt;/li&gt;&lt;li&gt;Attīstībai/Par! (RE): 12.6–15.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 10.4–13.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (EPP): 7.8–10.4%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 14.3–17.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (ECR): 3.0–4.8%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (Greens/EFA): 2.7–4.4%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 5.4–7.6%&lt;/li&gt;&lt;li&gt;Likums un kārtība (*): 5.4–7.6%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (*): 3.6–5.5%&lt;/li&gt;&lt;li&gt;Republika (*): 1.6–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2021-10-31-FactumInteractive.png"
         length="395092"
         type="image/png"/>
-      <pubDate>Mon, 08 Nov 2021 19:12:45 +0100</pubDate>
-      <dc:date>2021-11-08T19:12:45.445683+01:00</dc:date>
+      <pubDate>Mon, 08 Nov 2021 19:32:20 +0100</pubDate>
+      <dc:date>2021-11-08T19:32:20.999217+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 1 September–1 October 2021 – Seat Projections for the Parties</title>
@@ -1789,6 +1809,6 @@
       <pubDate>Sun, 21 Mar 2021 14:12:34 +0100</pubDate>
       <dc:date>2021-03-21T14:12:34.568657+01:00</dc:date>
     </item>
-    <dc:date>2021-11-08T19:12:45.445683+01:00</dc:date>
+    <dc:date>2021-11-08T19:32:20.999217+01:00</dc:date>
   </channel>
 </rss>
