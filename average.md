@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS | LuK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 13–20% <br> 1–2 | 9–14% <br> 1 | 12–19% <br> 1–2 | 5–15% <br> 0–1 | 2–6% <br> 0–1 | 4–6% <br> 0–1 | 8–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 0–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 3–7% <br> 0–1 |
-| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 15–20% <br> 1–2 | 10–14% <br> 1 | 11–16% <br> 1 | 5–8% <br> 0–1 | 2–5% <br> 0 | 4–7% <br> 0–1 | 11–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 0–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 |
-| [8–29 November 2021](2021-11-29-SKDS.html) | SKDS <br> Latvijas Televīzija | 13–16% <br> 1–2 | 9–12% <br> 1 | 16–20% <br> 1–2 | 12–16% <br> 1–2 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 6–8% <br> 1 | N/A <br> N/A | 2–4% <br> 0 |
+| N/A | Poll Average | 12–19% <br> 1–2 | 10–13% <br> 1 | 11–21% <br> 1–2 | 8–13% <br> 1 | 2–6% <br> 0–1 | 3–6% <br> 0–1 | 7–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 0–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 |
+| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 12–15% <br> 1 | 10–13% <br> 1 | 18–21% <br> 2 | 10–13% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 7–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 0–1 | N/A <br> N/A | 5–8% <br> 0–1 | N/A <br> N/A | 4–6% <br> 0–1 |
+| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 15–20% <br> 1–2 | 9–14% <br> 1 | 11–15% <br> 1–2 | 8–11% <br> 1 | 2–4% <br> 0 | 4–6% <br> 0–1 | 11–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 0–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -44,18 +44,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#jaunā-vienotība-(epp)">Jaunā VIENOTĪBA (EPP)</a> | 46.2% | 15.8% | 14.0–18.6% |13.7–19.2% | 13.4–19.7% | 12.8–20.6% |
-| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 14.2% | 11.0% | 9.8–12.8% |9.5–13.3% | 9.3–13.7% | 8.9–14.5% |
-| <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā partija “Saskaņa” (S&D)</a> | 13.0% | 16.0% | 12.5–18.6% |12.0–19.0% | 11.6–19.3% | 10.9–20.0% |
-| <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 8.3% | 10.7% | 5.7–14.6% |5.4–15.0% | 5.1–15.3% | 4.7–15.9% |
-| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 6.4% | 4.4% | 2.7–5.7% |2.5–5.9% | 2.3–6.1% | 2.0–6.5% |
-| <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu Apvienība (ECR)</a> | 2.5% | 5.1% | 4.3–5.9% |4.1–6.2% | 3.9–6.5% | 3.6–7.1% |
-| <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 2.1% | 10.6% | 8.6–14.0% |8.3–14.5% | 8.0–14.9% | 7.6–15.8% |
+| <a href="#jaunā-vienotība-(epp)">Jaunā VIENOTĪBA (EPP)</a> | 46.2% | 14.9% | 12.9–18.0% |12.6–18.6% | 12.3–19.1% | 11.8–20.0% |
+| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 14.2% | 11.5% | 10.4–12.7% |10.0–13.1% | 9.7–13.4% | 9.1–14.2% |
+| <a href="#sociāldemokrātiskā-partija-“saskaņa”-(s&d)">Sociāldemokrātiskā partija “Saskaņa” (S&D)</a> | 13.0% | 16.7% | 12.0–20.1% |11.6–20.5% | 11.2–20.9% | 10.5–21.5% |
+| <a href="#zaļo-un-zemnieku-savienība-(epp)">Zaļo un Zemnieku savienība (EPP)</a> | 8.3% | 10.8% | 8.6–12.4% |8.2–12.7% | 7.9–13.0% | 7.3–13.6% |
+| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 6.4% | 4.0% | 2.6–5.1% |2.4–5.4% | 2.2–5.6% | 1.9–6.0% |
+| <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu Apvienība (ECR)</a> | 2.5% | 4.3% | 3.5–5.6% |3.4–5.9% | 3.2–6.2% | 3.0–6.8% |
+| <a href="#attīstībai/par!-(re)">Attīstībai/Par! (RE)</a> | 2.1% | 9.7% | 7.3–13.6% |7.1–14.1% | 6.9–14.6% | 6.5–15.4% |
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0.0% | 5.4% | 4.7–6.5% |4.5–6.8% | 4.3–7.1% | 4.0–7.8% |
+| <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0.0% | 5.9% | 4.9–6.7% |4.7–7.0% | 4.4–7.2% | 4.0–7.7% |
 | <a href="#politiskā-partija-„kpv-lv”-(epp)">Politiskā partija „KPV LV” (EPP)</a> | 0.0% | 0.9% | 0.5–1.3% |0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
-| <a href="#progresīvie-(greens/efa)">PROGRESĪVIE (Greens/EFA)</a> | 0.0% | 6.6% | 5.5–7.6% |5.2–7.8% | 4.9–8.1% | 4.5–8.5% |
+| <a href="#progresīvie-(greens/efa)">PROGRESĪVIE (Greens/EFA)</a> | 0.0% | 6.3% | 5.3–7.2% |5.0–7.5% | 4.7–7.7% | 4.3–8.2% |
 | <a href="#jaunā-saskaņa-(gue/ngl)">Jaunā Saskaņa (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#likums-un-kārtība-(*)">Likums un kārtība (*)</a> | 0.0% | 4.2% | 2.9–6.3% |2.7–6.7% | 2.6–7.0% | 2.4–7.6% |
+| <a href="#likums-un-kārtība-(*)">Likums un kārtība (*)</a> | 0.0% | 5.4% | 4.6–6.3% |4.4–6.6% | 4.2–6.9% | 3.8–7.5% |
 
