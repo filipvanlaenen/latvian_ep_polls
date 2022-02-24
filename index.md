@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JV | NA | SDPS | ZZS | LKS | LRA | AP! | NSL | VL | JKP | KPV | P | JS | LuK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 12–19% <br> 1–2 | 10–13% <br> 1 | 11–21% <br> 1–2 | 8–13% <br> 1 | 2–6% <br> 0–1 | 3–5% <br> 0 | 7–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 0–1 | 0–1% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 4–8% <br> 0–1 |
-| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 12–15% <br> 1 | 10–13% <br> 1 | 18–21% <br> 2 | 10–13% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 7–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 0–1 | N/A <br> N/A | 5–8% <br> 0–1 | N/A <br> N/A | 4–6% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 12–19% <br> 1–2 | 9–13% <br> 1 | 11–20% <br> 1–2 | 8–16% <br> 1–2 | 2–6% <br> 0–1 | 3–5% <br> 0–1 | 7–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 0–1% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 4–8% <br> 0–1 |
+| [1–31 January 2022](2022-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12–15% <br> 1 | 9–12% <br> 1 | 17–20% <br> 2 | 13–16% <br> 1–2 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 7–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 5–7% <br> 0–1 | N/A <br> N/A | 4–5% <br> 0–1 |
 | [1–31 December 2021](2021-12-31-FactumInteractive.html) | Factum Interactive | 15–19% <br> 1–2 | 10–13% <br> 1 | 11–14% <br> 1 | 8–11% <br> 1 | 2–4% <br> 0 | 3–5% <br> 0 | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 0–1 | 0–1% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 5–8% <br> 0–1 |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
