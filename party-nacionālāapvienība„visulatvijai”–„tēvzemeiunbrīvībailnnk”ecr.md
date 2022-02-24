@@ -10,7 +10,8 @@ Last result: **14.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 10.5–12.6% | 10.2–12.9% | 10.0–13.2% | 9.6–13.7% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.6–12.3% | 9.3–12.6% | 9.1–13.0% | 8.6–13.6% |
+| [1–31 January 2022](2022-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.2% | 9.3–11.2% | 9.1–11.4% | 8.9–11.7% | 8.5–12.2% |
 | [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 11.5% | 10.6–12.5% | 10.3–12.8% | 10.1–13.0% | 9.7–13.5% |
 | [1–31 December 2021](2021-12-31-FactumInteractive.html) | Factum Interactive | 11.5% | 10.5–12.7% | 10.2–13.0% | 9.9–13.3% | 9.4–13.8% |
 | [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 11.4% | 10.2–12.9% | 9.8–13.4% | 9.5–13.7% | 8.9–14.5% |
@@ -34,6 +35,7 @@ Last result: **14.2%** (General Election of 25 May 2019)
 | [26–30 March 2021](2021-03-30-FactumInteractive.html) | Factum Interactive | 12.2% | 11.0–13.7% | 10.6–14.1% | 10.3–14.4% | 9.8–15.1% |
 | [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 10.3% | 9.1–11.7% | 8.7–12.1% | 8.4–12.4% | 7.9–13.1% |
 | [1–28 February 2021](2021-02-28-FactumInteractive.html) | Factum Interactive | 11.1% | 10.2–12.1% | 10.0–12.3% | 9.8–12.6% | 9.3–13.1% |
+| [1 January–2 February 2021](2021-02-02-FactumInteractive.html) | Factum Interactive | 11.8% | N/A | N/A | N/A | N/A |
 | [28–31 January 2021](2021-01-31-FactumInteractive.html) | Factum Interactive | 12.4% | 11.3–13.7% | 11.0–14.0% | 10.7–14.3% | 10.2–15.0% |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.3% | 10.1–12.8% | 9.7–13.2% | 9.4–13.6% | 8.9–14.3% |
 | [1–17 December 2020](2020-12-17-FactumInteractive.html) | Factum Interactive | 12.6% | 11.8–13.5% | 11.5–13.8% | 11.3–14.0% | 10.9–14.4% |
@@ -82,13 +84,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.5% | 100% |  |
-| 9.5–10.5% | 10% | 99.5% |  |
-| 10.5–11.5% | 41% | 90% |  |
-| 11.5–12.5% | 38% | 49% | Median |
-| 12.5–13.5% | 10% | 11% |  |
-| 13.5–14.5% | 0.8% | 0.8% | Last Result |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.3% | 100% |  |
+| 8.5–9.5% | 8% | 99.7% |  |
+| 9.5–10.5% | 31% | 91% |  |
+| 10.5–11.5% | 34% | 60% | Median |
+| 11.5–12.5% | 20% | 26% |  |
+| 12.5–13.5% | 6% | 6% |  |
+| 13.5–14.5% | 0.6% | 0.6% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -101,6 +104,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1–31 January 2022](2022-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 1 | 1 | 1 | 1 | 1 |
 | [1–31 December 2021](2021-12-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
@@ -124,6 +128,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | [26–30 March 2021](2021-03-30-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [1–28 February 2021](2021-02-28-LatvijasFakti.html) | Latvijas Fakti | 1 | 1 | 1 | 1 | 1 |
 | [1–28 February 2021](2021-02-28-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
+| [1 January–2 February 2021](2021-02-02-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [28–31 January 2021](2021-01-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–17 December 2020](2020-12-17-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
