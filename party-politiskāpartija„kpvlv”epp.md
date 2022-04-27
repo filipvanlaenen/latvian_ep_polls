@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.4–2.0% | 0.3–2.3% | 0.3–2.5% | 0.2–2.9% |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
-| [39–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 1.6% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.0% |
+| [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 1.6% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.0% |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 February 2022](2022-02-28-FactumInteractive.html) | Factum Interactive | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.9% | 0.6–2.1% |
 | [1 January–2 February 2022](2022-02-02-FactumInteractive.html) | Factum Interactive | 0.8% | N/A | N/A | N/A | N/A |
@@ -105,7 +105,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [39–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
+| [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [23–28 February 2022](2022-02-28-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [1 January–2 February 2022](2022-02-02-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |

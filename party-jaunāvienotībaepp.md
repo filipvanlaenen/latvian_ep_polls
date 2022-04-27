@@ -12,7 +12,7 @@ Last result: **46.2%** (General Election of 25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.6% | 15.3–18.3% | 14.9–18.8% | 14.6–19.3% | 14.0–20.3% |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.2% | 15.1–17.4% | 14.8–17.7% | 14.6–18.0% | 14.1–18.5% |
-| [39–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 17.1% | 15.5–18.8% | 15.0–19.3% | 14.7–19.8% | 13.9–20.7% |
+| [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 17.1% | 15.5–18.8% | 15.0–19.3% | 14.7–19.8% | 13.9–20.7% |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.1% | 13.1–15.2% | 12.8–15.5% | 12.6–15.8% | 12.1–16.3% |
 | [23–28 February 2022](2022-02-28-FactumInteractive.html) | Factum Interactive | 16.3% | 15.1–17.7% | 14.7–18.1% | 14.4–18.4% | 13.8–19.1% |
 | [1 January–2 February 2022](2022-02-02-FactumInteractive.html) | Factum Interactive | 16.6% | N/A | N/A | N/A | N/A |
@@ -135,7 +135,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [39–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [23–28 February 2022](2022-02-28-FactumInteractive.html) | Factum Interactive | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1 January–2 February 2022](2022-02-02-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
