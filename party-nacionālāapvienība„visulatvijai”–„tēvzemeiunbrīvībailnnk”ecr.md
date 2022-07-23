@@ -10,9 +10,9 @@ Last result: **14.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.3% | 10.9–13.8% | 10.5–14.2% | 10.2–14.6% | 9.6–15.4% |
+| N/A | [Poll Average](average.html) | 12.2% | 11.1–13.5% | 10.8–13.9% | 10.4–14.3% | 9.8–15.1% |
 | [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive | 12.2% | 10.9–13.8% | 10.5–14.2% | 10.2–14.6% | 9.6–15.4% |
-| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.2% | N/A | N/A | N/A | N/A |
+| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.2% | 11.2–13.2% | 11.0–13.5% | 10.8–13.8% | 10.3–14.3% |
 | [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 12.8% | 11.6–14.2% | 11.3–14.6% | 11.0–14.9% | 10.4–15.6% |
 | [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.2% | 14.2–16.4% | 13.9–16.7% | 13.6–16.9% | 13.2–17.5% |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.2% | N/A | N/A | N/A | N/A |
@@ -95,14 +95,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.4% | 100% |  |
-| 9.5–10.5% | 5% | 99.6% |  |
-| 10.5–11.5% | 20% | 95% |  |
-| 11.5–12.5% | 34% | 75% | Median |
-| 12.5–13.5% | 27% | 41% |  |
-| 13.5–14.5% | 11% | 14% | Last Result |
-| 14.5–15.5% | 2% | 3% |  |
-| 15.5–16.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 19% | 97% |  |
+| 11.5–12.5% | 40% | 78% | Median |
+| 12.5–13.5% | 28% | 38% |  |
+| 13.5–14.5% | 8% | 9% | Last Result |
+| 14.5–15.5% | 1.3% | 1.4% |  |
+| 15.5–16.5% | 0.1% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -116,7 +116,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
-| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
 | [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -200,8 +200,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Last Result, Median |
 
 
