@@ -121,7 +121,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 1 |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 1 | 1 | 1 | 1 | 0–1 |
 | [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -210,8 +210,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.7% | 99.7% | Median |
 | 2 | 0% | 0% |  |
 
 

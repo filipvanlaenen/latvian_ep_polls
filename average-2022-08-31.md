@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 14–23% <br> 1–2 | 9–15% <br> 1 | 8–12% <br> 1 | 7–10% <br> 1 | 3–7% <br> 0–1 | 5–10% <br> 0–1 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 1–5% <br> 0 | 4–6% <br> 0–1 | 1–3% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 18–23% <br> 2 | 9–13% <br> 1 | 8–11% <br> 1 | 7–10% <br> 1 | 3–6% <br> 0 | 7–10% <br> 1 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 18–23% <br> 1–2 | 9–13% <br> 1 | 8–11% <br> 1 | 7–10% <br> 1 | 3–6% <br> 0 | 7–10% <br> 1 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 4–6% <br> 0 | 1–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
 | [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14–17% <br> 1–2 | 12–15% <br> 1 | 9–12% <br> 1 | 7–9% <br> 1 | 5–7% <br> 0–1 | 5–7% <br> 0–1 | 8–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 7–9% <br> 1 | N/A <br> N/A | 4–6% <br> 0 | 4–7% <br> 0–1 | 2–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 |
 | 25 May 2019 | General Election | 46.2% <br> 4 | 14.2% <br> 1 | 13.0% <br> 1 | 8.3% <br> 1 | 6.4% <br> 1 | 2.5% <br> 0 | 2.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -429,8 +429,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 65% | 65% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0% | 0% |  |
 
 ### Attīstībai/Par! (RE)
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.7% | 99.7% | Median |
 | 2 | 0% | 0% |  |
 
 ### Jaunā Saskaņa (GUE/NGL)
@@ -538,8 +538,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 
 ### Nacionālā Savienība Taisnīgums (*)
@@ -572,7 +572,7 @@ Only polls for which at least the sample size has been published are included in
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā (*) – Likums un kārtība (*) – Nacionālā Savienība Taisnīgums (*) – No sirds Latvijai (*) – Republika (*) – Stabilitātei! (*) – Suverēnā vara (*) – Vienoti Latvijai (*) | 0 | 0 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
 | Attīstībai/Par! (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| PROGRESĪVIE (Greens/EFA) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
+| PROGRESĪVIE (Greens/EFA) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Jaunā Saskaņa (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība (NI) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -584,8 +584,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 48% | 99.9% |  |
-| 3 | 52% | 52% | Median |
+| 2 | 49% | 99.9% |  |
+| 3 | 51% | 51% | Median |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result, Majority |
 
@@ -605,8 +605,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 65% | 65% | Median |
+| 1 | 36% | 100% | Last Result |
+| 2 | 64% | 64% | Median |
 | 3 | 0% | 0% |  |
 
 ### Latvija pirmajā vietā (*) – Likums un kārtība (*) – Nacionālā Savienība Taisnīgums (*) – No sirds Latvijai (*) – Republika (*) – Stabilitātei! (*) – Suverēnā vara (*) – Vienoti Latvijai (*)
@@ -615,8 +615,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 35% | 44% |  |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 36% | 45% |  |
 | 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
@@ -635,8 +635,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 99.8% | 99.8% | Median |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 99.5% | 99.5% | Median |
 | 2 | 0% | 0% |  |
 
 ### Sociāldemokrātiskā partija “Saskaņa” (S&D)
@@ -669,5 +669,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 2
 + **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 262,144
-+ **Error estimate:** 1.66%
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 2.80%
