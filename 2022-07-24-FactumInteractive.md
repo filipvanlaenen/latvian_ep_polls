@@ -20,7 +20,7 @@
 | Stabilitātei! (*) | 0.0% | 5.3% | 4.5–6.2% |4.3–6.5% |4.1–6.7% |3.8–7.2% |
 | Latvija pirmajā vietā (*) | 0.0% | 5.0% | 4.3–5.9% |4.1–6.2% |3.9–6.4% |3.6–6.9% |
 | Latvijas Reģionu Apvienība (ECR) | 2.5% | 4.9% | 4.2–5.9% |4.0–6.1% |3.8–6.3% |3.5–6.8% |
-| Latvijas Krievu savienība (Greens/EFA) | 6.4% | 3.8% | 3.2–4.6% |3.0–4.9% |2.8–5.1% |2.6–5.5% |
+| Latvijas Krievu savienība (NI) | 6.4% | 3.8% | 3.2–4.6% |3.0–4.9% |2.8–5.1% |2.6–5.5% |
 | Likums un kārtība (*) | 0.0% | 3.1% | 2.5–3.9% |2.4–4.1% |2.3–4.3% |2.0–4.7% |
 | Republika (*) | 0.0% | 1.9% | 1.5–2.5% |1.4–2.7% |1.2–2.9% |1.1–3.2% |
 | Suverēnā vara (*) | 0.0% | 1.3% | 1.0–1.8% |0.9–2.0% |0.8–2.1% |0.7–2.4% |
@@ -48,7 +48,7 @@
 | <a href="#stabilitātei!-(*)">Stabilitātei! (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#latvija-pirmajā-vietā-(*)">Latvija pirmajā vietā (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#latvijas-reģionu-apvienība-(ecr)">Latvijas Reģionu Apvienība (ECR)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
-| <a href="#latvijas-krievu-savienība-(greens/efa)">Latvijas Krievu savienība (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#latvijas-krievu-savienība-(ni)">Latvijas Krievu savienība (NI)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#likums-un-kārtība-(*)">Likums un kārtība (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#republika-(*)">Republika (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#suverēnā-vara-(*)">Suverēnā vara (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -172,11 +172,11 @@
 | 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
-### Latvijas Krievu savienība (Greens/EFA)
+### Latvijas Krievu savienība (NI)
 
-*For a full overview of the results for this party, see the [Latvijas Krievu savienība (Greens/EFA)](party-latvijaskrievusavienībagreensefa.html) page.*
+*For a full overview of the results for this party, see the [Latvijas Krievu savienība (NI)](party-latvijaskrievusavienībani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-07-24-FactumInteractive-seats-pmf-latvijaskrievusavienībagreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-07-24-FactumInteractive-seats-pmf-latvijaskrievusavienībani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -236,7 +236,8 @@
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR) | 1 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Attīstībai/Par! (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Sociāldemokrātiskā partija “Saskaņa” (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| PROGRESĪVIE (Greens/EFA) – Latvijas Krievu savienība (Greens/EFA) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| PROGRESĪVIE (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība (NI) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Latvijas Reģionu Apvienība (ECR)
 
@@ -265,16 +266,25 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 100% | 100% | Last Result, Median |
 
-### PROGRESĪVIE (Greens/EFA) – Latvijas Krievu savienība (Greens/EFA)
+### PROGRESĪVIE (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2022-07-24-FactumInteractive-coalitions-seats-pmf-p–lks.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-07-24-FactumInteractive-coalitions-seats-pmf-p.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 69% | 69% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
+| 2 | 0% | 0% |  |
+
+### Latvijas Krievu savienība (NI)
+
+![Graph with seats probability mass function not yet produced](2022-07-24-FactumInteractive-coalitions-seats-pmf-lks.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.6% | 100% | Median |
+| 1 | 0.4% | 0.4% | Last Result |
+| 2 | 0% | 0% |  |
 
 
 ## Technical Information
