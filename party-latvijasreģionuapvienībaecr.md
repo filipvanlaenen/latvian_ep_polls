@@ -10,7 +10,8 @@ Last result: **2.5%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.8–9.7% | 7.6–9.9% | 7.4–10.1% | 7.0–10.6% |
+| N/A | [Poll Average](average.html) | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–10.9% | 7.7–11.4% |
+| [1–31 October 2022](2022-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.7% | 8.9–10.7% | 8.6–10.9% | 8.4–11.2% | 8.0–11.6% |
 | [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.4% | 7.6–9.3% | 7.4–9.5% | 7.2–9.8% | 6.8–10.2% |
 | [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 9.0% | 8.3–9.9% | 8.1–10.1% | 7.9–10.3% | 7.5–10.7% |
 | [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 9.2% | 8.2–10.2% | 8.0–10.5% | 7.8–10.8% | 7.3–11.3% |
@@ -107,12 +108,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 4% | 100% |  |
-| 7.5–8.5% | 35% | 96% |  |
-| 8.5–9.5% | 48% | 60% | Median |
-| 9.5–10.5% | 12% | 13% |  |
-| 10.5–11.5% | 0.5% | 0.5% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 12% | 99.7% |  |
+| 8.5–9.5% | 47% | 88% | Median |
+| 9.5–10.5% | 34% | 41% |  |
+| 10.5–11.5% | 7% | 7% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -124,6 +126,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1–31 October 2022](2022-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 1 | 1 | 1 | 1 | 1 |
 | [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 1 | 1 | 1 | 1 | 1 |
