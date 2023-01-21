@@ -10,7 +10,7 @@ Last result: **14.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 8.8–12.8% | 8.5–13.1% | 8.3–13.4% | 7.9–14.0% |
+| N/A | [Poll Average](average.html) | 12.1% | 11.1–13.1% | 10.9–13.4% | 10.7–13.7% | 10.2–14.2% |
 | [1–30 November 2022](2022-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.1% | 11.1–13.1% | 10.9–13.4% | 10.7–13.7% | 10.2–14.2% |
 | [7–19 October 2022](2022-10-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.5% | N/A | N/A | N/A | N/A |
 | [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.3% | 10.4–12.3% | 10.1–12.6% | 9.9–12.8% | 9.5–13.3% |
@@ -104,14 +104,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 5% | 99.9% |  |
-| 8.5–9.5% | 27% | 95% |  |
-| 9.5–10.5% | 17% | 68% |  |
-| 10.5–11.5% | 12% | 51% | Median |
-| 11.5–12.5% | 24% | 39% |  |
-| 12.5–13.5% | 13% | 15% |  |
-| 13.5–14.5% | 2% | 2% | Last Result |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 2% | 100% |  |
+| 10.5–11.5% | 21% | 98% |  |
+| 11.5–12.5% | 48% | 77% | Median |
+| 12.5–13.5% | 26% | 29% |  |
+| 13.5–14.5% | 3% | 4% | Last Result |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -220,8 +218,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.8% | 100% | Last Result, Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
