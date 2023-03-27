@@ -67,7 +67,6 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
 | [29 September–4 October 2020](2020-10-04-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
 | [1–24 August 2020](2020-08-24-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
@@ -179,7 +178,6 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [29 September–4 October 2020](2020-10-04-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–24 August 2020](2020-08-24-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |

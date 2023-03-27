@@ -49,8 +49,8 @@ Last result: **2.5%** (General Election of 25 May 2019)
 | [27–31 July 2021](2021-07-31-FactumInteractive.html) | Factum Interactive | 4.1% | N/A | N/A | N/A | N/A |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.8% |
 | [1–31 May 2021](2021-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.7–4.4% | 2.5–4.7% |
-| [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 3.6% | 2.8–4.9% | 2.6–5.2% | 2.4–5.5% | 2.1–6.2% |
-| [1–30 April 2021](2021-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 2.0–5.2% |
+| [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 3.7% | 2.8–4.9% | 2.6–5.2% | 2.4–5.5% | 2.1–6.2% |
+| [1–30 April 2021](2021-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.3% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 2.0–5.2% |
 | [26–30 April 2021](2021-04-30-FactumInteractive.html) | Factum Interactive | 4.3% | 3.6–5.1% | 3.4–5.4% | 3.2–5.6% | 3.0–6.0% |
 | [9–19 April 2021](2021-04-19-LatvijasFakti.html) | Latvijas Fakti | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–6.0% | 3.0–6.4% |
 | [1–31 March 2021](2021-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.8% | 4.2–5.5% | 4.1–5.7% | 3.9–5.9% | 3.7–6.3% |
@@ -61,20 +61,19 @@ Last result: **2.5%** (General Election of 25 May 2019)
 | [28–31 January 2021](2021-01-31-FactumInteractive.html) | Factum Interactive | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.8% | 4.9–6.9% | 4.6–7.2% | 4.4–7.5% | 4.0–8.1% |
 | [1–17 December 2020](2020-12-17-FactumInteractive.html) | Factum Interactive | 3.8% | 3.3–4.4% | 3.2–4.5% | 3.1–4.6% | 2.9–4.9% |
-| [1–30 November 2020](2020-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.6% | 4.7–6.8% | 4.5–7.1% | 4.3–7.4% | 3.9–8.0% |
+| [1–30 November 2020](2020-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.7% | 4.7–6.8% | 4.5–7.1% | 4.3–7.4% | 3.9–8.0% |
 | [11–30 November 2020](2020-11-30-FactumInteractive.html) | Factum Interactive | 3.9% | 3.2–4.9% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
 | [26–30 October 2020](2020-10-30-FactumInteractive.html) | Factum Interactive | 3.3% | 2.6–4.2% | 2.4–4.5% | 2.3–4.7% | 2.0–5.2% |
 | [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.2% | 4.3–6.2% | 4.1–6.6% | 3.9–6.8% | 3.5–7.4% |
 | [29 September–4 October 2020](2020-10-04-FactumInteractive.html) | Factum Interactive | 3.8% | 2.9–5.3% | 2.6–5.7% | 2.4–6.1% | 2.0–6.8% |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.9% | 5.0–7.0% | 4.7–7.3% | 4.5–7.6% | 4.1–8.2% |
-| [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.8% | 5.9–8.0% | 5.6–8.4% | 5.4–8.7% | 5.0–9.3% |
 | [1–24 August 2020](2020-08-24-FactumInteractive.html) | Factum Interactive | 3.3% | 2.5–4.4% | 2.3–4.7% | 2.2–5.0% | 1.9–5.6% |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.8% | 5.8–8.0% | 5.5–8.3% | 5.3–8.6% | 4.9–9.2% |
 | [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.9% | 2.3–3.8% | 2.1–4.1% | 2.0–4.3% | 1.8–4.7% |
 | [8–31 July 2020](2020-07-31-FactumInteractive.html) | Factum Interactive | 4.4% | 3.9–5.1% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.4% | 4.3–7.0% | 4.0–7.5% | 3.7–7.9% | 3.2–8.7% |
 | [1–30 June 2020](2020-06-30-FactumInteractive.html) | Factum Interactive | 4.8% | 4.1–5.6% | 4.0–5.8% | 3.8–6.0% | 3.5–6.4% |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.2% | 4.1–6.8% | 3.8–7.3% | 3.6–7.7% | 3.1–8.5% |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.0% | 4.1–6.8% | 3.8–7.3% | 3.6–7.7% | 3.1–8.5% |
 | [18–31 May 2020](2020-05-31-FactumInteractive.html) | Factum Interactive | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.8–5.1% | 2.6–5.5% |
 | [7–26 April 2020](2020-04-26-FactumInteractive.html) | Factum Interactive | 4.6% | 3.9–5.4% | 3.7–5.7% | 3.6–5.9% | 3.3–6.3% |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.4% | 4.6–6.5% | 4.3–6.8% | 4.1–7.1% | 3.7–7.7% |
@@ -93,11 +92,11 @@ Last result: **2.5%** (General Election of 25 May 2019)
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.6% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 3.0–6.8% |
 | [27–30 August 2019](2019-08-30-FactumInteractive.html) | Factum Interactive | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.4% | 2.8–5.8% |
-| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.1% | 4.4–8.7% |
+| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.1% | 5.3–7.5% | 5.0–7.8% | 4.8–8.1% | 4.4–8.7% |
 | [22–29 July 2019](2019-07-29-FactumInteractive.html) | Factum Interactive | 3.9% | 3.2–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [26–30 June 2019](2019-06-30-FactumInteractive.html) | Factum Interactive | 6.3% | 5.3–7.5% | 5.1–7.8% | 4.8–8.1% | 4.4–8.7% |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.8% | 4.0–5.9% | 3.8–6.2% | 3.6–6.4% | 3.2–7.0% |
-| [1–31 May 2019](2019-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.1% | 4.4–8.7% |
+| [1–31 May 2019](2019-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.1% | 5.3–7.5% | 5.0–7.8% | 4.8–8.1% | 4.4–8.7% |
 | [1–28 May 2019](2019-05-28-FactumInteractive.html) | Factum Interactive | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
 
 ### Probability Mass Function
@@ -186,7 +185,6 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 September–4 October 2020](2020-10-04-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0–1 |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–24 August 2020](2020-08-24-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
