@@ -106,7 +106,7 @@ Only polls for which at least the sample size has been published are included in
 + **SDPS:** Sociāldemokrātiskā partija “Saskaņa” (S&D)
 + **ZZS:** Zaļo un Zemnieku savienība (RE)
 + **LKS:** Latvijas Krievu savienība (NI)
-+ **LRA:** Latvijas Reģionu Apvienība (ECR)
++ **LRA:** Latvijas Reģionu Apvienība (EPP)
 + **AP!:** Attīstībai/Par! (RE)
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
