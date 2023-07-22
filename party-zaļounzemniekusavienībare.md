@@ -10,7 +10,8 @@ Last result: **8.3%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.8–13.8% | 11.5–14.1% | 11.3–14.4% | 10.9–14.9% |
+| N/A | [Poll Average](average.html) | 11.1% | 10.2–12.1% | 9.9–12.4% | 9.7–12.6% | 9.3–13.1% |
+| [1–30 June 2023](2023-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.1% | 10.2–12.1% | 9.9–12.4% | 9.7–12.6% | 9.3–13.1% |
 | [1–31 May 2023](2023-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.8% | 11.8–13.8% | 11.5–14.1% | 11.3–14.4% | 10.9–14.9% |
 | [1–30 April 2023](2023-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.7% | 11.8–13.8% | 11.5–14.1% | 11.3–14.3% | 10.8–14.9% |
 | [1–31 March 2023](2023-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.4% | 13.4–15.5% | 13.1–15.8% | 12.8–16.1% | 12.4–16.6% |
@@ -109,15 +110,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 5% | 99.9% |  |
-| 11.5–12.5% | 32% | 95% |  |
-| 12.5–13.5% | 45% | 63% | Median |
-| 13.5–14.5% | 16% | 18% |  |
-| 14.5–15.5% | 2% | 2% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 1.4% | 100% |  |
+| 9.5–10.5% | 21% | 98.6% |  |
+| 10.5–11.5% | 50% | 78% | Median |
+| 11.5–12.5% | 24% | 27% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,6 +128,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1–30 June 2023](2023-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–31 May 2023](2023-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–30 April 2023](2023-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [1–31 March 2023](2023-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
