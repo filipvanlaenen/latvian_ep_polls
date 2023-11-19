@@ -10,7 +10,8 @@ Last result: **8.3%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.6–14.2% | 11.3–14.6% | 11.0–15.0% | 10.4–15.7% |
+| N/A | [Poll Average](average.html) | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.4–15.7% | 12.0–16.2% |
+| [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.4–15.7% | 12.0–16.2% |
 | [1–30 September 2023](2023-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.9% | 11.6–14.3% | 11.3–14.6% | 11.0–15.0% | 10.4–15.7% |
 | [1–31 August 2023](2023-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.7% | 11.7–13.8% | 11.5–14.1% | 11.2–14.3% | 10.8–14.9% |
 | [1–31 July 2023](2023-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.7% | 10.8–12.8% | 10.6–13.1% | 10.3–13.3% | 9.9–13.8% |
@@ -114,14 +115,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 8% | 99.3% |  |
-| 11.5–12.5% | 28% | 91% |  |
-| 12.5–13.5% | 37% | 64% | Median |
-| 13.5–14.5% | 21% | 27% |  |
-| 14.5–15.5% | 5% | 6% |  |
-| 15.5–16.5% | 0.6% | 0.7% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 3% | 99.9% |  |
+| 12.5–13.5% | 25% | 97% |  |
+| 13.5–14.5% | 46% | 71% | Median |
+| 14.5–15.5% | 22% | 26% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -133,6 +135,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–30 September 2023](2023-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 August 2023](2023-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–31 July 2023](2023-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
@@ -236,8 +239,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 45% | 100% | Last Result |
-| 2 | 55% | 55% | Median |
+| 1 | 37% | 100% | Last Result |
+| 2 | 63% | 63% | Median |
 | 3 | 0% | 0% |  |
 
 
