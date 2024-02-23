@@ -1,4 +1,4 @@
-# Kustība Par! (RE)
+# Stabilitātei! (NI)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,42 +10,42 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
-| [10–14 February 2024](2024-02-14-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.6% | 0.4–0.9% | 0.4–1.1% | 0.3–1.1% | 0.2–1.3% |
-| [1–31 December 2023](2023-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.7% | 1.3–3.0% |
-| [1–30 November 2023](2023-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.8% | 2.1–4.1% | 1.8–4.5% | 1.7–4.8% | 1.4–5.5% |
-| [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.7–3.2% | 1.5–3.4% |
-| [1–30 September 2023](2023-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
-| [1–31 August 2023](2023-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.8% | 2.3–3.4% | 2.2–3.5% | 2.1–3.7% | 1.9–4.0% |
-| [1–31 July 2023](2023-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
-| [1–30 June 2023](2023-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
-| [1–31 May 2023](2023-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.6% | 1.2–2.0% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% |
-| [1–30 April 2023](2023-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.9% | 2.4–3.5% | 2.3–3.6% | 2.2–3.8% | 2.0–4.1% |
-| [1–31 March 2023](2023-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.3–2.6% | 1.2–2.9% |
-| [1–31 January 2023](2023-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.5% | 2.1–3.1% | 2.0–3.2% | 1.9–3.4% | 1.7–3.6% |
-| [1–31 December 2022](2022-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 November 2022](2022-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [7–19 October 2022](2022-10-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.6% | 6.7–8.5% | 6.5–8.7% | 6.3–9.0% | 5.9–9.4% |
+| [10–14 February 2024](2024-02-14-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.5% | 6.7–8.5% | 6.5–8.7% | 6.3–9.0% | 5.9–9.4% |
+| [1–31 December 2023](2023-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.1% | 8.2–10.0% | 8.0–10.3% | 7.8–10.5% | 7.5–10.9% |
+| [1–30 November 2023](2023-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.6% | 8.0–11.6% | 7.6–12.2% | 7.2–12.7% | 6.6–13.7% |
+| [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.9% | 8.0–9.8% | 7.8–10.1% | 7.6–10.3% | 7.3–10.8% |
+| [1–30 September 2023](2023-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.1% | 7.2–9.3% | 6.9–9.6% | 6.6–9.9% | 6.2–10.5% |
+| [1–31 August 2023](2023-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.3% | 8.5–10.2% | 8.2–10.5% | 8.0–10.7% | 7.7–11.2% |
+| [1–31 July 2023](2023-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.5% | 6.7–8.3% | 6.5–8.6% | 6.4–8.8% | 6.0–9.2% |
+| [1–30 June 2023](2023-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.6% | 5.9–7.4% | 5.7–7.7% | 5.6–7.9% | 5.2–8.3% |
+| [1–31 May 2023](2023-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.8% | 7.1–8.7% | 6.8–8.9% | 6.7–9.2% | 6.3–9.6% |
+| [1–30 April 2023](2023-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.8% | 7.0–8.7% | 6.8–8.9% | 6.6–9.1% | 6.3–9.5% |
+| [1–31 March 2023](2023-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.8% | 8.0–9.7% | 7.7–9.9% | 7.5–10.2% | 7.2–10.6% |
+| [1–31 January 2023](2023-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.2% | 6.5–8.0% | 6.3–8.3% | 6.1–8.5% | 5.8–8.9% |
+| [1–31 December 2022](2022-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% | 6.5–9.8% |
+| [1–30 November 2022](2022-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.8% | 5.1–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
+| [7–19 October 2022](2022-10-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.2% | N/A | N/A | N/A | N/A |
+| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.1% | 3.0–5.5% |
+| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 6.2% | 5.6–6.9% | 5.4–7.1% | 5.3–7.3% | 5.0–7.7% |
+| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 5.8% | 5.1–6.7% | 4.9–7.0% | 4.7–7.2% | 4.4–7.6% |
+| [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.5% | 4.9–6.3% | 4.7–6.5% | 4.6–6.7% | 4.3–7.0% |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.8% |
+| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV | 6.2% | N/A | N/A | N/A | N/A |
+| [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.4% | 4.8–6.1% | 4.6–6.3% | 4.4–6.5% | 4.2–6.9% |
+| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV | 5.3% | 4.5–6.2% | 4.3–6.5% | 4.1–6.7% | 3.8–7.2% |
+| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.2–4.5% | 1.9–5.0% |
+| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.8% | 4.2–5.5% | 4.0–5.7% | 3.9–5.9% | 3.6–6.2% |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.8% | 1.1–3.2% |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.2% | 3.6–4.9% | 3.5–5.0% | 3.4–5.2% | 3.1–5.6% |
+| [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.5% | N/A | N/A | N/A | N/A |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.5% | N/A | N/A | N/A | N/A |
 | [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 February 2022](2022-02-28-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
 | [1 January–2 February 2022](2022-02-02-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 January 2022](2022-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 January 2022](2022-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.3% | N/A | N/A | N/A | N/A |
 | [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 December 2021](2021-12-31-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
@@ -112,14 +112,22 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Kustība Par! (RE).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Stabilitātei! (NI).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 32% | 100% | Last Result |
-| 0.5–1.5% | 68% | 68% | Median |
-| 1.5–2.5% | 0.1% | 0.1% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 6% | 99.9% |  |
+| 6.5–7.5% | 44% | 94% |  |
+| 7.5–8.5% | 42% | 50% | Median |
+| 8.5–9.5% | 7% | 8% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -130,34 +138,34 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [10–14 February 2024](2024-02-14-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 December 2023](2023-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–30 November 2023](2023-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–30 September 2023](2023-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 August 2023](2023-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 July 2023](2023-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–30 June 2023](2023-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 May 2023](2023-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–30 April 2023](2023-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 March 2023](2023-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 January 2023](2023-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 December 2022](2022-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–30 November 2022](2022-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [10–14 February 2024](2024-02-14-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 December 2023](2023-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–30 November 2023](2023-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–30 September 2023](2023-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 August 2023](2023-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 July 2023](2023-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–30 June 2023](2023-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 May 2023](2023-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–30 April 2023](2023-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 March 2023](2023-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 January 2023](2023-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–31 December 2022](2022-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [1–30 November 2022](2022-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–19 October 2022](2022-10-19-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
-| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
-| [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
+| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
+| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
-| [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
-| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
-| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0 | 0 | 0 |
+| [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0–1 | 0–1 |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0 | 0 | 0 |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -232,12 +240,14 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-kustībaparre.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-stabilitāteini.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Kustība Par! (RE).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Stabilitātei! (NI).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 
