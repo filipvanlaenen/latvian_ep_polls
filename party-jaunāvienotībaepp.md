@@ -10,9 +10,11 @@ Last result: **46.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 15.4–17.9% | 15.1–18.3% | 14.8–18.6% | 14.3–19.2% |
+| N/A | [Poll Average](average.html) | 12.7% | 11.7–13.7% | 11.5–14.0% | 11.2–14.3% | 10.8–14.8% |
+| [1–30 April 2024](2024-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.7% | 11.7–13.7% | 11.4–14.0% | 11.2–14.3% | 10.8–14.8% |
 | [1–31 March 2024](2024-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.6% | 15.4–17.9% | 15.1–18.3% | 14.8–18.6% | 14.3–19.2% |
 | [10–14 February 2024](2024-02-14-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.9% | 16.7–19.2% | 16.3–19.6% | 16.0–19.9% | 15.5–20.5% |
+| [1–31 January 2024](2024-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.0% | N/A | N/A | N/A | N/A |
 | [1–31 December 2023](2023-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.4% | 13.4–15.5% | 13.1–15.8% | 12.8–16.1% | 12.4–16.6% |
 | [1–30 November 2023](2023-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.9% | 15.8–20.4% | 15.2–21.1% | 14.7–21.7% | 13.7–22.9% |
 | [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.6% | 16.5–18.8% | 16.2–19.2% | 15.9–19.5% | 15.4–20.1% |
@@ -117,14 +119,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 1.2% | 100% |  |
-| 14.5–15.5% | 11% | 98.8% |  |
-| 15.5–16.5% | 34% | 88% |  |
-| 16.5–17.5% | 36% | 54% | Median |
-| 17.5–18.5% | 15% | 18% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 6% | 99.8% |  |
+| 11.5–12.5% | 35% | 94% |  |
+| 12.5–13.5% | 44% | 58% | Median |
+| 13.5–14.5% | 13% | 15% |  |
+| 14.5–15.5% | 1.1% | 1.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -161,9 +167,11 @@ Last result: **4** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–30 April 2024](2024-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 March 2024](2024-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 February 2024](2024-02-14-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 January 2024](2024-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 December 2023](2023-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 1–2 |
 | [1–30 November 2023](2023-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
 | [1–31 October 2023](2023-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2 | 2 | 2 |
@@ -270,8 +278,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 86% | 86% | Median |
+| 1 | 88% | 100% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
