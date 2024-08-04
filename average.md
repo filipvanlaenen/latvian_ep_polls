@@ -6,11 +6,11 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | JS | P | SDPS | ZZS | AP! | KP | LA | JV | LRA | JKP | KPV | NA | LPV | LKS | S! | CP | NSL | VL | LuK | R | NST | SV | AJ |
+| Period     | Polling firm/Commissioner(s) | JS | P | SDPS | ZZS | AP! | KP | LA | JV | LRA | JKP | KPV | NA | SV | LPV | LKS | S! | CP | NSL | VL | P21 | R | NST | AJ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | N/A <br> N/A | 9–12% <br> 1 | 7–10% <br> 1 | 6–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 17–20% <br> 1–2 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | 9–12% <br> 1 | 1–2% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
-| [1–30 June 2024](2024-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | 9–12% <br> 1 | 7–10% <br> 1 | 6–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 17–20% <br> 1–2 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | 9–12% <br> 1 | 1–2% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
+| N/A | Poll Average | N/A <br> N/A | 9–12% <br> 1 | 7–10% <br> 1 | 6–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 17–20% <br> 1–2 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | 2–4% <br> 0 | 9–12% <br> 1 | 1–2% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–30 June 2024](2024-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | 9–12% <br> 1 | 7–10% <br> 1 | 6–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 17–20% <br> 1–2 | 7–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | 2–4% <br> 0 | 9–12% <br> 1 | 1–2% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -30,16 +30,16 @@ Only polls for which at least the sample size has been published are included in
 + **JKP:** Jaunā konservatīvā partija (EPP)
 + **KPV:** Politiskā partija „KPV LV” (EPP)
 + **NA:** Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)
++ **SV:** Suverēnā vara (ECR)
 + **LPV:** Latvija pirmajā vietā (PfE)
 + **LKS:** Latvijas Krievu savienība (NI)
 + **S!:** Stabilitātei! (NI)
 + **CP:** Centra partija (NI)
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
-+ **LuK:** Likums un kārtība (*)
++ **P21:** Platforma 21 (*)
 + **R:** Republika (*)
 + **NST:** Nacionālā Savienība Taisnīgums (*)
-+ **SV:** Suverēnā vara (*)
 + **AJ:** Apvienība Jaunlatvieši (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
@@ -64,16 +64,16 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0.0% | 2.5% | 2.0–2.9% |1.9–3.1% | 1.8–3.2% | 1.6–3.5% |
 | <a href="#politiskā-partija-„kpv-lv”-(epp)">Politiskā partija „KPV LV” (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 0.0% | 16.1% | 15.0–17.2% |14.7–17.5% | 14.5–17.8% | 14.0–18.4% |
+| <a href="#suverēnā-vara-(ecr)">Suverēnā vara (ECR)</a> | 0.0% | 2.9% | 2.5–3.5% |2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | <a href="#latvija-pirmajā-vietā-(pfe)">Latvija pirmajā vietā (PfE)</a> | 0.0% | 10.7% | 9.8–11.7% |9.5–11.9% | 9.3–12.2% | 8.9–12.7% |
 | <a href="#latvijas-krievu-savienība-(ni)">Latvijas Krievu savienība (NI)</a> | 0.0% | 1.4% | 1.1–1.8% |1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | <a href="#stabilitātei!-(ni)">Stabilitātei! (NI)</a> | 0.0% | 6.0% | 5.3–6.8% |5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
 | <a href="#centra-partija-(ni)">Centra partija (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#likums-un-kārtība-(*)">Likums un kārtība (*)</a> | 0.0% | 0.3% | 0.2–0.5% |0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
+| <a href="#platforma-21-(*)">Platforma 21 (*)</a> | 0.0% | 0.3% | 0.2–0.5% |0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | <a href="#republika-(*)">Republika (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nacionālā-savienība-taisnīgums-(*)">Nacionālā Savienība Taisnīgums (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#suverēnā-vara-(*)">Suverēnā vara (*)</a> | 0.0% | 2.9% | 2.5–3.5% |2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | <a href="#apvienība-jaunlatvieši-(*)">Apvienība Jaunlatvieši (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Jaunā konservatīvā partija (EPP)
@@ -101,9 +101,9 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
-### Likums un kārtība (*)
+### Platforma 21 (*)
 
-*For a full overview of the results for this party, see the [Likums un kārtība (*)](party-likumsunkārtība.html) page.*
+*For a full overview of the results for this party, see the [Platforma 21 (*)](party-platforma21.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -150,9 +150,9 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
-### Suverēnā vara (*)
+### Suverēnā vara (ECR)
 
-*For a full overview of the results for this party, see the [Suverēnā vara (*)](party-suverēnāvara.html) page.*
+*For a full overview of the results for this party, see the [Suverēnā vara (ECR)](party-suverēnāvaraecr.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -350,16 +350,16 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#jaunā-konservatīvā-partija-(epp)">Jaunā konservatīvā partija (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#politiskā-partija-„kpv-lv”-(epp)">Politiskā partija „KPV LV” (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”-(ecr)">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#suverēnā-vara-(ecr)">Suverēnā vara (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#latvija-pirmajā-vietā-(pfe)">Latvija pirmajā vietā (PfE)</a> | 0 | 1 | 1 |1 | 1 | 1 |
 | <a href="#latvijas-krievu-savienība-(ni)">Latvijas Krievu savienība (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#stabilitātei!-(ni)">Stabilitātei! (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#centra-partija-(ni)">Centra partija (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#no-sirds-latvijai-(*)">No sirds Latvijai (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#vienoti-latvijai-(*)">Vienoti Latvijai (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#likums-un-kārtība-(*)">Likums un kārtība (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#platforma-21-(*)">Platforma 21 (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#republika-(*)">Republika (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nacionālā-savienība-taisnīgums-(*)">Nacionālā Savienība Taisnīgums (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#suverēnā-vara-(*)">Suverēnā vara (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#apvienība-jaunlatvieši-(*)">Apvienība Jaunlatvieši (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Jaunā Saskaņa (GUE/NGL)
@@ -483,6 +483,16 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 49% | 49% |  |
 | 3 | 0% | 0% |  |
 
+### Suverēnā vara (ECR)
+
+*For a full overview of the results for this party, see the [Suverēnā vara (ECR)](party-suverēnāvaraecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-suverēnāvaraecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 ### Latvija pirmajā vietā (PfE)
 
 *For a full overview of the results for this party, see the [Latvija pirmajā vietā (PfE)](party-latvijapirmajāvietāpfe.html) page.*
@@ -534,11 +544,11 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-vienotilatvijai.png "Seats Probability Mass Function")
 
-### Likums un kārtība (*)
+### Platforma 21 (*)
 
-*For a full overview of the results for this party, see the [Likums un kārtība (*)](party-likumsunkārtība.html) page.*
+*For a full overview of the results for this party, see the [Platforma 21 (*)](party-platforma21.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-likumsunkārtība.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-platforma21.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -556,16 +566,6 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-nacionālāsavienībataisnīgums.png "Seats Probability Mass Function")
 
-### Suverēnā vara (*)
-
-*For a full overview of the results for this party, see the [Suverēnā vara (*)](party-suverēnāvara.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-suverēnāvara.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 ### Apvienība Jaunlatvieši (*)
 
 *For a full overview of the results for this party, see the [Apvienība Jaunlatvieši (*)](party-apvienībajaunlatvieši.html) page.*
@@ -582,13 +582,13 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Jaunā VIENOTĪBA (EPP) – Jaunā konservatīvā partija (EPP) – Latvijas Reģionu Apvienība (EPP) – Politiskā partija „KPV LV” (EPP) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Suverēnā vara (ECR) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā (PfE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE (Greens/EFA) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Sociāldemokrātiskā partija “Saskaņa” (S&D) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! (RE) – Kustība Par! (RE) – Latvijas attīstībai (RE) – Zaļo un Zemnieku savienība (RE) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–2 |
 | Centra partija (NI) – Latvijas Krievu savienība (NI) – Stabilitātei! (NI) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Apvienība Jaunlatvieši (*) – Likums un kārtība (*) – Nacionālā Savienība Taisnīgums (*) – No sirds Latvijai (*) – Republika (*) – Suverēnā vara (*) – Vienoti Latvijai (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Apvienība Jaunlatvieši (*) – Nacionālā Savienība Taisnīgums (*) – No sirds Latvijai (*) – Platforma 21 (*) – Republika (*) – Vienoti Latvijai (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Jaunā Saskaņa (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Jaunā VIENOTĪBA (EPP) – Jaunā konservatīvā partija (EPP) – Latvijas Reģionu Apvienība (EPP) – Politiskā partija „KPV LV” (EPP)
@@ -603,9 +603,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 81% | 81% | Median |
 | 4 | 0% | 0% |  |
 
-### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR)
+### Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) – Suverēnā vara (ECR)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-na.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-na–sv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -662,9 +662,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 74% | 74% | Median |
 | 2 | 0% | 0% |  |
 
-### Apvienība Jaunlatvieši (*) – Likums un kārtība (*) – Nacionālā Savienība Taisnīgums (*) – No sirds Latvijai (*) – Republika (*) – Suverēnā vara (*) – Vienoti Latvijai (*)
+### Apvienība Jaunlatvieši (*) – Nacionālā Savienība Taisnīgums (*) – No sirds Latvijai (*) – Platforma 21 (*) – Republika (*) – Vienoti Latvijai (*)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-aj–luk–nst–nsl–r–sv–vl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-aj–nst–nsl–p21–r–vl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
