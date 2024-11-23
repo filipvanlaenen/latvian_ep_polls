@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2024 17:46:09 +0200</pubDate>
+    <pubDate>Sat, 23 Nov 2024 17:31:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2024-10-31-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stabilitātei! (NI): 1 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (NI): 0 seats&lt;/li&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Kustība Par! (RE): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (RE): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Suverēnā vara (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Platforma 21 (*): 0 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (RE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2024-10-31-SKDS-seats.png"
+        length="343703"
+        type="image/png"/>
+      <pubDate>Sat, 23 Nov 2024 17:31:05 +0100</pubDate>
+      <dc:date>2024-11-23T17:31:05.612096+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2024-10-31-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2024-10-31-SKDS-coalitions-seats.png"
+        length="178960"
+        type="image/png"/>
+      <pubDate>Sat, 23 Nov 2024 17:31:05 +0100</pubDate>
+      <dc:date>2024-11-23T17:31:05.612096+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2024-10-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stabilitātei! (NI): 5.9–8.2%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 14.3–17.6%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 9.8–12.7%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (PfE): 10.1–13.1%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība (NI): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa” (S&amp;amp;D): 6.4–8.9%&lt;/li&gt;&lt;li&gt;Kustība Par! (RE): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 1.1–2.3%&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (RE): 2.0–3.4%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (EPP): 7.8–10.5%&lt;/li&gt;&lt;li&gt;Suverēnā vara (ECR): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 13.6–16.9%&lt;/li&gt;&lt;li&gt;Platforma 21 (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (RE): 7.8–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2024-10-31-SKDS.png"
+        length="446668"
+        type="image/png"/>
+      <pubDate>Sat, 23 Nov 2024 17:31:05 +0100</pubDate>
+      <dc:date>2024-11-23T17:31:05.612096+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2024-08-31-SKDS.html#seats</link>
@@ -69,6 +99,6 @@
       <pubDate>Sun, 04 Aug 2024 23:03:44 +0200</pubDate>
       <dc:date>2024-08-04T23:03:44.49848+02:00</dc:date>
     </item>
-    <dc:date>2024-09-23T17:46:09.760761+02:00</dc:date>
+    <dc:date>2024-11-23T17:31:05.612096+01:00</dc:date>
   </channel>
 </rss>
