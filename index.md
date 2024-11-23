@@ -2,11 +2,11 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | JS | P | SDPS | ZZS | AP! | KP | LA | JV | LRA | JKP | KPV | NA | SV | LPV | LKS | S! | CP | NSL | VL | P21 | R | NST | AJ |
+| Period     | Polling firm/Commissioner(s) | JS | P | SDPS | ZZS | AP! | KP | LA | JV | LRA | JKP | KPV | NA | SV | LPV | LKS | ST! | CP | NSL | VL | P21 | R | NST | AJ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | 10–13% <br> 1 | 6–9% <br> 1 | 7–9% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 14–17% <br> 1–2 | 6–9% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | 3–4% <br> 0 | 10–13% <br> 1 | 0–1% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–31 August 2024](2024-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | 10–13% <br> 1 | 6–9% <br> 1 | 7–9% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 14–17% <br> 1–2 | 6–9% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | 3–5% <br> 0 | 10–13% <br> 1 | 0–1% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | 10–13% <br> 1 | 6–9% <br> 1 | 8–10% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 2–3% <br> 0 | 14–18% <br> 1–2 | 8–10% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 14–17% <br> 1–2 | 3–5% <br> 0–1 | 10–13% <br> 1 | 1–2% <br> 0 | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–31 October 2024](2024-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | 10–13% <br> 1 | 6–9% <br> 1 | 8–11% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 2–3% <br> 0 | 14–18% <br> 1–2 | 8–11% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 14–17% <br> 1–2 | 3–5% <br> 0–1 | 10–13% <br> 1 | 1–2% <br> 0 | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -29,7 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **SV:** Suverēnā vara (ECR)
 + **LPV:** Latvija pirmajā vietā (PfE)
 + **LKS:** Latvijas Krievu savienība (NI)
-+ **S!:** Stabilitātei! (NI)
++ **ST!:** Stabilitātei! (NI)
 + **CP:** Centra partija (NI)
 + **NSL:** No sirds Latvijai (*)
 + **VL:** Vienoti Latvijai (*)
