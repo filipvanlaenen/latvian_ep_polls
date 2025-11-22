@@ -10,16 +10,18 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 10.6–12.5% | 10.4–12.8% | 10.1–13.1% | 9.7–13.6% |
-| [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.5% | 10.6–12.5% | 10.3–12.8% | 10.1–13.1% | 9.7–13.6% |
-| [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.8% | 11.8–13.9% | 11.6–14.2% | 11.3–14.4% | 10.9–15.0% |
-| [14–24 March 2025](2025-03-24-LatvijasFakti.html) | Latvijas Fakti | 13.2% | 11.9–14.6% | 11.5–15.0% | 11.2–15.4% | 10.6–16.1% |
-| [1–31 January 2025](2025-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.4% | 10.5–12.4% | 10.2–12.7% | 10.0–13.0% | 9.6–13.5% |
-| [30 November–9 December 2024](2024-12-09-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.5% | 11.5–13.5% | 11.2–13.9% | 11.0–14.1% | 10.6–14.6% |
-| [1–30 November 2024](2024-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
-| [1–31 October 2024](2024-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.9% | 14.8–17.0% | 14.5–17.4% | 14.3–17.6% | 13.8–18.2% |
-| [1–31 August 2024](2024-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.5% | 14.4–16.6% | 14.1–16.9% | 13.9–17.2% | 13.4–17.8% |
-| [1–30 June 2024](2024-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 18.4% | 17.2–19.6% | 16.9–19.9% | 16.7–20.2% | 16.1–20.8% |
+| N/A | [Poll Average](average.html) | 14.3% | 12.9–16.1% | 12.5–16.6% | 12.2–17.0% | 11.6–17.8% |
+| [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 13.6% | 12.5–14.9% | 12.2–15.2% | 11.9–15.5% | 11.4–16.1% |
+| [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.1% | 13.8–16.6% | 13.4–17.0% | 13.1–17.3% | 12.5–18.1% |
+| [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.5% | N/A | N/A | N/A | N/A |
+| [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.8% | N/A | N/A | N/A | N/A |
+| [14–24 March 2025](2025-03-24-LatvijasFakti.html) | Latvijas Fakti | 13.2% | N/A | N/A | N/A | N/A |
+| [1–31 January 2025](2025-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.4% | N/A | N/A | N/A | N/A |
+| [30 November–9 December 2024](2024-12-09-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.5% | N/A | N/A | N/A | N/A |
+| [1–30 November 2024](2024-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.0% | N/A | N/A | N/A | N/A |
+| [1–31 October 2024](2024-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.9% | N/A | N/A | N/A | N/A |
+| [1–31 August 2024](2024-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.5% | N/A | N/A | N/A | N/A |
+| [1–30 June 2024](2024-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 18.4% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -36,13 +38,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 8% | 99.8% |  |
-| 10.5–11.5% | 42% | 91% |  |
-| 11.5–12.5% | 40% | 49% | Median |
-| 12.5–13.5% | 9% | 9% |  |
-| 13.5–14.5% | 0.5% | 0.5% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 5% | 99.6% |  |
+| 12.5–13.5% | 20% | 94% |  |
+| 13.5–14.5% | 30% | 74% | Median |
+| 14.5–15.5% | 25% | 44% |  |
+| 15.5–16.5% | 14% | 19% |  |
+| 16.5–17.5% | 4% | 5% |  |
+| 17.5–18.5% | 0.7% | 0.8% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -53,16 +60,18 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
-| [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1–2 |
-| [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1–2 |
-| [14–24 March 2025](2025-03-24-LatvijasFakti.html) | Latvijas Fakti | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–31 January 2025](2025-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
-| [30 November–9 December 2024](2024-12-09-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
-| [1–30 November 2024](2024-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1–2 |
-| [1–31 October 2024](2024-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–31 August 2024](2024-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–30 June 2024](2024-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [14–24 March 2025](2025-03-24-LatvijasFakti.html) | Latvijas Fakti |  |  |  |  |  |
+| [1–31 January 2025](2025-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [30 November–9 December 2024](2024-12-09-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–30 November 2024](2024-11-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 October 2024](2024-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 August 2024](2024-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–30 June 2024](2024-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -73,8 +82,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.4% | 100% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 66% | 100% | Median |
+| 2 | 34% | 34% |  |
 | 3 | 0% | 0% |  |
 
 
