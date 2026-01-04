@@ -57,7 +57,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
-| [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -77,9 +77,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 69% | 69% | Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 25% | 100% | Last Result |
+| 1 | 75% | 75% | Median |
+| 2 | 0% | 0% |  |
 
 
