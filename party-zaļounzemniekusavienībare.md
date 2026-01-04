@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 4.7–10.2% | 4.4–10.6% | 4.2–10.9% | 3.9–11.6% |
+| N/A | [Poll Average](average.html) | 7.2% | 4.7–10.7% | 4.4–11.1% | 4.2–11.5% | 3.9–12.2% |
+| [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.2–11.8% | 7.7–12.5% |
 | [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 5.1% | 4.4–5.9% | 4.2–6.2% | 4.1–6.4% | 3.8–6.8% |
-| [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.4% | 8.4–10.6% | 8.1–10.9% | 7.8–11.2% | 7.3–11.9% |
+| [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.4% | N/A | N/A | N/A | N/A |
 | [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.4% | N/A | N/A | N/A | N/A |
 | [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.7% | N/A | N/A | N/A | N/A |
 | [14–24 March 2025](2025-03-24-LatvijasFakti.html) | Latvijas Fakti | 16.1% | N/A | N/A | N/A | N/A |
@@ -36,13 +37,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 7% | 99.9% |  |
 | 4.5–5.5% | 30% | 93% |  |
 | 5.5–6.5% | 12% | 63% |  |
-| 6.5–7.5% | 1.2% | 51% | Median |
-| 7.5–8.5% | 7% | 50% |  |
-| 8.5–9.5% | 20% | 43% |  |
-| 9.5–10.5% | 17% | 22% |  |
-| 10.5–11.5% | 5% | 5% |  |
-| 11.5–12.5% | 0.5% | 0.6% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.8% | 51% | Median |
+| 7.5–8.5% | 3% | 50% |  |
+| 8.5–9.5% | 15% | 47% |  |
+| 9.5–10.5% | 20% | 32% |  |
+| 10.5–11.5% | 10% | 12% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,8 +56,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
+| [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 July 2025](2025-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [14–24 March 2025](2025-03-24-LatvijasFakti.html) | Latvijas Fakti |  |  |  |  |  |
@@ -74,8 +77,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 75% | 75% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 
