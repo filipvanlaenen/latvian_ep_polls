@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.5% | 1.8–3.7% | 1.7–3.8% | 1.4–4.2% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.5% | 1.8–3.7% | 1.7–3.9% | 1.4–4.3% |
+| [16–26 December 2025](2025-12-26-Gemius.html) | Gemius | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% | 2.0–4.4% |
 | [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
 | [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 3.0% | 2.5–3.7% | 2.3–3.8% | 2.2–4.0% | 2.0–4.4% |
 | [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.4% | N/A | N/A | N/A | N/A |
@@ -32,9 +33,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 37% | 98.8% |  |
-| 2.5–3.5% | 54% | 62% | Median |
-| 3.5–4.5% | 7% | 8% |  |
+| 1.5–2.5% | 36% | 98.8% |  |
+| 2.5–3.5% | 54% | 63% | Median |
+| 3.5–4.5% | 8% | 8% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -48,6 +49,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–26 December 2025](2025-12-26-Gemius.html) | Gemius | 0 | 0 | 0 | 0 | 0 |
 | [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 0 | 0 | 0 | 0 | 0 |
 | [25 October–4 November 2025](2025-11-04-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
