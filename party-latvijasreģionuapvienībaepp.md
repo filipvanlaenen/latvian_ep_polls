@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 7.7–11.3% | 7.4–11.6% | 7.1–11.9% | 6.7–12.4% |
+| N/A | [Poll Average](average.html) | 9.9% | 7.7–12.2% | 7.4–12.5% | 7.1–12.8% | 6.7–13.4% |
+| [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.5% | 10.6–12.5% | 10.3–12.8% | 10.1–13.1% | 9.7–13.6% |
 | [31 March–7 April 2026](2026-04-07-Gemius.html) | Gemius | 8.2% | 7.4–9.2% | 7.1–9.4% | 6.9–9.7% | 6.5–10.2% |
 | [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.6% | 9.7–11.6% | 9.5–11.9% | 9.3–12.1% | 8.9–12.6% |
 | [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius | 6.9% | 6.1–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.1% |
@@ -43,12 +44,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.3% | 100% |  |
 | 6.5–7.5% | 8% | 99.7% |  |
 | 7.5–8.5% | 26% | 92% |  |
-| 8.5–9.5% | 17% | 66% | Median |
-| 9.5–10.5% | 21% | 49% |  |
-| 10.5–11.5% | 22% | 28% |  |
-| 11.5–12.5% | 5% | 5% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 8.5–9.5% | 15% | 66% |  |
+| 9.5–10.5% | 6% | 52% | Median |
+| 10.5–11.5% | 21% | 46% |  |
+| 11.5–12.5% | 20% | 25% |  |
+| 12.5–13.5% | 5% | 5% |  |
+| 13.5–14.5% | 0.3% | 0.3% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,6 +62,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1 |
 | [31 March–7 April 2026](2026-04-07-Gemius.html) | Gemius | 1 | 1 | 1 | 1 | 1 |
 | [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 1 | 1 | 1 | 1 | 1–2 |
 | [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius | 1 | 1 | 1 | 1 | 1 |
@@ -86,8 +89,6 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.6% | 100% | Median |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 
 
