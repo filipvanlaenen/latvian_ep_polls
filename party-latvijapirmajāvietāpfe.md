@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 13.5–15.8% | 13.1–16.2% | 12.9–16.5% | 12.3–17.0% |
-| [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.9% | 13.9–16.0% | 13.6–16.4% | 13.4–16.6% | 12.9–17.2% |
+| N/A | [Poll Average](average.html) | 14.7% | 13.5–15.9% | 13.2–16.2% | 12.9–16.5% | 12.3–17.1% |
+| [6–16 June 2026](2026-06-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.4–16.7% | 13.0–17.3% |
+| [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.9% | N/A | N/A | N/A | N/A |
 | [31 March–7 April 2026](2026-04-07-Gemius.html) | Gemius | 14.3% | 13.2–15.5% | 12.9–15.9% | 12.6–16.2% | 12.1–16.7% |
-| [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.6% | 13.6–15.7% | 13.3–16.0% | 13.0–16.3% | 12.6–16.8% |
-| [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius | 8.4% | 7.4–9.5% | 7.2–9.8% | 6.9–10.1% | 6.5–10.7% |
+| [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.6% | N/A | N/A | N/A | N/A |
+| [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius | 8.4% | N/A | N/A | N/A | N/A |
 | [16–26 December 2025](2025-12-26-Gemius.html) | Gemius | 15.5% | N/A | N/A | N/A | N/A |
 | [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.2% | N/A | N/A | N/A | N/A |
 | [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius | 10.7% | N/A | N/A | N/A | N/A |
@@ -47,11 +48,11 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 1.0% | 100% |  |
+| 11.5–12.5% | 0.9% | 100% |  |
 | 12.5–13.5% | 10% | 99.0% |  |
-| 13.5–14.5% | 34% | 89% |  |
-| 14.5–15.5% | 38% | 54% | Median |
-| 15.5–16.5% | 15% | 17% |  |
+| 13.5–14.5% | 33% | 89% |  |
+| 14.5–15.5% | 38% | 56% | Median |
+| 15.5–16.5% | 16% | 18% |  |
 | 16.5–17.5% | 2% | 2% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
@@ -65,11 +66,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–16 June 2026](2026-06-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [31 March–7 April 2026](2026-04-07-Gemius.html) | Gemius | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius | 1 | 1 | 1 | 1 | 1 |
+| [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius |  |  |  |  |  |
 | [16–26 December 2025](2025-12-26-Gemius.html) | Gemius |  |  |  |  |  |
 | [21 November–4 December 2025](2025-12-04-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [31 October–6 November 2025](2025-11-06-Gemius.html) | Gemius |  |  |  |  |  |
@@ -93,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 62% | 100% | Median |
-| 2 | 38% | 38% |  |
+| 1 | 49% | 100% |  |
+| 2 | 51% | 51% | Median |
 | 3 | 0% | 0% |  |
 
 
