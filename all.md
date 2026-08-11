@@ -2,12 +2,12 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | JS | P | SC | SDPS | ZZS | AP! | KP | LA | JV | LRA | JKP | KPV | NA | SV | LPV | LKS | ST! | CP | AJ | ASL | MMN | NST | NSL | P21 | BP | VL |
+| Period     | Polling firm/Commissioner(s) | JS | P | SC | SDPS | ZZS | AP! | KP | LA | JV | LRA | JKP | KPV | NA | SV | LPV | LKS | ST! | CP | AJ | ASL | GS | MMN | NST | NSL | BP | VL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [6–16 June 2026](2026-06-16-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | 11–14% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 6–8% <br> 1 | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | 6–9% <br> 1 | 15–19% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | 8–11% <br> 1 | 12–15% <br> 1–2 | 13–17% <br> 1–2 | 2–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–16 June 2026](2026-06-16-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | 11–14% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 6–8% <br> 1 | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | 6–9% <br> 1 | 15–19% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | 8–11% <br> 1 | 12–15% <br> 1–2 | 13–17% <br> 1–2 | 2–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 April–6 May 2026](2026-05-06-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [31 March–7 April 2026](2026-04-07-Gemius.html) | Gemius | N/A <br> N/A | 12–16% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1 | 7–10% <br> 1 | 0–1% <br> 0 | N/A <br> N/A | 7–10% <br> 1 | 5–7% <br> 1 | 13–16% <br> 1–2 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [31 March–7 April 2026](2026-04-07-Gemius.html) | Gemius | N/A <br> N/A | 12–16% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1 | 7–10% <br> 1 | 0–1% <br> 0 | N/A <br> N/A | 7–10% <br> 1 | 5–7% <br> 1 | 13–16% <br> 1–2 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–31 March 2026](2026-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 February–2 March 2026](2026-03-02-Gemius.html) | Gemius | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–26 December 2025](2025-12-26-Gemius.html) | Gemius | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -50,10 +50,10 @@ Only polls for which at least the sample size has been published are included in
 + **CP:** Centra partija (NI)
 + **AJ:** Apvienība Jaunlatvieši (*)
 + **ASL:** Austošā Saule Latvijai (*)
++ **GS:** Gobzema saraksts (*)
 + **MMN:** Mēs mainām noteikumus (*)
 + **NST:** Nacionālā Savienība Taisnīgums (*)
 + **NSL:** No sirds Latvijai (*)
-+ **P21:** Platforma 21 (*)
 + **BP:** Politiskā kustība „Bez partijām“ (*)
 + **VL:** Vienoti Latvijai (*)
 + **N/A (single party):** Party not included the published results
