@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 12 Aug 2026 16:42:49 +0200</pubDate>
+    <pubDate>Fri, 04 Sep 2026 23:00:49 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 13–19 August 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-08-19-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stabilitātei! (NI): 0 seats&lt;/li&gt;&lt;li&gt;Suverēnā vara–Apvienība Jaunlatvieši (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Mēs mainām noteikumus (*): 0 seats&lt;/li&gt;&lt;li&gt;Saskaņas Centrs (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Austošā Saule Latvijai (*): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (RE): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Gobzema saraksts (*): 0 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2026-08-19-SKDS-seats.png"
+        length="362831"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2026 23:00:49 +0200</pubDate>
+      <dc:date>2026-09-04T23:00:49.187003+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 13–19 August 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-08-19-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2026-08-19-SKDS-coalitions-seats.png"
+        length="200827"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2026 23:00:49 +0200</pubDate>
+      <dc:date>2026-09-04T23:00:49.187003+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 13–19 August 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-08-19-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stabilitātei! (NI): 2.4–4.5%&lt;/li&gt;&lt;li&gt;Suverēnā vara–Apvienība Jaunlatvieši (*): 15.1–19.3%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 5.7–8.6%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 12.3–16.2%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (PfE): 10.5–14.2%&lt;/li&gt;&lt;li&gt;Mēs mainām noteikumus (*): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Saskaņas Centrs (S&amp;amp;D): 1.4–3.0%&lt;/li&gt;&lt;li&gt;Austošā Saule Latvijai (*): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (RE): 3.1–5.3%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (EPP): 21.3–26.0%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 5.4–8.3%&lt;/li&gt;&lt;li&gt;Gobzema saraksts (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (RE): 2.9–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2026-08-19-SKDS.png"
+        length="442373"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2026 23:00:49 +0200</pubDate>
+      <dc:date>2026-09-04T23:00:49.187003+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 10–15 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-07-15-SKDS.html#seats</link>
@@ -39,6 +69,6 @@
       <pubDate>Wed, 12 Aug 2026 16:42:49 +0200</pubDate>
       <dc:date>2026-08-12T16:42:49.222595+02:00</dc:date>
     </item>
-    <dc:date>2026-08-12T16:42:49.222595+02:00</dc:date>
+    <dc:date>2026-09-04T23:00:49.187003+02:00</dc:date>
   </channel>
 </rss>
