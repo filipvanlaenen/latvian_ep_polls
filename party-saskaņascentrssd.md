@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.4% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
+| [21–31 August 2026](2026-08-31-LatvijasFakti.html) | Latvijas Fakti | 1.7% | 1.2–2.5% | 1.1–2.8% | 1.0–3.0% | 0.8–3.4% |
 | [13–19 August 2026](2026-08-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.4% |
 | [10–15 July 2026](2026-07-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
 | [6–16 June 2026](2026-06-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.8% | N/A | N/A | N/A | N/A |
@@ -39,9 +40,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 77% | 94% | Median |
-| 2.5–3.5% | 17% | 17% |  |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 69% | 82% | Median |
+| 2.5–3.5% | 13% | 13% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–31 August 2026](2026-08-31-LatvijasFakti.html) | Latvijas Fakti | 0 | 0 | 0 | 0 | 0 |
 | [13–19 August 2026](2026-08-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [10–15 July 2026](2026-07-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [6–16 June 2026](2026-06-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
