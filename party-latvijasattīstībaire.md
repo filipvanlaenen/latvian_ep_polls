@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.2–4.6% | 2.0–4.9% | 1.8–5.1% | 1.5–5.6% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.7% | 2.5–5.0% | 2.3–5.2% | 2.0–5.6% |
+| [1–23 September 2026](2026-09-23-LatvijasFakti.html) | Latvijas Fakti | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.8% | 1.8–5.4% |
 | [21–31 August 2026](2026-08-31-LatvijasFakti.html) | Latvijas Fakti | 2.6% | 2.0–3.5% | 1.8–3.8% | 1.6–4.0% | 1.4–4.5% |
 | [13–19 August 2026](2026-08-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.1% | 3.4–4.9% | 3.2–5.1% | 3.1–5.3% | 2.8–5.8% |
 | [10–15 July 2026](2026-07-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
@@ -40,12 +41,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 20% | 99.2% |  |
-| 2.5–3.5% | 32% | 79% | Median |
-| 3.5–4.5% | 35% | 47% |  |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 34% | 94% |  |
+| 3.5–4.5% | 47% | 61% | Median |
+| 4.5–5.5% | 13% | 14% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -58,6 +59,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [1–23 September 2026](2026-09-23-LatvijasFakti.html) | Latvijas Fakti | 0 | 0 | 0 | 0 | 0 |
 | [21–31 August 2026](2026-08-31-LatvijasFakti.html) | Latvijas Fakti | 0 | 0 | 0 | 0 | 0 |
 | [13–19 August 2026](2026-08-19-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–1 |
 | [10–15 July 2026](2026-07-15-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
@@ -88,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 
