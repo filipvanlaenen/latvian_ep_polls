@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/latvian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 Sep 2026 19:27:18 +0200</pubDate>
+    <pubDate>Sat, 26 Sep 2026 12:07:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Latvijas Fakti, 1–23 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-23-LatvijasFakti.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Thu, 24 Sep 2026 19:27:18 +0200</pubDate>
       <dc:date>2026-09-24T19:27:18.846849+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 4–16 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-16-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stabilitātei! (NI): 0 seats&lt;/li&gt;&lt;li&gt;Suverēnā vara–Apvienība Jaunlatvieši (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 1 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Mēs mainām noteikumus (*): 0 seats&lt;/li&gt;&lt;li&gt;Saskaņas Centrs (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Austošā Saule Latvijai (*): 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (RE): 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Gobzema saraksts (*): 0 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (RE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-16-SKDS-seats.png"
+        length="328489"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2026 12:07:16 +0200</pubDate>
+      <dc:date>2026-09-26T12:07:16.70142+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 4–16 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-16-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-16-SKDS-coalitions-seats.png"
+        length="185086"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2026 12:07:16 +0200</pubDate>
+      <dc:date>2026-09-26T12:07:16.70142+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 4–16 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-16-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stabilitātei! (NI): 2.4–3.9%&lt;/li&gt;&lt;li&gt;Suverēnā vara–Apvienība Jaunlatvieši (*): 12.7–15.7%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA (EPP): 5.8–8.0%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE (Greens/EFA): 9.0–11.6%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā (PfE): 11.9–14.9%&lt;/li&gt;&lt;li&gt;Mēs mainām noteikumus (*): 2.9–4.6%&lt;/li&gt;&lt;li&gt;Saskaņas Centrs (S&amp;amp;D): 1.8–3.2%&lt;/li&gt;&lt;li&gt;Austošā Saule Latvijai (*): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija (EPP): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Latvijas attīstībai (RE): 2.9–4.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība (EPP): 20.9–24.6%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR): 7.5–10.0%&lt;/li&gt;&lt;li&gt;Gobzema saraksts (*): 1.3–2.5%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība (RE): 5.5–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_ep_polls/2026-09-16-SKDS.png"
+        length="432485"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2026 12:07:16 +0200</pubDate>
+      <dc:date>2026-09-26T12:07:16.70142+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Latvijas Fakti, 21–31 August 2026 – Seat Projections for the Parties</title>
@@ -129,6 +159,6 @@
       <pubDate>Wed, 12 Aug 2026 16:42:49 +0200</pubDate>
       <dc:date>2026-08-12T16:42:49.222595+02:00</dc:date>
     </item>
-    <dc:date>2026-09-24T19:27:18.846849+02:00</dc:date>
+    <dc:date>2026-09-26T12:07:16.70142+02:00</dc:date>
   </channel>
 </rss>
